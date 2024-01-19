@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_9.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Ludwig Braml – Nußdorf",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Emmer Hof im schönen Chiemgau ist seit 1180 im Besitz von Familie Braml und wird aktuell von Maria und Ludwig im Nebenerwerb geführt. Unterstützung erhalten die beiden von ihrer Familie, die sich gemeinsam um die 25 ha große Ackerfläche und Wiese kümmert. Zusätzlich besitzt die Familie noch einen 25 ha großen Wald.<\/p><p>2010 folgte die Umstellung von einem Milchviehbetrieb und Stiermast zu einem Bioland zertifizierten Ackerbaubetrieb. Seit 2019 gehören Maria und Ludwig zum Anbauverband <strong>Naturland<\/strong> und bauen derzeit Dinkel, Hafer und Kleegras an.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8bfa1a35-b4bf-4e24-8ce0-5ff55560dc79": {
+      "type": "rich-text",
+      "blocks": {
+        "6285384d-3dbd-4b63-817e-0d36c91760aa": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "f7d5ed71-3971-4b25-a0fc-8fdab1c6aaf6": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Doch wieso die Umstellung auf bio?<\/strong><\/p><p><em>„Wir sind gerne Biolandwirte weil es unser Lebensgefühl wiederspiegelt, mit sich und der Natur verantwortungsbewusst umzugehen. Nicht nur für uns und unsere Familie wollen wir biologisches Getreide anbauen, sondern auch für Menschen, denen regionale Produkte frei von Pestiziden ebenfalls am Herzen liegen“,<\/em> erklärt Ludwig, der zusätzlich noch als Hausmeister arbeitet.<\/p><p><em>„Der Wunsch nach gesunden Lebensmitteln und der Erhalt unserer Artenvielfalt treibt uns an. Wie schön ist es doch, neben unseren Feldern zu gehen, dem Summen der Tiere zu lauschen und die bunten Blüten von Mohn, Kornblume und Co zu bestaunen“<\/em>, ergänzt Maria.<\/p><p>Dafür vertrauen die beiden auch auf besondere Anbau- und Arbeitsmethoden.<\/p><p><em>„Wir silieren unsere Grünflächen und bringen dies gemeinsam mit Holzkohle, Gesteinsmehl und EM als natürliche Düngung auf unsere Ackerflächen aus. Außerdem legen wir großen Wert auf eine natürliche Fruchtfolge mit z.B. Anbau von Kleegras für den Stickstoff im Boden.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "5da32858-d559-486a-89b0-bb88893aeff0": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "6285384d-3dbd-4b63-817e-0d36c91760aa",
+        "f7d5ed71-3971-4b25-a0fc-8fdab1c6aaf6",
+        "5da32858-d559-486a-89b0-bb88893aeff0"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "822792f8-53ea-49bf-92b9-857401f92323": {
+      "type": "gallery",
+      "blocks": {
+        "086a078b-11d4-40e1-94ac-25af0835cfb9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "148eedc1-178b-4355-8cdd-7a76bfebfced": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_8.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "3bd7335b-3606-443e-b7ea-e3b05edd6839": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braml_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        }
+      },
+      "block_order": [
+        "086a078b-11d4-40e1-94ac-25af0835cfb9",
+        "148eedc1-178b-4355-8cdd-7a76bfebfced",
+        "3bd7335b-3606-443e-b7ea-e3b05edd6839"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8b899ba2-3fd0-451a-90b7-cb5792b6f5c2": {
+      "type": "rich-text",
+      "blocks": {
+        "23eae6bf-79b6-4d55-a7e4-a07b2f2fe8e2": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c8762a8d-a735-420b-8e2b-de15878c06ba": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Barnhouse-Partnerschaft seit 10 Jahren<\/strong><\/p><p>Übrigens sind die beiden bereits seit Beginn der Liefergemeinschaft Lieferanten für Barnhouse.<\/p><p><em>„Uns gefällt es sehr gut, zu wissen wo und wie unser Getreide weiterverarbeitet wird. Besonders positiv finden wir die Umstellung auf 100% Regionalität und keinerlei Verwendung von künstlichen Aroma- und Zusatzstoffen. Erst dann ist ein Produkt für uns wirklich ‚echt‘“.<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "ecd20130-26b1-4413-bf79-3bdb0cc1ef61": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "23eae6bf-79b6-4d55-a7e4-a07b2f2fe8e2",
+        "c8762a8d-a735-420b-8e2b-de15878c06ba",
+        "ecd20130-26b1-4413-bf79-3bdb0cc1ef61"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "8bfa1a35-b4bf-4e24-8ce0-5ff55560dc79",
+    "822792f8-53ea-49bf-92b9-857401f92323",
+    "8b899ba2-3fd0-451a-90b7-cb5792b6f5c2"
+  ]
+}

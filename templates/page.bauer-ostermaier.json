@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_Startbild.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_13.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_8.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Georg Ostermaier – Garching",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Ich möchte die Welt durch den Einsatz moderner Technologie nachhaltiger machen“.<\/h2><p>Georg Ostermaier ist Elektroingenieur und promovierter Betriebswirt, <br\/>übernahm 2005 den Hof Schönstadt von seinen Eltern und führt diesen nun im Nebenerwerb. Hauptberuflich entwickelt er mit seiner eigenen IT-Firma  <a href=\"https:\/\/www.dtrees.com\/\">decision trees<\/a> in München Software und mathematische Modelle für die Energiewirtschaft, insbesondere für Wasserkrafterzeuger.<\/p><p><strong>Doch wie kommt jemand wie Georg überhaupt zur Landwirtschaft?<\/strong><\/p><p><em>„Ich bin mit der Landwirtschaft aufgewachsen. Ich liebe <br\/>Feldarbeit und ich liebe es zu sehen, wie alles wächst. Mein Vater hat konventionell gewirtschaftet, hat aber immer sehr wenig Kunstdünger oder Spritzmittel eingesetzt. Ich bin also schon damit aufgewachsen, dass Chemie auf den Feldern nicht wirklich gut ist. Dann bin ich ein <br\/>grundsätzlich sehr ehrgeiziger Mensch und ich wollte unbedingt gute Erträge auf den Feldern haben ohne Chemie. Das ist mir am Anfang nur zum Teil gelungen, jetzt nach vielen Lehrjahren deutlich besser. Ich bin <br\/>sehr stolz und glücklich über meine Bio-Felder“<\/em>, erklärt der<strong> Biokreis<\/strong>-Landwirt.<\/p><p>Als Georg den Hof, der bereits seit Ende des 19. Jahrhunderts im <br\/>Familienbesitz ist und erst als Milchviehbetrieb bewirtschaftet wurde, 2005 übernahm, stellte er ihn gleich auf ökologischen Ackerbau um. Dort baut er neben Hafer und Dinkel auch Weizen, Roggen, Tritikale, Ackerbohnen und Sojabohnen an. 2020 probierte er auch zum ersten Mal <br\/>Sonnenblumen und ein Gemenge aus Senf und Erbsen aus. Der Senf geht übrigens an „unsere Nachbarn“ <a href=\"https:\/\/www.byodo.de\/index\/\">Byodo<\/a>.<\/p><p>Unterstützt wird Georg von Marianne, die Vollzeit auf dem Hof arbeitet und sich auch um die Felder kümmert. Bei Arbeitsspitzen holen sich die beiden meisten noch ein bis zwei Helfer dazu.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_11.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7eea16ce-7ccf-4dbd-b471-3dfdf18a495d": {
+      "type": "rich-text",
+      "blocks": {
+        "e805fdfd-72d2-4ad8-9bd3-8306108664a8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "6dddbe8b-a8ae-418f-aa0c-b494ca4a3fa9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hier kommt modernste Technik zum Einsatz<\/strong><\/p><p>Georg Ostermaier setzt bei seinem Ackerbau viel auf Pflug, jedoch auch auf Technik. So ist er in der Region einer der ersten, der eine Kameraführung für sein Hackgerät verwendet und auch Photovoltaikanlagen findet man bei ihm zu genüge. So möchte er durch den Einsatz modernster <br\/>Technologie die Welt nachhaltiger machen.<\/p><p><em>„In meinem Hauptberuf mache ich Energie-Optimierung. Meine Firma,  meine Mitarbeiter und ich leisten einen Beitrag zum Gelingen der Energiewende. Unsere Lebensgrundlagen insgesamt können nur erhalten <br\/>werden, wenn wir in so wesentlichen Bereichen wie der Landwirtschaft und der Energiewirtschaft viel viel mehr auf Nachhaltigkeit setzen. Das ist meine Hauptmotivation für alles was ich beruflich mache, nicht nur in der Landwirtschaft. Das Ziel kann aber nur mit dem Einsatz modernster Technologie erreicht werden. Das reicht vom Einsatz hocheffizienter <br\/>Optimierungsalgorithmen auch künstlicher Intelligenz für den Betrieb von Pumpspeichersystemen bis hin zum Einsatz von Kamerasteuerungen für <br\/>Soja-Hackgeräte. Ich möchte die Welt durch den Einsatz moderner <br\/>Technologie nachhaltiger machen“,<\/em> erklärt er.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "9f5195ff-9741-40b2-b799-04ca58baf9c0": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "e805fdfd-72d2-4ad8-9bd3-8306108664a8",
+        "6dddbe8b-a8ae-418f-aa0c-b494ca4a3fa9",
+        "9f5195ff-9741-40b2-b799-04ca58baf9c0"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6b99b937-436c-4afe-9948-44eaf1797766": {
+      "type": "gallery",
+      "blocks": {
+        "3d655451-f07c-4478-9e03-c0b4d101ea18": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "e4c998ff-bfdf-480a-a51e-7aea15649ca8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_12.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "13874a5d-2f9a-40e0-a362-be6de22b9f75": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Ostermaier_10.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "3d655451-f07c-4478-9e03-c0b4d101ea18",
+        "e4c998ff-bfdf-480a-a51e-7aea15649ca8",
+        "13874a5d-2f9a-40e0-a362-be6de22b9f75"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "68e53098-c727-4643-8945-c32bce4e6b03": {
+      "type": "rich-text",
+      "blocks": {
+        "76c222da-6123-4047-91b6-603b83a412cd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "0b9b9500-a19d-41cf-ada6-1e1348d121a3": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Noch mehr Leute sollen die bio-Landwirtschaft verstehen<\/strong><\/p><p>Ein weiteres Ziel von Georg ist, dass noch mehr Leute die <br\/>Bio-Landwirtschaft verstehen. „Ich erinnere mich an meine Anfangsjahre, in denen ich von den Nachbarn sehr belächelt wurde und mir keiner zugetraut hat, dass ich die Bio-Landwirtschaft lange machen werde.“<\/p><p>Um sein Ziel noch besser zu erreichen, ist er auch Barnhouse-Partner geworden: <em>„Mir gefällt sehr das Marketing und die Außendarstellung von Barnhouse, die auch die Bio-Landwirte mit einbezieht. Ich freu mich auch über die Feldschilder. Es ist super, dass vorbei fahrende Leute jetzt wissen, für wen wir den Hafer anbauen. Das trägt dazu bei, dass noch mehr Leute die Bio-Landwirtschaft verstehen und unterstützen.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "538ece27-0f0e-45c9-bf51-a95412c2711a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "76c222da-6123-4047-91b6-603b83a412cd",
+        "0b9b9500-a19d-41cf-ada6-1e1348d121a3",
+        "538ece27-0f0e-45c9-bf51-a95412c2711a"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "7eea16ce-7ccf-4dbd-b471-3dfdf18a495d",
+    "6b99b937-436c-4afe-9948-44eaf1797766",
+    "68e53098-c727-4643-8945-c32bce4e6b03"
+  ]
+}

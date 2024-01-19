@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Anton Eibl – Fraunberg",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Alles geht besser mit Ruhe und Gelassenheit… oder scheiß da nix, dann feit da nix“<\/h2><p>Der Heimer Hof in Fraunberg wird von Anton Eibl und seiner Familie im Nebenerwerb geführt und ist seit ca. 1900 im Familienbesitz. Damals hat Antons Urgroßvater Anton Forster den Hof erworben. 1966 übernahm Antons Vater den Hof und baute einen Milchviehbetrieb auf, es folgten der Neubau von Stallungen und Garagen zum Dreiseithof. 2002 übernahm Anton den Hof und stellte ihn bis 2004 komplett auf bio um. Ein Jahr später installierte man Photovoltaik-Anlagen auf dem ehemaligen Stallgebäude.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_8.jpg",
+            "image_position": "20% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0f08c270-4804-4329-975d-55c7c7ae482f": {
+      "type": "rich-text",
+      "blocks": {
+        "347ddf76-7e29-468e-9abe-9eca78ccdae9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "492f0cb4-dea6-4b7c-8696-dc2e6988396e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Hof mit 16,2 ha landwirtschaftlichem Grund wird von Anton uns seiner Frau im Nebenerwerb geführt. Während Antons Frau in der Förderstätte der Behinderteneinrichtung Algasing Teilzeit arbeitet, ist der <strong>Bioland<\/strong> und <strong>Tagwerk<\/strong>-Bauer im Landwirtschaftsamt Weilheim im landwirtschaftlichen Prüfdienst tätig. Zudem arbeitet er im Pfarrverband Bockhorn als Organist und Chorleiter.<\/p><p>Der Hof wird jedoch als reiner Familienbetrieb geführt. <em>„Mein Vater geht mit 86 Jahren noch immer gerne zum Ampfer- und Distelstechen“<\/em>, erzählt Anton. Während der Hof früher ein Milchviehbetrieb war, findet man heute nur noch Hühner und drei Bienenvölker auf dem Hof. Neben Hafer und Dinkel bauen die Eibls auch Leindotter und Rotklee zur Samenvermehrung an. Das Grünland wird zweimal im Jahr geheut und ist in Vertragsnaturschutzprogrammen.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "69388b7d-0c9b-4733-83c7-04151b5e0717": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "347ddf76-7e29-468e-9abe-9eca78ccdae9",
+        "492f0cb4-dea6-4b7c-8696-dc2e6988396e",
+        "69388b7d-0c9b-4733-83c7-04151b5e0717"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3f8a7b2c-aac7-4638-a39c-4928a12b4be8": {
+      "type": "gallery",
+      "blocks": {
+        "e31b5834-3075-4c9a-be01-fb4d1b4f6463": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "ac7b926f-f6c6-435b-98e1-b695aecbe20d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "6467b512-9bdc-443b-b96b-597b09c4ad01": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Eibl_9.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "e31b5834-3075-4c9a-be01-fb4d1b4f6463",
+        "ac7b926f-f6c6-435b-98e1-b695aecbe20d",
+        "6467b512-9bdc-443b-b96b-597b09c4ad01"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a8c32535-eda4-44df-87ef-18cc2a02a556": {
+      "type": "rich-text",
+      "blocks": {
+        "589063d5-4a97-4594-8014-ac282c2927f0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "e3ad6d51-7985-4763-8744-3ef9b70fd709": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Darum ist Anton Eibl gerne Bio-Landwirt<\/strong><\/p><p><em>„Der Wunsch, die Schöpfung bestmöglich zu bewahren, Lebensmittel gesund zu erzeugen, regional zu vermarkten, zu sehen wie es gegenüber den konventionelle Betrieben auch bei mir wächst und gedeiht. Mein Vater war anfangs großer Gegner von der Umstellung auf bio, seit dem er aber gesehen hat das auch jetzt noch was wächst (Haferkörner viel größer als vorher – sein Lieblingsspruch) macht er mittlerweile sogar Werbung für bio.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "cd1e6741-515f-4328-944b-564c6fa6367b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "589063d5-4a97-4594-8014-ac282c2927f0",
+        "e3ad6d51-7985-4763-8744-3ef9b70fd709",
+        "cd1e6741-515f-4328-944b-564c6fa6367b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "0f08c270-4804-4329-975d-55c7c7ae482f",
+    "3f8a7b2c-aac7-4638-a39c-4928a12b4be8",
+    "a8c32535-eda4-44df-87ef-18cc2a02a556"
+  ]
+}

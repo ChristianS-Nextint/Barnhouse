@@ -1,0 +1,68 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "0c2353c8-e7aa-418b-aac7-2983d98c2d1e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18891257446736__0c2353c8-e7aa-418b-aac7-2983d98c2d1e-16832280347364826c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Reklamation",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18891257446736__0c2353c8-e7aa-418b-aac7-2983d98c2d1e-16832280347364826c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Liebe Kundin, lieber Kunde,<\/h2><p>wir bedauern es sehr, dass dir unser Produkt Grund zur Beanstandung gegeben hat. Eine einwandfreie Qualität ist unser oberstes Ziel und du darfst diese immer von uns erwarten. Ohne Wenn und Aber.<\/p><p>Deshalb gehen wir jeder Beanstandung sehr sorgfältig nach — und können so Barnhouse Produkte auch dank deiner Hilfe noch besser machen.<\/p><p>Mit dem Ausfüllen dieses Formulars erleichterst du uns die Bearbeitung deiner Reklamation sehr und wir werden uns so schnell wie möglich mit dir in Verbindung setzen.<\/p><p><strong>WICHTIG:<\/strong> Wenn noch vorhanden, bewahre bitte das Originalprodukt sowie etwaige Fremdkörper (z.B. Haferspelzen u.ä.) unbedingt vorerst noch auf – eventuell benötigen wir diese zur Bearbeitung. In diesem Fall erhältst du einen fertig frankierten Versandbeutel per Post von uns.<\/p><p>Herzlichen Dank im Voraus.<\/p><p><em>Die von dir gesendeten Daten über das Kontaktformular erheben wir ausschließlich zum Zwecke einer vollständigen und schnellstmöglichen Bearbeitung deines Anliegens. Wir erheben, speichern und verarbeiten deine Daten nur so lange, soweit dies für die Abwicklung deiner Anfrage und für die Korrespondenz mit dir erforderlich ist. Die Nutzung unseres Kontaktformulars unterliegt dem Datenschutzrecht. Näheres erfährst du in unser Datenschutzerklärung.<\/em><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18891257446736__0c2353c8-e7aa-418b-aac7-2983d98c2d1e-16832280347364826c-0",
+        "template--18891257446736__0c2353c8-e7aa-418b-aac7-2983d98c2d1e-16832280347364826c-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d65c29a3-55ad-4dd0-a32d-02749262759d": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"yMytRHZeN7JSr5-0FC2IaQ\"><\/div>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "0c2353c8-e7aa-418b-aac7-2983d98c2d1e",
+    "d65c29a3-55ad-4dd0-a32d-02749262759d"
+  ]
+}

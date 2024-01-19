@@ -1,0 +1,328 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_6.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_Startbild.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Johannes Hobmaier – Neumarkt St. Veit",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Nicht gegen die Natur arbeiten, sondern mit der Natur“<\/h2><p>Der Reischberger Hof ist schon seit über 100 Jahren im Besitz von Familie Hobmaier und wurde 1900 nach einem Brand sogar komplett neu aufgebaut. Sohn Johannes kümmert sich in dem Familienbetrieb um den Feldbau und die Bio-Zertifizierung und hat vor einiger Zeit auch den Kontakt zu Barnhouse hergestellt.<\/p><p>Auf dem 75 ha großen Betrieb wird einiges angebaut. Neben Brotweizen, Triticalen, Mais, Luzernen und Kleegras findet man auch hin und wieder Lupinen und Ackerbohnen. Zudem hat die Familie 60 Milchkühe mit eigener Nachzucht, 20 Hennen, 5 Katzen und einen Hund. So wird es auf dem Hof wohl nie langweilig und man hat genügend Arbeit zu tun.<\/p><p>Deshalb wird der Hof auch von Johann und Martina Hobmaier im Vollerwerb geführt. Sohn Johannes arbeitet nebenbei noch als SAP Key User.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0a2de431-91c3-4ec9-8fbe-7da19b772b3a": {
+      "type": "rich-text",
+      "blocks": {
+        "2b70f5e8-81fa-4c1e-bcb2-e3c8fdab8ff8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "3202076c-a22f-4e8b-86a0-631c06af3134": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Doch wie kam die Umstellung auf bio?<\/strong><\/p><p>2016 wurde der Betrieb auf bio umgestellt und ist Mitglied im Anbauverband <strong>Naturland<\/strong>.<em> „Mir macht das Arbeiten mit der Natur sehr viel Spaß und ich kann jeden Tag aufs Neue interessante Vorkommnisse feststellen und hinterfragen“<\/em>, verrät und Johannes. Dabei macht ihn vor allem das Herstellen von guten Lebensmitteln richtig stolz.<\/p><p><em>„Es ist mir wichtig, gesunde und hochwertige Lebensmittel herzustellen und gleichzeitig auch noch das Klima zu verbessern. In unserer Gegend sind wir die einzigen Bio-Landwirte. Umso mehr freut es mich dann, wenn konventionelle Nachbarn, die zuerst gelacht habe, als wir umgestellt haben, dann zu mir kommen und fragen, wie das möglich ist, dass man zwischen ihren und unseren Feldern keinen Unterschied kennt. Das motiviert mich noch mehr“<\/em>, erklärt der junge Landwirt.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "8639a0a7-2ad8-4f82-862a-8fb4319d0067": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "2b70f5e8-81fa-4c1e-bcb2-e3c8fdab8ff8",
+        "3202076c-a22f-4e8b-86a0-631c06af3134",
+        "8639a0a7-2ad8-4f82-862a-8fb4319d0067"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "06c90020-1fdf-49d3-a868-bbf5bf58814c": {
+      "type": "gallery",
+      "blocks": {
+        "bb8c2a59-cca2-4f2a-beec-93592feffab2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "753e582e-a51b-4dfb-be65-de86d9a2b562": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hobmaier_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "bb8c2a59-cca2-4f2a-beec-93592feffab2",
+        "753e582e-a51b-4dfb-be65-de86d9a2b562"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "baeb2fbd-9f45-47ab-bdd2-ef58ffd70db8": {
+      "type": "rich-text",
+      "blocks": {
+        "c295a0fc-84b3-4832-a08f-62227cc65529": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "220310c6-3175-490d-9d19-d1c3c86688e0": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Diese Arbeitsmethoden werden bei Familie Hobmaier angewandt<\/strong><\/p><p><em>„Der Boden und das Bodenleben liegen mir sehr am Herzen. Es vergeht fast kein Tag wo ich nicht mit dem Spaten aufs Feld gehe und nach den Bodenbewohnern schaue. Deshalb wurde der komplette Ackerbau 2015 auf Pfluglose Bewirtschaftung umgestellt. Der Mist, der bei den Rindern anfällt, wird zu einen MC Kompost umgesetzt und dieser dann als Futter für Regenwürmer und Mikroorganismen aufs Feld gefahren. Was mir auch wichtig ist den Humus im Boden aufzubauen um CO² im Boden zu speichern, weil so kann ich auch meinen Teil am Klimaschutz beitragen“.<\/em><\/p><p><strong>Getreide regional vermarkten<\/strong><\/p><p>Dass das angebaute Getreide regional vermarktet wird, war Johannes sehr wichtig. Denn so spart man sich lange Transportwege und kann noch etwas mehr zum Umweltschutz beitragen. Umso mehr freut es ihn, in uns einen Partner gefunden zu haben. Denn so weiß er immer, wo sein Hafer verwendet wird – und dann schmeckt das Knuspermüsli bestimmt doppelt so gut. 😉<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "5a772b50-4988-41c0-a04e-6d7ec22d1872": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "c295a0fc-84b3-4832-a08f-62227cc65529",
+        "220310c6-3175-490d-9d19-d1c3c86688e0",
+        "5a772b50-4988-41c0-a04e-6d7ec22d1872"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "0a2de431-91c3-4ec9-8fbe-7da19b772b3a",
+    "06c90020-1fdf-49d3-a868-bbf5bf58814c",
+    "baeb2fbd-9f45-47ab-bdd2-ef58ffd70db8"
+  ]
+}

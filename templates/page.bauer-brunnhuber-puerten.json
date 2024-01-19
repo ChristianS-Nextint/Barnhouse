@@ -1,0 +1,716 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_14.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_17.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_6.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Martin Brunnhuber – Pürten",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h4><em>„Der Brunnhuberhof ist ein lebendiger Ort. Ob Mensch, Tier oder Pflanzen – bei uns soll es bunt sein. Wir sehen in der Liebe zum Detail einen unschätzbaren Wert und möchten dazu beitragen Natur zu schützen, Vielfalt zu bewahren und Baukunst vergangener Tage zu erhalten.“<\/em><\/h4>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_9.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_8.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4c912335-e49d-4269-9a8e-bab5eecf4600": {
+      "type": "rich-text",
+      "blocks": {
+        "a697235d-1797-453f-970f-646abd496604": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9e278d53-6f8d-4639-ab2d-cf8addae8708": {
+          "type": "text",
+          "settings": {
+            "text": "<p>So lautet die Philosophie der <a href=\"https:\/\/barnhouse.de\/unsere-bio-bauern\/die-barnhouse-partner-landwirte\/\">Barnhouse Partner-Landwirte<\/a> Martin und Elisabeth. Dass sie diese auch leben, merkt jeder, der schon einmal Gast auf dem <strong>Brunnhuberhof in Pürten<\/strong>, einem kleinen Dorf inmitten der Flusslandschaft des Inntals war.<\/p><p>Der Hof liegt im Ortskern des kleinen Dorfes und ist Treffpunkt für Dorfbewohner und Gäste. Schon lange bevor NATURLAND-Landwirt Martin Brunnhuber den Hof von seinen Eltern übernommen hat, diente der Innenhof seines Anwesens als Dorfplatz. Diese Tradition wollen der Landwirt und seine Familie weiterführen.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "9f48f72f-9a31-4c60-b99a-6624cf4b2287": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "a697235d-1797-453f-970f-646abd496604",
+        "9e278d53-6f8d-4639-ab2d-cf8addae8708",
+        "9f48f72f-9a31-4c60-b99a-6624cf4b2287"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "72f0edec-33d2-4c83-bb88-91170a3a10fe": {
+      "type": "gallery",
+      "blocks": {
+        "a68c5cab-68e9-4d3e-b6d6-cf2222e1a19a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_18.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "21d8ace7-9a4d-400e-bee0-97fccbea57bc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c25bf668-0b4c-4c3b-918c-04a9973ee8f4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "a68c5cab-68e9-4d3e-b6d6-cf2222e1a19a",
+        "21d8ace7-9a4d-400e-bee0-97fccbea57bc",
+        "c25bf668-0b4c-4c3b-918c-04a9973ee8f4"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "654e5b11-3b41-4c96-a851-6b4af87f7ecf": {
+      "type": "rich-text",
+      "blocks": {
+        "f02a6a63-ee7a-46cd-9390-ce070e4cc1d3": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "fab0cdfe-7f38-42d6-9d85-acf0bd90cc1c": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>„Schon immer stellte dieses Anwesen und die zugehörige Landwirtschaft Arbeitsplätze, Lebensmittel und einen Mittelpunkt für das Dorfleben. Uns liegt die Geschichte des Hofes sehr am Herzen und so sehen wir es als unsere Aufgabe die Geschichte in Verantwortung und mit Wertschätzung für die Vergangenheit fortzuschreiben“<\/em>, liest man auf der Homepage der Familie.<\/p><p>Martin Brunnhuber will jedoch nicht nur die Tradition wahren. Er passt sich auch der heutigen Zeit an und setzt – trotz anfänglichem Gegenwind – auf <a href=\"https:\/\/brunnhuberhof.de\/landwirtschaft\/\">Ökologie und Nachhaltigkeit<\/a>.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "48541f33-9ea4-49a5-b49f-80df0726a11d": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "f02a6a63-ee7a-46cd-9390-ce070e4cc1d3",
+        "fab0cdfe-7f38-42d6-9d85-acf0bd90cc1c",
+        "48541f33-9ea4-49a5-b49f-80df0726a11d"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8f6118e9-51d5-4064-9ddf-d7ccb68b2640": {
+      "type": "gallery",
+      "blocks": {
+        "62a3cb7c-4cd4-493b-98a7-cc8de44b6a3a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "9cf9de8c-e90b-4a17-b9b3-d5cd75200935": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_13.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "7a1e59f6-cc1a-40fe-b5f3-f7f34ab6ad20": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_11.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "62a3cb7c-4cd4-493b-98a7-cc8de44b6a3a",
+        "9cf9de8c-e90b-4a17-b9b3-d5cd75200935",
+        "7a1e59f6-cc1a-40fe-b5f3-f7f34ab6ad20"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1c16289e-5249-47d8-a0b7-18009f03dbce": {
+      "type": "rich-text",
+      "blocks": {
+        "d964f207-1f47-4ed9-a8f0-80c1c0ec3dc6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "d1a1ab5c-673e-4a43-88ed-744f38d4682a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der gesamte landwirtschaftliche Betrieb wird <strong>biologisch und gentechnikfrei <\/strong>bewirtschaftet. <em>„Auf unseren Feldern entlang des Inns wachsen alte und robuste Getreidesorten wie Feldfrüchte, die regional vermarktet oder hier an unsere Tiere verfüttert werden. Unsere Kühe und Schafe, die Hühner, Enten und Hasen genießen das Platzangebot auf unserem Hof und lieben es von unseren Gästen gestreichelt und verwöhnt zu werden.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "9817e657-e559-4c81-83d9-88b5c1551736": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "d964f207-1f47-4ed9-a8f0-80c1c0ec3dc6",
+        "d1a1ab5c-673e-4a43-88ed-744f38d4682a",
+        "9817e657-e559-4c81-83d9-88b5c1551736"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a3d96d36-ae2c-40b3-8f18-7f68cbb6333c": {
+      "type": "gallery",
+      "blocks": {
+        "d50a0762-3a93-4100-ab0f-f0ec8ed64eb2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_16.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "f65139d6-49ee-4742-979b-48607e2c55d3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_10.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "b169c25a-97a3-4fce-a12c-ddbc7965baf9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "d50a0762-3a93-4100-ab0f-f0ec8ed64eb2",
+        "f65139d6-49ee-4742-979b-48607e2c55d3",
+        "b169c25a-97a3-4fce-a12c-ddbc7965baf9"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d256c6c8-a27b-4e8b-8265-6116d1f821fe": {
+      "type": "rich-text",
+      "blocks": {
+        "5d19d483-4ac8-4b16-9aa6-8f59a9b9891b": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "534d251e-bb23-4ce2-ae7f-030acfa5ac6a": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Auch für Barnhouse baut Martin an. Für <strong>unser leckeres Krunchy<\/strong> versorgt uns der sympathische Landwirt mit Bio-Hafer, den er auf zwei seiner Felder anbaut.<\/p><p>Während wir uns mit dem <a href=\"https:\/\/barnhouse.de\/allgemein\/neues-vom-barnhouse-ackerwildkraeuter-projekt\/\">Ackerwildkräuter-Projekt<\/a> für mehr Artenvielfalt einsetzen, startete im Oktober 2018 auch Martin das Projekt „<a href=\"https:\/\/brunnhuberhof.de\/news\/artenvielfalt-in-wiesen\/\">Artenvielfalt in Wiesen<\/a>“. Damit auch die nächste Generation sieht, wie wichtig die Natur für uns ist, bietet er <strong>regelmäßig Naturnachmittage für Kinder<\/strong> an.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "cbe7b31d-e8c3-4bf8-9db9-5d08056ad87b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5d19d483-4ac8-4b16-9aa6-8f59a9b9891b",
+        "534d251e-bb23-4ce2-ae7f-030acfa5ac6a",
+        "cbe7b31d-e8c3-4bf8-9db9-5d08056ad87b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e5be191a-eada-466d-8200-5441d8604874": {
+      "type": "gallery",
+      "blocks": {
+        "690ee09b-49ca-4041-903c-0a7e617f78c4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c5e01b28-f850-45a9-848a-7e3bd6fbda77": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_15.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "d9147064-c51d-4195-9e61-fbc52f9b4a5d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brunnhuber_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "690ee09b-49ca-4041-903c-0a7e617f78c4",
+        "c5e01b28-f850-45a9-848a-7e3bd6fbda77",
+        "d9147064-c51d-4195-9e61-fbc52f9b4a5d"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e44352aa-e692-43a8-a7a1-2d3beb841640": {
+      "type": "rich-text",
+      "blocks": {
+        "ca9ea2c0-784c-4c27-af8b-32be96ac3493": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "f7e10813-0a5a-43dd-8a42-10f867cbc810": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wer sich selbst ein Bild von dem landwirtschaftlichen Anwesen machen will, kann eine der <a href=\"https:\/\/brunnhuberhof.de\/ferienwohnungen\/\">Ferienwohnungen auf dem Brunnhuberhof<\/a> mieten. Als Gäste der Familie Brunnhuber findet ihr dort die perfekte Möglichkeit abzuschalten und neue Energie zu tanken.<\/p><p>Doch auch auf unserer neuen <a href=\"https:\/\/barnhouse-onlineshop.myshopify.com\/collections\/all\/products\/cornflakes-original\" title=\"https:\/\/barnhouse-onlineshop.myshopify.com\/collections\/all\/products\/cornflakes-original\">Cornflakes Original<\/a> Verpackung könnt ihr euch ein Bild von Martin und seiner Familie machen. Auf der Rückseite erfahrt ihr spannende Fakten zu Martins Einsatz für <strong>ein artenreiches Grünland<\/strong> und wie seine eigene Hofgeschichte auf dem Brunnhuberhof begann.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "3051cfde-4e39-4623-b11e-01e1a3254e3b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "ca9ea2c0-784c-4c27-af8b-32be96ac3493",
+        "f7e10813-0a5a-43dd-8a42-10f867cbc810",
+        "3051cfde-4e39-4623-b11e-01e1a3254e3b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "4c912335-e49d-4269-9a8e-bab5eecf4600",
+    "72f0edec-33d2-4c83-bb88-91170a3a10fe",
+    "654e5b11-3b41-4c96-a851-6b4af87f7ecf",
+    "8f6118e9-51d5-4064-9ddf-d7ccb68b2640",
+    "1c16289e-5249-47d8-a0b7-18009f03dbce",
+    "a3d96d36-ae2c-40b3-8f18-7f68cbb6333c",
+    "d256c6c8-a27b-4e8b-8265-6116d1f821fe",
+    "e5be191a-eada-466d-8200-5441d8604874",
+    "e44352aa-e692-43a8-a7a1-2d3beb841640"
+  ]
+}

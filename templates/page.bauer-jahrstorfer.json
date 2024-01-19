@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_Startbild.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_8.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Stefan & Adrian Jahrstorfer – Eichendorf",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Jahrstorfer Hof liegt gute 60 km nordöstlich von Barnhouse im niederbayerischen Eichendorf. Ein echter Familienbetrieb – geführt von Vater Stefan und Sohn Adrian, die sich in den saisonalen Spitzen Unterstützung durch landwirtschaftliche Hilfskräfte holen. Seit 1990 gehören sie dem Anbauverband <strong>BIOLAND <\/strong>an. Warum bio?<em> “Bio ist für uns alternativlos für eine nachhaltige Wirtschaftsweise.”, <\/em>bringt Adrian es auf den Punkt.<em>“Und natürlich bedeutet es ganz klar: Weg von der Chemie und der Abhängigkeit von Konzernen!”<\/em><\/p><p>Die Jahrstorfers bauen für Barnhouse Dinkel und Hafer an. “<em>Wir freuen uns, mit Barnhouse einen regionalen Partner gefunden zu haben, der einen fairen Preis bezahlt.”<\/em>, begründet der junge Landwirt sein Engagement. Die weiteren Erzeugnisse des Hofes sind sehr vielfältig – Lebensmittel für Mensch und Tier. Neben Weizen, Erbsen, Ackerbohnen, Rotklee und Zuckerrüben wachsen auch Mais, Soja, Hanf, Lein, Zwiebeln und Sonnenblumen. Seit 1992 stellen die Bio-Landwirte mit einer Schneckenpresse im Kaltpressverfahren hochwertiges Öl her.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_9.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "faa980be-2f94-4b93-a5c3-908448cef796": {
+      "type": "rich-text",
+      "blocks": {
+        "d08c1659-4ae9-4d0a-8042-c1b457d1c3f9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "6cb7a7d6-b7c7-46f1-bb54-2cf2b97cf117": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Vom ureigentlichen Wert biologisch erzeugter Nahrung<\/strong><\/p><p>Die Jahrstorfers haben im Laufe der vergangenen Hafer-Saison immer mal wieder während ihrer Feldarbeit die Kamera gezückt und auf den Auslöser gedrückt. Damit haben sie dokumentiert, wie sie als Bio-Bauern ihr Haferfeld bearbeiten müssen, um das Unkraut ganz ohne Agrochemie unter Kontrolle zu halten. Das ist für uns ein wunderbarer Aufhänger, diesen Aspekt des Öko-Landbaus hier zu veranschaulichen. Denn auch das ist ein Ziel unseres Regional-Projekts – von der Arbeit des Bio-Landwirts zu erzählen und den Wert dieser Arbeit bewusst zu machen.<\/p><p>Der Verzicht auf den Einsatz von Herbiziden macht eine Fülle von zusätzlichen Arbeiten notwendig. Zeitpunkt der Aussaat, die Qualität des organischen Dungs, die Beschaffenheit des Bodens, die Art und Weise der mechanischen Unkrautregulierung – all das und vieles mehr muss der Bio-Landwirt beachten, damit sich das wertvolle Getreide – unbeeinträchtigt von Unkraut – optimal entwickeln kann. Damit wird auch der ureigentliche Wert biologisch erzeugter Nahrung wieder deutlich:<br\/>Der Mehraufwand im Öko-Landbau ist eine Investition in den Erhalt einer gesunden Natur.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "c5ea259f-8efd-4c34-b124-07e2ef6dba39": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "d08c1659-4ae9-4d0a-8042-c1b457d1c3f9",
+        "6cb7a7d6-b7c7-46f1-bb54-2cf2b97cf117",
+        "c5ea259f-8efd-4c34-b124-07e2ef6dba39"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d8b728b3-d1d7-4824-86cb-e1a040b20b6d": {
+      "type": "gallery",
+      "blocks": {
+        "7f6fe45c-5345-4224-a61a-252c9319932f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "039a0f50-1c49-4722-ad30-eb06fc980cb7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_10.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "85ac7638-80a0-44c2-8be7-f112db878e62": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Jahrstorfer_7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "7f6fe45c-5345-4224-a61a-252c9319932f",
+        "039a0f50-1c49-4722-ad30-eb06fc980cb7",
+        "85ac7638-80a0-44c2-8be7-f112db878e62"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a2233ab3-44e7-4d16-a8e5-064b7d7da1d9": {
+      "type": "rich-text",
+      "blocks": {
+        "6f04a988-a078-41bd-b5b4-233075cbe4f2": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "26a1c363-6af1-421a-9b14-9d7db83d9ddc": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>So macht’s der Bio-Bauer: Hacken und Striegeln – ohne Agrochemie<\/strong><\/p><p>Wie auf der unten folgenden Bilderserie zu sehen, hält unser Partner-Landwirt Adrian das Unkraut auf seinen Getreidefelder durch Hacken und Striegeln in Schach – zwei Methoden, die typisch für den Bioanbau sind. <em>“Beim Hacken wird mit einem Schar zwischen den Reihen der Kultur – z.B. Hafer oder Dinkel – das Unkraut ausgehackt. Dabei wird mit einer Hackmaschine zwischen den Reihen hindurch gefahren. Ein weiterer Effekt vom Hacken ist, dass kleine Unkräuter in der Reihe verschüttet werden.”<\/em>, erklärt Biobauer Adrian und ergänzt: <em>“Beim Striegeln wird die ganze Fläche mit feinen, von Federn gespannten Zinken bearbeitet. Dabei wird der Zinkendruck so eingestellt, dass die Kultur keinen Schaden nimmt, aber das Unkraut, das noch kleiner ist, ausgekämmt.”<\/em><\/p><p><strong>Und wann striegelt man – und wann hackt man?<\/strong><\/p><p><em>“Striegeln kann man bereits vor dem Aufgehen der Kultur. Das ist das sogenannte Blindstriegeln. Hierbei werden keimende Unkräuter bekämpft, während das Saatkorn sich noch weiter unten im Boden befindet. Striegeln funktioniert jedoch nur, wenn das Unkraut kleiner ist als die Kultur oder nicht so widerstandsfähig. Hacken ist erst ab dem 2.  bis 3. Blatt-Stadium möglich und dauert deutlich länger als Striegeln. Man hackt, um die Unkräuter zwischen den Reihen zu bekämpfen und die in der Reihe zu verschütten. Die Erfolgsquote ist dabei zwischen den Reihen nahezu 100%. Beim Striegeln hingegen kann die Erfolgsquote von 30 – 90% schwanken.”<\/em><\/p><p>Vielleicht teilt ihr ja unsere Erfahrung:  Je mehr wir im Rahmen unseres Regional-Projekts über den Öko-Landbau erfahren, desto mehr verändert sich der Blick auf unser eigenes Produkt, das für uns eine neue Wertigkeit erhält. Eine schöne Erfahrung…<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "7344f51a-c0bd-41d8-b3f1-abbf4638e0a6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "6f04a988-a078-41bd-b5b4-233075cbe4f2",
+        "26a1c363-6af1-421a-9b14-9d7db83d9ddc",
+        "7344f51a-c0bd-41d8-b3f1-abbf4638e0a6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "faa980be-2f94-4b93-a5c3-908448cef796",
+    "d8b728b3-d1d7-4824-86cb-e1a040b20b6d",
+    "a2233ab3-44e7-4d16-a8e5-064b7d7da1d9"
+  ]
+}

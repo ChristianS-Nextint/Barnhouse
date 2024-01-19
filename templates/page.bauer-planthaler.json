@@ -1,0 +1,328 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_6.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Georg Planthaler – Trostberg",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Georg Planthaler und seine Frau Martina bewirtschaften den Gremahof bereits seit 2014 im Vollerwerb. Sieben Jahre zuvor wurde der Hof schon auf bio umgestellt. Seitdem wirtschaften die beiden nach den Richtlinien<br\/> von <strong>Naturland<\/strong>.<\/p><p>Neben dem Futterbau aus Grünland, Kleegras und Mais bauen sie auch Weizen, Braugerste und Dinkel an. Dabei arbeitet die Familie schon seit <br\/>Jahren mit effektiven Mikroorganismen nach dem Rosenheimer Projekt. Durch viel Zwischenfruchtanbau versuchen sie zudem die Bodenfruchtbarkeit zu erhalten und zu verbessern.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f02415ef-7f66-4c85-95b8-114a51ba27d0": {
+      "type": "rich-text",
+      "blocks": {
+        "7c6202ec-b8ae-42d3-8323-331596adbb05": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c6653d2e-184b-4313-bdd1-e8383cd84efe": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Georg und Martina bewirtschaften ihren Bio-Betrieb im schönen Chiemgau mit Ackerbau und 55 Milchkühen<\/strong><\/p><p>Zusätzlich zum Ackerbau führen Georg und seine Frau einen Milchviehbetrieb mit etwa 55 Kühen und der Nachzucht.<\/p><p><strong>Bio-Landwirt aus Überzeugung<\/strong><\/p><p>„Ich bin gerne und aus Überzeugung Bio-Landwirt. Und da freut es mich umso mehr, dass sich Verarbeitungsfirmen wie z.B. Barnhouse, aber auch viele andere Firmen wie z. B. Landmaschinen-Hersteller oder <br\/>Saatgut-Firmen in der Forschung und Entwicklung den Herausforderungen des Biolandbaus stellen. Ich hoffe das der Verbraucher unsere Angebote <br\/>annimmt und auch beim Einkauf sich bewusst für Qualität aus der Region entscheidet.“<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "dc8a89b1-9681-4692-a67d-babd3b3c7b73": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "7c6202ec-b8ae-42d3-8323-331596adbb05",
+        "c6653d2e-184b-4313-bdd1-e8383cd84efe",
+        "dc8a89b1-9681-4692-a67d-babd3b3c7b73"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9bce6f2a-6fd1-4419-81be-1bf294488b3a": {
+      "type": "gallery",
+      "blocks": {
+        "ba068213-4a0c-4945-9fca-2e1765d849bf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "3b73d05a-080d-49f5-93ef-1fdde6127b31": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Planthaler_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "ba068213-4a0c-4945-9fca-2e1765d849bf",
+        "3b73d05a-080d-49f5-93ef-1fdde6127b31"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "747411d0-b8e5-44cb-ba0d-d7e58f88074f": {
+      "type": "rich-text",
+      "blocks": {
+        "ad0f0363-7be2-46e6-bb5c-de878213f5d0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "7d3f6b05-75d3-43e5-ba6b-921b58d3b99c": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Dinkel-Aussaat kurz vor dem Winter?<\/strong> Der Laie wird sich da vielleicht fragen, ob die noch jungen Dinkelpflänzchen nicht durch Eis und Schnee Schaden nehmen könnten. Und warum wartet der Landwirt nicht mit der Aussaat bis zum Frühjahr wie <br\/>z.B. beim Hafer. “Ja, da gibt es Unterschiede.”, erläutert der junge NATURLAND-Bauer. “Einmal gibt es Sommergetreide wie z.B. Hafer, Sommergerste und Sommerweizen oder Wintergetreide wie z.B. Winterweizen, Wintergerste, Roggen sowie eben Dinkel. <strong>Wintergetreidearten brauchen die Winterruhe, da diese im Vergleich zu den Sommerkulturen eine längere Vegetationszeit haben.”<\/strong><\/p><p><strong>Natürlich ist aber auch hier das Gespür und die Erfahrung des Bio-Landwirts gefragt.<\/strong> “Wenn<br\/> sich aber das Wintergetreide im Herbst zu gut entwickelt, kann es auch zu Auswinterungsschäden kommen. Deshalb sollte der Aussaatzeitpunkt nach Möglichkeit nicht zu früh sein. Sommergetreide verträgt allerdings so gut wie keinen langanhaltenden Frost oder Schnee, ein  paar winterliche <br\/>Tage bringen es aber auch nicht um.”, erklärt uns Georg auf Nachfrage. “Wintergetreide bringt in der Regel mehr Ertrag. Sommergetreide hat oftmals die für den Einsatzzweck besseren Inhaltsstoffe – so wird z.B. <br\/>bei Braugerste eine Sommergerste verwendet, da diese einen besseren <br\/>Eiweißgehalt erreichen kann. “<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "5e52fefe-62ba-4532-ac46-247178362eaa": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "ad0f0363-7be2-46e6-bb5c-de878213f5d0",
+        "7d3f6b05-75d3-43e5-ba6b-921b58d3b99c",
+        "5e52fefe-62ba-4532-ac46-247178362eaa"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "f02415ef-7f66-4c85-95b8-114a51ba27d0",
+    "9bce6f2a-6fd1-4419-81be-1bf294488b3a",
+    "747411d0-b8e5-44cb-ba0d-d7e58f88074f"
+  ]
+}

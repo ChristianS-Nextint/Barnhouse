@@ -1,0 +1,342 @@
+{
+  "sections": {
+    "cfb3b407-deaf-4b13-b720-1776397a8380": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/PDM-Linse-Januar-24.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "db176a19-ce6a-4f3a-8bae-41b46cec6bbc": {
+      "type": "rich-text",
+      "blocks": {
+        "a6242b06-3eab-42b8-b00d-0e03c4e4f00e": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Produkt des Monats Januar",
+            "subheading_size": "h4",
+            "secondary_color": false
+          }
+        },
+        "template--19860294598992__db176a19-ce6a-4f3a-8bae-41b46cec6bbc-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Krunchy Linse mit Apfel",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--19860294598992__db176a19-ce6a-4f3a-8bae-41b46cec6bbc-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir stellen dir jeden Monat eines unserer Produkte<br\/>vor.<br\/><br\/>Das Beste daran: Du lernst nicht nur unsere Knuspermüslis und<br\/>Frühstückscerealien kennen, sondern bekommst<strong> auf unser Produkt des Monats im<br\/>Onlineshop auch einen satten Rabatt von 20 Prozent.<\/strong><\/p><p>Zu Beginn des neuen Jahres<br\/>haben wir ein ganz besonderes Krunchy für dich ausgewählt! Denn <strong>Krunchy<br\/>Linse mit Apfel<\/strong> ist nicht nur unser erstes Krunchy <strong>ohne Getreide<\/strong> als Zutat, sondern auch ein „<strong>Bestes Bio 2024<\/strong>“.<\/p><p>Du wirst staunen, wie toll<br\/>sich die <strong>Linse<\/strong> im Krunchy macht. Perfekt abgerundet wird der Geschmack durch die fein-fruchtige Säure der <strong>knackigen Apfel-Chips<\/strong>. Da wirst du den Hafer keine Sekunde vermissen. Ganz anders und doch ein richtiges Bio-Knuspermüsli.<br\/>Lass dich von der Linse überraschen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "a6242b06-3eab-42b8-b00d-0e03c4e4f00e",
+        "template--19860294598992__db176a19-ce6a-4f3a-8bae-41b46cec6bbc-heading-1",
+        "template--19860294598992__db176a19-ce6a-4f3a-8bae-41b46cec6bbc-text-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "judgeme_preview_badge_product_page_b65592df": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "14dcb9b4-9113-4f28-b084-8ecab2736a74": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.metafields.custom.verkehrsbezeichnung.value }}",
+            "text_style": "body"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "large",
+            "show_badges": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": false,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "6d8a7d72-6cc5-4bcf-b26a-a07510702767": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "text": "Zustellung in 2-4 Werktagen",
+            "text_style": "body"
+          }
+        },
+        "e363ed0c-4544-4ddb-9f34-bf699f0dc662": {
+          "type": "text",
+          "settings": {
+            "icon": "price_tag",
+            "text": "Ab dem 2. Beutel sparen",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        },
+        "db6232aa-7030-45a0-ab08-9bea317bd53a": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"container-produkt-badge\">\n{% if product.tags contains \"Bayern\" %}\n<img src=\"{{ 'Symbol_Bayern.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Bio\" %}\n<img src=\"{{ 'Symbol_Bio.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Palmölfrei\" %}\n<img src=\"{{ 'Symbol_Palmoelfrei.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Vegan\" %}\n<img src=\"{{ 'Symbol_Vegan.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Weizenfrei\" %}\n<img src=\"{{ 'Symbol_Weizenfrei.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Alternativ gesüßt\" %}\n<img src=\"{{ 'Symbol_alt_gesuesst.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Regionale Haferflocken\" %}\n<img src=\"{{ 'Symbol_Haferflocken.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"regionale Dinkelflocken\" %}\n<img src=\"{{ 'Symbol_Dinkelflocken.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n\n<\/div>"
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Zutaten",
+            "content": "{{ product.metafields.custom.neu_inhaltsstoffe | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Nährwerte\/100g",
+            "content": "<p>{{ product.metafields.customAttributes.barnhouse_product_food_valu | metafield_tag }}<\/p>{{ product.metafields.custom.neu_n_hrwerte_100g | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "4946bc6e-7734-4d6e-8293-586f72d3ec37": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Allergiehinweise",
+            "content": "<p>{{ product.metafields.customAttributes.barnhouse_product_allergy_i.value }}<\/p><p>{{ product.metafields.customAttributes.allergene.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Artikel empfehlen"
+          }
+        }
+      },
+      "block_order": [
+        "judgeme_preview_badge_product_page_b65592df",
+        "title",
+        "14dcb9b4-9113-4f28-b084-8ecab2736a74",
+        "price",
+        "variant_picker",
+        "6d8a7d72-6cc5-4bcf-b26a-a07510702767",
+        "e363ed0c-4544-4ddb-9f34-bf699f0dc662",
+        "buy_buttons",
+        "sticky_cart",
+        "db6232aa-7030-45a0-ab08-9bea317bd53a",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "4946bc6e-7734-4d6e-8293-586f72d3ec37",
+        "description",
+        "share"
+      ],
+      "custom_css": [
+        ".price-item.price-item--regular > price-money > bdi {font-size: calc(var(--font-heading-scale) * 2.8rem) !important; letter-spacing: 0;}",
+        "#ProductInfo-template--18848855621968__main .product__title {margin-bottom: -15px !important;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": false,
+        "enable_video_looping": true,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    },
+    "0f553cf7-4699-49a4-abed-c8824591bfe1": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Banner-Januar-24.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "adapt",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "scrolling-promotion": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement-0": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "FREE SHIPPING on all orders over $100",
+            "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement-1": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "EASY RETURNS 30-day postage paid returns",
+            "text_size": 16,
+            "link": ""
+          }
+        },
+        "announcement-3": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "10% OFF your first order | Use code: FIRST10",
+            "text_size": 16,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement-0",
+        "announcement-1",
+        "announcement-3"
+      ],
+      "disabled": true,
+      "settings": {
+        "direction": "left",
+        "speed": 2.2,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#573522",
+        "colors_text": "#573522",
+        "colors_background": "#fecc0a",
+        "gradient_background": "",
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "disabled": true,
+      "settings": {
+        "show_divider": false,
+        "heading": "Schon entdeckt?",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": false,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "cfb3b407-deaf-4b13-b720-1776397a8380",
+    "db176a19-ce6a-4f3a-8bae-41b46cec6bbc",
+    "main",
+    "0f553cf7-4699-49a4-abed-c8824591bfe1",
+    "scrolling-promotion",
+    "product-recommendations"
+  ]
+}

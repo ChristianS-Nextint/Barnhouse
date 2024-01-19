@@ -1,0 +1,434 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_7.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_8.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Bernhard Heindl – Kirchdorf",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Man kann im Leben nur wirken, wenn man das Leben auf sich wirken lässt“<\/h2><p>Bernhard Heindl und Rebecca Krebs betreiben ihren Hof, den Landbaubetrieb Heindl (ursprünglicher Name war „Paur z’Asen“) bereits in der zweiten Generation. Der Betrieb mit 29 ha landwirtschaftlicher Fläche und 3 ha Forst ist ein reiner Familienbetrieb und wird von den beiden als Nebenerwerb betrieben.<\/p><p>Hauptberuflich ist Bernhard Lehrer und Berater in der Landwirtschaftsverwaltung, seine Lebensgefährtin Rebecca arbeitet an einer Realschule als Biologie- und Chemielehrerin. Die Natur steht bei den beiden also immer im Vordergrund, weshalb 1992 auch die Umstellung des Hofes auf bio vorgenommen wurde.<\/p><p><em>„Biologische Landwirtschaft bedeutet für uns, dass man Teil der Natur ist und im Einklang mit ihr arbeitet. Manchmal wird die eigene Gelassenheit auch ganz schön von der Natur auf die Probe gestellt – siehe Wetter zur Getreideernte. Dafür schätzt man das gewonnene Lebensmittel danach umso mehr“<\/em>, erklärt der <strong>Demeter<\/strong>-Landwirt.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_9.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "544936ae-49f4-4042-85e8-571d94077fba": {
+      "type": "rich-text",
+      "blocks": {
+        "e84dff98-a988-4382-b2da-69a763fedcb2": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "b0ec4ee5-be28-45f4-8d65-46ef8f3dc807": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Doch was fasziniert Bernhard und Rebecca so an der ökologischen Landwirtschaft?<\/p><p><em>„In der biologisch-dynamischen Landwirtschaft betrachtet man den Betrieb als Hoforganismus, das heißt es hängt alles miteinander zusammen. Mit den Kreisläufen des Betriebs muss man sich intensiv auseinandersetzen. So ist es beispielsweise wichtig den Boden und seine Nutztiere zu kennen. Demeter ist der einzige ökologische Anbauverband mit obligatorischer Tierhaltung. Unsere Rinder haben eine zentrale Bedeutung für die natürliche Nährstoffversorgung unserer Äcker. Es ist nicht erlaubt Mineraldünger einzusetzen, deshalb muss zusätzlich zum Mist eine Gründüngung in die Fruchtfolge eingeplant werden”.<\/em><\/p><p>Die Fruchtfolge ist ein weiteres wichtiges Instrument des ökologischen Landbaus. Dies bedeutet, dass auf einer Ackerfläche jedes Jahr eine andere Frucht angebaut wird, um einen Schädlingsdruck zu vermeiden und die Bodenfruchtbarkeit zu erhalten.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "c218fe77-558a-4cc8-ab33-6b27228a76b6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "e84dff98-a988-4382-b2da-69a763fedcb2",
+        "b0ec4ee5-be28-45f4-8d65-46ef8f3dc807",
+        "c218fe77-558a-4cc8-ab33-6b27228a76b6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fe6a5ddf-1bd8-47e4-9316-dd88fb4d04e9": {
+      "type": "gallery",
+      "blocks": {
+        "7c69836a-024b-4c21-a7ba-525a946c9a92": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_4.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "abe94a53-fa8a-4c5e-8ede-f350983c1fde": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "7c69836a-024b-4c21-a7ba-525a946c9a92",
+        "abe94a53-fa8a-4c5e-8ede-f350983c1fde"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7f793e2c-1629-466b-ac72-f8135446a51c": {
+      "type": "rich-text",
+      "blocks": {
+        "7fdcbad9-dd7a-48e7-ad4a-6bf18adc29f2": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "83995d51-47fc-403c-ae09-ec2135fa8bdf": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Betrachtet man all diese Punkte wird einem schnell klar: Hier ist kein Jahr wie das zuvor. Doch Bernhard und Rebecca stellen sich immer wieder den Herausforderungen und lernen von Jahr zu Jahr etwas Neues dazu.<\/p><p>So versuchen sie sich seit kurzem auch an einem neuen Projekt, dem Trüffelanbau. Vielleicht sollten wir dies auch als Herausforderung ansehen und doch einmal über ein herzhaftes Krunchy nachdenken? <\/p><p>Bis es soweit ist, baut Bernhard jedoch weiterhin Hafer und Dinkel für Barnhouse an.  Denn so wie wir die Arbeit mit unseren regionalen Partner-Landwirten schätzen, beruht dies auch auf Gegenseitigkeit:<\/p><p><em>„Ich finde es sehr schön ein Teil des Barnhouse Teams zu sein. Mir ist eine gute und langfristige Beziehung mit meinen Abnehmern sehr wichtig und besonders gefällt mir das Barnhouse den regionalen Anbau fördert und schätzt.<\/em><\/p><p><em>Zusätzlich ist Barnhouse sehr an einem regelmäßigen Austausch mit den Landwirten interessiert, um den Verbrauchern die Arbeit hinter dem Produkt näherzubringen“.<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "a14559d1-0021-44cd-9230-d5ab1fd2a2c6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "7fdcbad9-dd7a-48e7-ad4a-6bf18adc29f2",
+        "83995d51-47fc-403c-ae09-ec2135fa8bdf",
+        "a14559d1-0021-44cd-9230-d5ab1fd2a2c6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b9486f12-cb9e-427d-b67e-a6c269c04bcd": {
+      "type": "gallery",
+      "blocks": {
+        "ce144270-481c-4f40-a05a-00b340d4f9c1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_6.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "3f2c6ed2-298f-496e-aae9-7647d367a52b": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Heindl_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "ce144270-481c-4f40-a05a-00b340d4f9c1",
+        "3f2c6ed2-298f-496e-aae9-7647d367a52b"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ccaa9fe0-b60b-47c5-9d94-a25d53d1af24": {
+      "type": "rich-text",
+      "blocks": {
+        "6e3ea9f8-9d7c-4e59-8d16-07d1dc32a5c6": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "360f6126-95e7-48e3-82ac-551fd2e79976": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Förderung und Erhalt biologischer Vielfalt ist nicht nur ein großer Pluspunkt des Öko-Landbaus, sondern unseren regionalen Partner-LandwirtInnen ein großes Anliegen. Auf den Feldern des Demeter-Landwirts Bernhard und seiner Frau Rebecca wächst nicht nur Dinkel und der gute Barnhouse-Hafer SinaBa für euer Krunchy. Denn neben seinen Getreidefeldern hat Bernhard auch zwei Wildackerflächen, auf denen leuchtende Königskerzen, Steinklee und viele andere Pflanzen sprießen und gedeihen.<\/p><p>Ein Eldorado für Insekten, die hier einen Lebensraum vorfinden, für den in der industriellen Landwirtschaft oftmals kein Platz mehr ist. Solche Flächen sind ein Segen für das ganze lokale Ökosystem. Denn wenn sich Wildbienen und andere Insekten hier wohlfühlen, findet auch die Vogelwelt reichlich Nahrung. Sogenannte Biodiversitätsflächen sind übrigens in den Demeter-Richtlinien festgeschrieben und müssen min. 10% der Betriebsfläche betragen.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "d2a6d751-9f68-412c-bdf6-f7b2daedf34b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "6e3ea9f8-9d7c-4e59-8d16-07d1dc32a5c6",
+        "360f6126-95e7-48e3-82ac-551fd2e79976",
+        "d2a6d751-9f68-412c-bdf6-f7b2daedf34b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "544936ae-49f4-4042-85e8-571d94077fba",
+    "fe6a5ddf-1bd8-47e4-9316-dd88fb4d04e9",
+    "7f793e2c-1629-466b-ac72-f8135446a51c",
+    "b9486f12-cb9e-427d-b67e-a6c269c04bcd",
+    "ccaa9fe0-b60b-47c5-9d94-a25d53d1af24"
+  ]
+}

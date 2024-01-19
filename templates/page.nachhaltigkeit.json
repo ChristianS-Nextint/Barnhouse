@@ -1,0 +1,478 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "046442d9-3635-4a33-8c6e-720110ee9516": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18589289447760__046442d9-3635-4a33-8c6e-720110ee9516-1681997002bd43374e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Barnhouse Bio-Qualität und Nachhaltigkeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18589289447760__046442d9-3635-4a33-8c6e-720110ee9516-1681997002bd43374e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18589289447760__046442d9-3635-4a33-8c6e-720110ee9516-1681997002bd43374e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18589289447760__046442d9-3635-4a33-8c6e-720110ee9516-1681997002bd43374e-0",
+        "template--18589289447760__046442d9-3635-4a33-8c6e-720110ee9516-1681997002bd43374e-1",
+        "template--18589289447760__046442d9-3635-4a33-8c6e-720110ee9516-1681997002bd43374e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Header-Nachhaltigkeit.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "74befc4e-2fef-4fe2-9a3c-957df9085e05": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18848855261520__74befc4e-2fef-4fe2-9a3c-957df9085e05-1682587994a45636d5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Barnhouse Bio-Qualität und Nachhaltigkeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18848855261520__74befc4e-2fef-4fe2-9a3c-957df9085e05-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Biologische Lebensmittel herzustellen und dabei nachhaltig<br\/>zu wirtschaften – das war 1979 die Motivation zur Gründung von Barnhouse. Und<br\/>daran hat sich für uns bis heute nichts geändert. Nachhaltigkeit bedeutet für<br\/>uns, ökologische, soziale und ökonomische Aspekte in Einklang zu bringen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855261520__74befc4e-2fef-4fe2-9a3c-957df9085e05-1682587994a45636d5-0",
+        "template--18848855261520__74befc4e-2fef-4fe2-9a3c-957df9085e05-1682587994a45636d5-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d": {
+      "type": "gallery",
+      "blocks": {
+        "template--18848855261520__5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d-16825881874aaa5f04-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin_Eras_Portrait_-_bearbeitet_5ccdb953-b701-4a8f-b57c-912b204e4eae.jpg",
+            "image_position": "top center",
+            "subheading": "Geschäftsführer",
+            "subheading_size": "h5",
+            "heading": "Martin Eras",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18848855261520__5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d-16825881874aaa5f04-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christian_Hoferer_Homepage_-_bearbeitet_ad5762c7-1db2-42a1-83f1-78eaaa045bf9.jpg",
+            "image_position": "top center",
+            "subheading": "Leitung Qualitätssicherung",
+            "subheading_size": "h5",
+            "heading": "Christian Hoferer",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18848855261520__5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d-16825881874aaa5f04-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Andreas_Bentlage_Homepage_-_bearbeitet_f7c9cb2c-1aba-4078-b8aa-e5837e06d10c.jpg",
+            "image_position": "top center",
+            "subheading": "Leitung Marketing & Produktmanagement",
+            "subheading_size": "h5",
+            "heading": "Andreas Bentlage",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855261520__5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d-16825881874aaa5f04-0",
+        "template--18848855261520__5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d-16825881874aaa5f04-1",
+        "template--18848855261520__5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d-16825881874aaa5f04-2"
+      ],
+      "settings": {
+        "per_row": 3,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Das Barnhouse Nachhaltigkeits-Team",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "055e3319-9dca-41e3-bd0d-a5f3208f6349": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18589289447760__055e3319-9dca-41e3-bd0d-a5f3208f6349-1681997727b9256138-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Unsere Nachhaltigkeitsverantwortung endet aber nicht an den Toren unseres Firmenstandortes, sondern erstreckt sich über die gesamte Wertschöpfungskette. Deshalb ist z.B. unsere Barnhouse Social Policy die Grundlage für den Einkauf aller Rohstoffe nach anerkannten Sozialstandards. <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18589289447760__055e3319-9dca-41e3-bd0d-a5f3208f6349-1681997727b9256138-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18589289447760__055e3319-9dca-41e3-bd0d-a5f3208f6349-1681997727b9256138-1",
+        "template--18589289447760__055e3319-9dca-41e3-bd0d-a5f3208f6349-1681997727b9256138-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Nachhaltigkeitsaspekte-im-Einklang_667aaa97-45fc-491c-85a3-61a5ed8337c2.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_mobile": "shopify:\/\/shop_images\/Nachhaltigkeitsaspekte-im-Einklang_667aaa97-45fc-491c-85a3-61a5ed8337c2.jpg",
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "200px",
+        "use_custom_colors": true,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "93f0a252-463f-477b-ae85-da698eb61c38": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18589289447760__93f0a252-463f-477b-ae85-da698eb61c38-16819979113cd9c4a2-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Was Nachhaltigkeit für uns bedeutet.",
+            "row_content": "<p>Nachhaltig zu handeln, heißt für uns gemäß der UN-Weltkommission für Umwelt und Entwicklung, „die Bedürfnisse der Gegenwart zu befriedigen, ohne zu riskieren, dass künftige Generationen ihre eigenen Bedürfnisse nicht befriedigen können.“ ­­<strong>Eine Haltung, die der Begriff „Enkeltauglichkeit“ auf den Punkt bringt<\/strong>.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18589289447760__93f0a252-463f-477b-ae85-da698eb61c38-16819979113cd9c4a2-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Was wir bereits tun. Und was wir noch tun werden.",
+            "row_content": "<p>In unserer Nachhaltigkeitsstrategie erfassen wir nicht nur, was wir bereits tun, sondern setzen uns auch konkrete und messbare Ziele für die Zukunft.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18589289447760__93f0a252-463f-477b-ae85-da698eb61c38-16819979113cd9c4a2-1",
+        "template--18589289447760__93f0a252-463f-477b-ae85-da698eb61c38-16819979113cd9c4a2-2"
+      ],
+      "settings": {
+        "open_first_collapsible_row": false,
+        "narrow": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 72,
+        "padding_bottom": 36
+      }
+    },
+    "262e3ace-3130-40b5-8a46-cc96a5a5e5b2": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18848855261520__262e3ace-3130-40b5-8a46-cc96a5a5e5b2-16826772958beb387a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Wir sind Anwender des<br\/><a href=\"https:\/\/datenbank2.deutscher-nachhaltigkeitskodex.de\/Profile\/CompanyProfile\/14227\/de\/2020\/dnk\" target=\"_blank\" title=\"https:\/\/datenbank2.deutscher-nachhaltigkeitskodex.de\/Profile\/CompanyProfile\/14227\/de\/2020\/dnk\">Deutschen Nachhaltigkeitskodex<\/a><\/h2><p><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/DNK_2020_Barnhouse-Naturprodukte-GmbH_deutsch_1.pdf?v=1683638296\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/DNK_2020_Barnhouse-Naturprodukte-GmbH_deutsch_1.pdf?v=1683638296\">Barnhouse DNK-Erklärung 2020<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/DNK_2020_Barnhouse-Naturprodukte-GmbH_englisch_1.pdf?v=1683638529\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/DNK_2020_Barnhouse-Naturprodukte-GmbH_englisch_1.pdf?v=1683638529\">Barnhouse DNK Declaration of conformity 2020<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Ethik-Charta_Webversion_Juli-2023.pdf?v=1689687123\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Ethik-Charta_Webversion_Juli-2023.pdf?v=1689687123\">Barnhouse Ethikcharta<\/a><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Unternehmensphilosophie-2023-fuer-Web_1.pdf?v=1683638063\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Unternehmensphilosophie-2023-fuer-Web_1.pdf?v=1683638063\">Barnhouse Unternehmensphilosophie<\/a><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "6ca97f94-c5a2-4eed-b8d8-8169d5ec3909": {
+          "type": "button",
+          "settings": {
+            "button_label": "Infos zum dt. Nachhaltigkeitskodex",
+            "button_link": "https:\/\/www.deutscher-nachhaltigkeitskodex.de\/",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855261520__262e3ace-3130-40b5-8a46-cc96a5a5e5b2-16826772958beb387a-1",
+        "6ca97f94-c5a2-4eed-b8d8-8169d5ec3909"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/deutscher-nachhaltigkeitskodex-logo.png",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "479be7a4-d3cd-4e53-bf17-c8452798dd0b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18848855261520__479be7a4-d3cd-4e53-bf17-c8452798dd0b-16831204437fbdcc83-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "We Care: Barnhouse übernimmt Verantwortung - nachhaltig, sozial und fair",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18848855261520__479be7a4-d3cd-4e53-bf17-c8452798dd0b-16831204437fbdcc83-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Seit September 2021 ist Barnhouse We-Care-zertifiziert. Mit dem damit verbundenen Siegel wird dokumentiert, dass wir entlang der Lieferkette und am eigenen Standort nach den umfassenden Kriterien des We-Care-Standards handeln. Im Fokus steht dabei die Nachhaltigkeit des Unternehmens als Ganzes.<\/p><p><\/p><p>Alle Infos zu We Care: <a href=\"https:\/\/we-care-siegel.org\/\" target=\"_blank\" title=\"https:\/\/we-care-siegel.org\/\">https:\/\/we-care-siegel.org\/<\/a><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "f283d3df-db03-4248-a719-bf7ecc1dff16": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr über We Care erfahren",
+            "button_link": "https:\/\/we-care-siegel.org\/",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855261520__479be7a4-d3cd-4e53-bf17-c8452798dd0b-16831204437fbdcc83-0",
+        "template--18848855261520__479be7a4-d3cd-4e53-bf17-c8452798dd0b-16831204437fbdcc83-1",
+        "f283d3df-db03-4248-a719-bf7ecc1dff16"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/We-Care-Siegel-mit-Spruch_00e01a39-692e-4e35-b8d2-6a497e710647.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "f010a1d7-4ffe-4e7f-b4f6-25c137edc891": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18848855261520__f010a1d7-4ffe-4e7f-b4f6-25c137edc891-1682677072f38b52e6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Vom Anbau in den Ursprungsländern oder in den heimischen Regionen bis zum fertigen Produkt halten wir sowohl ökologische, faire als auch soziale Kriterien ein, verbessern<br\/>diese kontinuierlich und handeln so gemeinsam mit unseren Partnern der Lieferkette für eine gerechte und umweltfreundliche Herstellung und Vermarktung von Lebensmitteln. <\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855261520__f010a1d7-4ffe-4e7f-b4f6-25c137edc891-1682677072f38b52e6-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "06d3e79d-f153-4d65-aab2-26284f1eca22": {
+      "type": "gallery",
+      "blocks": {
+        "template--18848855261520__06d3e79d-f153-4d65-aab2-26284f1eca22-1682677761bc0fdfdd-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Eibl-8_0a807f10-cf33-4878-9d28-9fe8dcf2d8f9.jpg",
+            "image_position": "top center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18848855261520__06d3e79d-f153-4d65-aab2-26284f1eca22-1682677761bc0fdfdd-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_2021_Wolter-14_c2d8fe75-6f0b-4005-9b4a-d8ee09baddb7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18848855261520__06d3e79d-f153-4d65-aab2-26284f1eca22-1682677761bc0fdfdd-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Meier_Kirchdorf-15_70b278cd-c435-4964-9574-1e8061541477.jpg",
+            "image_position": "top center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855261520__06d3e79d-f153-4d65-aab2-26284f1eca22-1682677761bc0fdfdd-0",
+        "template--18848855261520__06d3e79d-f153-4d65-aab2-26284f1eca22-1682677761bc0fdfdd-1",
+        "template--18848855261520__06d3e79d-f153-4d65-aab2-26284f1eca22-1682677761bc0fdfdd-2"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "046442d9-3635-4a33-8c6e-720110ee9516",
+    "74befc4e-2fef-4fe2-9a3c-957df9085e05",
+    "5c09a3eb-a2c8-46b8-bd9b-6ff8afaaa25d",
+    "055e3319-9dca-41e3-bd0d-a5f3208f6349",
+    "93f0a252-463f-477b-ae85-da698eb61c38",
+    "262e3ace-3130-40b5-8a46-cc96a5a5e5b2",
+    "479be7a4-d3cd-4e53-bf17-c8452798dd0b",
+    "f010a1d7-4ffe-4e7f-b4f6-25c137edc891",
+    "06d3e79d-f153-4d65-aab2-26284f1eca22"
+  ]
+}

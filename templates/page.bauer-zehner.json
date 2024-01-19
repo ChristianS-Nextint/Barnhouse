@@ -1,0 +1,476 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_8.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_7.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Stefan Zehner – Wang",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Man muas ois nema wias kimd“<\/h2><p><em>„Der Hof wurde 1956 von meinen Großvater von einem Ehepaar <br\/>gekauft. Die vier Söhne der Frau Rosina Soller waren alle nicht mehr aus  dem Krieg gekommen und Jakob Soller hatte keine Kinder. So wurde der Hof mit Schulden und der Auflage das Ehepaar Soller im Alter zu pflegen und für deren Auskommen zu sorgen verkauft. Der Hof wurde über die Jahre<br\/> stetig erweitert und 1960 kam der erste Traktor (Eicher Panther mit 19 PS) auf den Hof“<\/em>, beginnt Stefan Zehner die Geschichte über seinen Hof.<\/p><p>Der Traktor, über den er spricht, ist übrigens bis heute im <br\/>Familienbesitz und wir dort in Ehren gehalten. Der Milchviehbetrieb des Hofes wurde 1979 auf Zuchtsauen umgestellt. 1994 wurde die Viehhaltung <br\/>dann komplett aufgegeben, ein Jahr später auch der konventionell <br\/>geführte Ackerbau.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "af32741f-2135-4ecb-97dc-8bb4459fa9a4": {
+      "type": "rich-text",
+      "blocks": {
+        "31837a6b-4bc9-4bd9-876d-422ea7a78e14": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "0bfb8c37-95f4-4a23-941f-106a32308f8a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Hof-Übernahme und Umstellung auf bio<\/strong><\/p><p><em>„Meine Frau Sandra und ich haben dann 2014 wieder mit der <br\/>Landwirtschaft angefangen und uns war von Anfang an klar, dass wir nach den Biolandrichtlinien unseren Hof führen wollen. Hierbei haben wir mit dem Biohof Freiberger sehr eng zusammengearbeitet, wie z.B. <br\/>Maschinengemeinschaften, gegenseitiges Aushelfen bei Arbeitsengpässen und natürlich immer wieder Fachsimpeln, was man so als nächstes versuchen könnte.“<\/em><\/p><p>Neben der Arbeit am Hof ist Stefan noch bei der Schwieger Dienstleistung GbR tätig. <em>„Hier<br\/> wird Saatgut (Ökologisch als auch konventionell) aufbereitet, verpackt und alles was dazu gehört. Ebenso bin ich auch in der Landwirtschaft und alles rund um Haus und Hof im Einsatz.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "9d906927-9580-4fc7-88ad-37487c142ce0": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "31837a6b-4bc9-4bd9-876d-422ea7a78e14",
+        "0bfb8c37-95f4-4a23-941f-106a32308f8a",
+        "9d906927-9580-4fc7-88ad-37487c142ce0"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "976b1f60-0195-493d-96b5-d016521d35c4": {
+      "type": "gallery",
+      "blocks": {
+        "03d8ef80-de90-42d1-b3ca-d523c0913454": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_8.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "b0074317-b203-4f5d-b5c5-6e8e1d6bd465": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "0ad463e3-16c1-4ece-8786-43d0812c74d9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "03d8ef80-de90-42d1-b3ca-d523c0913454",
+        "b0074317-b203-4f5d-b5c5-6e8e1d6bd465",
+        "0ad463e3-16c1-4ece-8786-43d0812c74d9"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5cfb4535-cc1e-4f3a-9828-748cf046536d": {
+      "type": "rich-text",
+      "blocks": {
+        "b8cc61cb-45fb-4836-8cf3-2e2a30ab85c4": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9c0404f5-2842-44b4-bc6d-f68150877972": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Anbau von Ölkürbis geplant<\/strong><\/p><p>Und langweilig wird es auf dem Hof bestimmt nicht. Denn neben dem Anbau von Getreide, Legumiosen und Grünland probiert sich der <strong>Bioland<\/strong>-Landwirt auch immer wieder an Neuem aus. 2021 will er erstmals Ölkürbis anbauen.<\/p><p>Dabei möchte er auch sehen, was aus seinen Erzeugnissen wird, weshalb er die Partnerschaft mit Barnhouse so schätzt.<\/p><p><em>„Wir sind gerne Barnhouse Bauer, da man so weiß, was aus seinen <br\/>Erzeugnissen gemacht wird und das Thema Regionalität vom Erzeuger bis <br\/>zur Verarbeitung gelebt werden kann. Das Partnerschaftliche <br\/>Zusammenarbeiten mit Barnhouse macht Spaß und es ist der Beweis, dass <br\/>man auch ohne Ausnutzen der Landwirte erfolgreich sein kann.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "6fc53d63-3b78-4dc5-8ba4-ad13c07846d2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "b8cc61cb-45fb-4836-8cf3-2e2a30ab85c4",
+        "9c0404f5-2842-44b4-bc6d-f68150877972",
+        "6fc53d63-3b78-4dc5-8ba4-ad13c07846d2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "354be9aa-3cfb-458f-9d89-28f727693ec8": {
+      "type": "gallery",
+      "blocks": {
+        "cc20514d-8f62-42c0-9509-7958f7d582f7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "cf8e5919-7b4a-412f-8bfc-26c264651489": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_9.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "4dd03245-19a3-4471-8a83-9d1f5592379f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Zehner_10.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "cc20514d-8f62-42c0-9509-7958f7d582f7",
+        "cf8e5919-7b4a-412f-8bfc-26c264651489",
+        "4dd03245-19a3-4471-8a83-9d1f5592379f"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8a66ed86-79e3-4757-ba40-b30c03cd4ab0": {
+      "type": "rich-text",
+      "blocks": {
+        "7ebc1cdc-f258-45a5-8269-10bda9e8cf3e": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "8d4a6bff-0a00-4b5f-aaf2-734a6809adf1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Lebenswerte Zukunft ermöglichen<\/strong><\/p><p>Das Wichtigste an seiner Arbeit ist für Stefan jedoch das Betreiben <br\/>einer Landwirtschaft mit der Natur und Zukunft. Vor allem möchte er dadurch seinen Kindern eine Zukunft ermöglichen, die auch lebenswert <br\/>ist. Ein Antrieb dafür ist auch das Leben in seinen Feldern: <em>„Egal ob Pflanzen, Insekten, Vögel oder sämtliches Niederwild, es macht Spaß zu zeigen, dass es auch anders geht.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "de5cc564-7fd1-440d-bc0e-8c6225555d82": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "7ebc1cdc-f258-45a5-8269-10bda9e8cf3e",
+        "8d4a6bff-0a00-4b5f-aaf2-734a6809adf1",
+        "de5cc564-7fd1-440d-bc0e-8c6225555d82"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "af32741f-2135-4ecb-97dc-8bb4459fa9a4",
+    "976b1f60-0195-493d-96b5-d016521d35c4",
+    "5cfb4535-cc1e-4f3a-9828-748cf046536d",
+    "354be9aa-3cfb-458f-9d89-28f727693ec8",
+    "8a66ed86-79e3-4757-ba40-b30c03cd4ab0"
+  ]
+}

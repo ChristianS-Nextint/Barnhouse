@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Steckermeier_Startbild.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Steckermeier_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Steckermeier_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Christine und Georg Steckermeier – Neufraunhofen",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Biohof Steckermeier wurde bis 2007 von Christines Eltern als Milchviehbetrieb geführt. In dem Jahr wurde bis auf ein paar Masttiere die Tierhaltung aufgegeben, die Felder wurden an benachbarte Bio-Bauern verpachtet. Zwei Jahre später übernahm dann Christine den Hof.<\/p><p><em>„Ab diesem Zeitpunkt machten wir uns dann Gedanken, wie wir den Hof wieder bewirtschaften könnten“,<\/em> erklärt uns Georg Steckermeier.<\/p><p><em>„2011 bis 2012 bauten wir den alten Kuhstall zu einem Bio-Hühnerstall um. Auch die Felder bewirtschafteten wir zum Teil dann wieder selbst“.<\/em><\/p><p>Momentan gackern 2.000 Bio-Hühner auf ihrem Hof, die hauptsächlich von Christine betreut werden. Die Eier werden an ‚Die Biohennen-AG‘ geliefert, einen Teil verkaufen sie auch direkt an ihrem Hof.<\/p><p>Aktuell bewirtschaftet die Familie 25 ha Felder, Wiesen und Wald. <em>„Im Bio-Landbau muss ich mir sehr viele Gedanken zur Fruchtfolge machen, damit der Ertrag und die Beikrautregulierung Erfolg zeigen. Man merkt schnell, wenn mit dem Boden etwas nicht passt, dann kann ich nicht kurzfristig mit chemischen Mitteln und Dünger ausgleichen. Die biologische Bewirtschaftung der Felder ist viel interessanter und gleichzeitig aber auch eine größere Herausforderung für mich“<\/em>, erklärt uns der <strong>Biokreis<\/strong>-Landwirt.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Steckermeier_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Steckermeier_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Steckermeier_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "380f8452-3892-4d44-903c-d338f1079808": {
+      "type": "rich-text",
+      "blocks": {
+        "bacc9752-2ab4-45c7-815f-772a4b19cc56": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "479bbc01-e342-4881-9c31-163bb82a592b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Das treibt Familie Steckermeier an<\/strong><\/p><p>Was am Jahresende unterm Strich übrig bleibt, ist den beiden jedoch nicht so wichtig, wie das was im Hintergrund läuft. Der Erhalt der kleinstrukturierten Landwirtschaft und des Lebensraums für Menschen und Tiere über mehrere Generationen und das alles unter naturverträglichen, biologischen Gesichtspunkten treibt die Familie an.<\/p><p>Doch Christine und Georg geht es bei der Bewirtschaftung ihres Hofes nicht nur um die Lebensmittelproduktion. <em>„Da meine Frau auf dem Hof ist, kann sie auch die Schwiegereltern und den Onkel versorgen, die wohl sonst in einer Pflegeeinrichtung untergebracht werden müssten“,<\/em> erklärt uns Georg.<\/p><p>Durch seine Arbeit als Außendienstler im After Sales Geschäft für Stapler ist Georg auch auf Barnhouse gekommen. Vor allem da unsere Produkte regional produziert, verarbeitet und im Bio-Markt um die Ecke zum Kauf angeboten werden, liefert die Familie gerne an uns.<em> „Durch die kurzen Wege haben wir Bauern einen Bezug zum Produkt bis zur Ladentheke. Bei uns stehen Barnhouse Müslis fast täglich auf dem Speiseplan, weil sie einfach lecker sind“.<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "af6939e2-d77a-4a9d-af73-7253074ff80f": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "bacc9752-2ab4-45c7-815f-772a4b19cc56",
+        "479bbc01-e342-4881-9c31-163bb82a592b",
+        "af6939e2-d77a-4a9d-af73-7253074ff80f"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "380f8452-3892-4d44-903c-d338f1079808"
+  ]
+}

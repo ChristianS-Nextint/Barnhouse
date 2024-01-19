@@ -1,0 +1,328 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_Startbild.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Sepp Braun – Dürneck bei Freising",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>“Ich möchte freier Bauer sein – ohne Abhängigkeit von der Agrarpolitik!”<\/h2><h3>Mit Sepp Braun besuchen wir eine echte Ikone des Bio-Landbaus in Bayern.<\/h3><p><strong>Viele Medien – vom GREENPEACE MAGAZIN bis hin zum SPIEGEL – haben bereits über ihn berichtet, der Öko-Filmemacher Bertram Verhaag (“Der Bauer und sein Prinz”) hat eine vielbeachtete Dokumentation namens “Der Bauer mit den Regenwürmern” über ihn gedreht, auf der EXPO in Mailand war er als Boden-Botschafter bestellt und seine Kollegen sprechen mit größtem Respekt über ihn.<\/strong><\/p><p>Und richtig, bereits nach kurzer Zeit des Gesprächs wird auch uns klar, dass dieser Ruf nicht von ungefähr kommt. Was Sepp Braun, ein charismatischer und zugleich einnehmend geerdeter Mann, zu erzählen hat, ist interessant, fesselnd, faszinierend. Intensive Naturbeobachtungen verknüpft er mit aktueller Forschung, er denkt und arbeitet in Kreisläufen. <strong>Boden und Pflanzen, Mensch und Tier, Natur und Klima – nichts betrachtet Sepp isoliert, alles ist verbunden und gehört zusammen. Wir könnten stundenlang zuhören…<\/strong><\/p><p>Mittlerweile wird der Hof von Tochter Johanna und Schwiegersohn Simon Reiter betrieben.<\/p><h3><strong>“BIOLAND ist meine geistige Heimat.”, erklärt Sepp Braun,<\/strong> <\/h3><p>der stellv. <a href=\"https:\/\/www.bioland.de\/start.html\">BIOLAND<\/a>-Landesvorsitzender ist und den Hof gemeinsam mit seiner Frau Irene seit 1988 nach den organisch-biologischen Richtlinien des Anbauverbandes bewirtschaftet. Auf 37 ha von insgesamt 54 ha Fläche betreibt er Ackerbau. Milchwirtschaft, Energieerzeugung (Photovoltaik und Holzgas) sowie seit neuestem auch Hühnerhaltung sind u.a. weitere Standbeine des Hofes. <strong>“Teil des Barnhouse Regional-Projektes bin ich aus der Überzeugung, dass Bauern, Verarbeiter, Handel und Mitmenschen wieder gemeinsam daran arbeiten müssen, dass wir Menschen fair und partnerschaftlich mit uns und der Natur umgehen.”<\/strong>, erläutert Sepp, der für uns Hafer anbaut. “Ich spüre die Begeisterung von Barnhouse, mit uns diesen Weg gemeinsam zu gehen.” <strong>Doch Sepp wäre nicht Sepp, wenn er sich damit zufrieden gäbe.<\/strong> Und das ist auch der Grund unseres heutigen Besuches.<\/p><h2>ÖKOLOGISCHES SAATGUT: KEINE SELBSTVERSTÄNDLICHKEIT<\/h2><p>Beim heutigen Termin steht das Thema Hafer-Saatgut im Mittelpunkt – und zwar Saatgut aus biologisch-dynamischer Züchtung. Eben das ist keine Selbstverständlichkeit: <strong>Denn auch wenn Hafer nach den ökologischen Richtlinien angebaut wird, stammt das <\/strong><em><strong>Saatgut <\/strong><\/em><strong>dafür nicht aus vollständig biologischer Züchtung – weil dieses schlichtweg bis dato noch gar nicht existiert.<\/strong> Als ganzheitlich denkender Bio-Bauer ein Unding für Sepp Braun. “Die Züchtung ökologischen Saatguts ist eine gesellschaftspolitische Herausforderung!”, sagt er mit Überzeugung. “Und wenn der Staat hier keine Verantwortung übernimmt, dann müssen wir es eben selber machen.” <strong>Klar, dass Barnhouse hier tatkräftig und finanziell mit dabei ist (…doch dazu später).<\/strong><\/p><h4>Über Jahre hinweg hat er selbst Hafersorten selektiert<\/h4><p>– mit dem Ziel, eine eigene Sorte zu entwickeln. Schließlich hat er Kontakt mit dem <a href=\"http:\/\/www.dottenfelderhof.de\/dottenfelderhof\/uebersicht.html\" target=\"_blank\"><strong>Dottenfelderhof<\/strong><\/a> (Bad Vilbel) aufgenommen, der in einer eigenen Landbauschule Forschung und Züchtung nach rein biologisch-dynamischen Gesichtspunkten betreibt. <strong>Dr. rer. nat. Ben Schmehe ist dort Hauptverantwortlicher für Haferzüchtung und ist heute extra angereist, um uns und anderen Bauern aus dem Barnhouse Regional-Projekt über seine Arbeit zu berichten.<\/strong> Auch will er uns den Weißhafer aus seiner ökologischen Züchtung zeigen, der bereits auf Sepps “Barnhouse-Feld” versuchsweise wächst. Wir sind gespannt!<\/p><h3>DIE BESONDERHEITEN DES “BARNHOUSE”-HAFERS<\/h3><p><strong>Nach einer kurzen Begrüßung und Einführung spaziert unsere Gruppe vom Hof hinüber zum Barnhouse-Feld.<\/strong> Es ist ein sehr heißer Julitag und die sommerliche Wärme bringt den Duft des Feldes wunderbar zur Entfaltung. Ben Schmehe erläutert uns anschaulich die Besonderheiten dieses ganz besonderen Hafers. Im konventionellen Anbau werden chemische Halmverkürzer eingesetzt, um trotz hoher Düngergabe das Wachstum zu hemmen. Dadurch wird das Risiko des Halmbruchs und des Lagerns (Schieflage z.B. aufgrund starken Regens) des Getreides verringert und die Ernte erleichtert.<\/p><p><strong>Dieser Hafer ist jedoch auffallend langstielig.<\/strong> Der Vorteil: Die langen Halme nehmen den auf dem Feld unerwünschten Pflanzen das Licht und regulieren so auf ganz natürliche Weise die Kultur.” Außerdem bringen lange Halme viel Stroh – eine wertvolle Ressource.”, erklärt Ben Schmehe einen weiteren Nutzen. Die Tiere in den Ställen der Bio-Bauern freuen sich über diese natürliche Einstreu. <strong>Ebenfalls von großer Bedeutung: Der Hafer verfügt über eine sehr gute natürliche Widerstandskraft gegen den Flugbrand, einer gefürchteten Getreide-Krankheit.<\/strong><\/p><p><strong>Die unterschiedlichen Sichtweisen treten hier klar zutage: Was im konventionellen Anbau als hinderlich und riskant angesehen wird, nutzt der Öko-Landbau als willkommene Eigenschaft.<\/strong> “Das Ziel unserer Arbeit ist Getreide, das aus sich selbst heraus widerstandsfähig ist.”, macht Schmehe deutlich. Ein Ziel, das den Saatgut-Giganten wohl keine Freude machen wird. Und es ist fast erreicht, denn der “Dottenfelder Hafer” befindet sich aktuell bereits in der amtlich vorgeschriebenen Saatgutanmeldung (nur zugelassenes Saatgut darf in Deutschland gehandelt werden). Sepp Braun freut sich sichtlich über den Erfolg und präsentiert uns seine heranreifenden Ähren: <strong>“Mir ist wichtig, dass die Sorte vital und gesund ist. Und das sieht man diesem Hafer einfach an!”<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-right"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b67bbda8-9d3e-43ac-82cc-37d85da9f7a8": {
+      "type": "rich-text",
+      "blocks": {
+        "9b19eb0f-95d5-41f6-98bb-bbbe4fbeb8f8": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "66a365f4-610e-4240-bfd6-1cdd79789097": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>DAS FELD ALS BIENENWEIDE<\/h2><p><strong> Dann macht er uns auf die zweite Besonderheit des Barnhouse-Feldes aufmerksam – eine Blühmischung als Untersaat.<\/strong> Und was uns vorher gar nicht so bewusst aufgefallen wäre, sehen wir jetzt auch: Zwischen den dicht stehenden Haferähren wachsen allerlei Blumen und Kräuter. Ein “lebendiges” Feld. Und kein Vergleich z.B. mit einem konventionellen Maisfeld, auf dem zwischen den einzelnen Maishalmen dank intensiven Herbizideinsatzes nichts, aber auch gar nichts wächst.  <strong>“Wir Bauern haben eine Verantwortung für die Umwelt und das Klima.”<\/strong>, macht uns Sepp deutlich.<strong> “Die Unterpflanzung ist enorm wichtig als Nahrung für die Bienen. Und sie ist wahre Medizin für den Boden.”<\/strong> In Zeiten, in denen nicht wenige Bienenvölker verhungern, weil sie in von konventioneller Landwirtschaft geprägten Gegenden schlichtweg zu wenig Nahrung finden, ist das von großer Bedeutung.<\/p><p><strong>Hier wird Sepps Denkweise wieder deutlich: Arbeiten mit der Natur<\/strong> statt – wie in der konventionellen Landwirtschaft üblich – der Kampf mit ihr und oftmals auch gegen sie. Der Landwirt arbeitet seit 1988 pfluglos und betreibt seit 1994 nur mehr Minimalbodenbearbeitung, um den Boden nicht zu verdichten und die Bodenschichten zu schonen. “Nur durch gute, lebendige Böden könnten gute Voraussetzungen für das dauerhafte Gedeihen von Pflanzen geschaffen und damit die Welternährung sichergestellt werden.”<\/p><h3>GESUNDER BODEN – GESUNDE MENSCHEN<\/h3><p><strong>Bis zu 350 Regenwürmer tummeln sich auf einem Quadratmeter natürlichen Ackers.<\/strong> Dagegen findet man gerade einmal etwa 18 der so enorm nützlichen Lebewesen in von konventioneller Landwirtschaft verdichteten Böden.  Das senkt natürlich auch die für unser Klima so wichtigen Fähigkeit des Bodens, CO2 zu speichern oder Wasser aufzunehmen.  Die nicht lange zurückliegenden Überschwemmungen in Niederbayern haben für den Bio-Bauern auch ihre Ursache in diesen verdichteten Böden, die nicht mehr in der Lage sind, die Wassermengen eines Starkregens aufzunehmen.<\/p><p><strong>Sepps Philosophie und Arbeit läßt sich wie folgt auf den Punkt bringen: Ein gesunder Boden ist Basis des Landwirtschaftens und damit unabdingbare Voraussetzung für gesunde Pflanzen, gesunde Tiere und letztendlich gesunde Menschen.<\/strong> Und wir staunen, wie einleuchtend das doch ist. Und wie die auf reinen Ertrag ausgerichtete, “moderne” Agrarwirtschaft dies permanent ignoriert…<\/p><h3>DIE BARNHOUSE-VISION: DAS DREI-NUTZEN-FELD<\/h3><p>Sepp pflückt für uns eine Rispe aus dem Haferfeld: Leindotter – eine uralte Kulturpflanze, die vor allem durch den Öko-Landbau langsam wieder an Bedeutung gewinnt. “Der Leindotter eignet sich ideal als Unterpflanzung.” erklärt er. “Er ist ein sogenannter ‘Kavalier’, weil er nicht höher wächst als der Hafer.” Neben seinem Stellenwert als Ölpflanze ist der Leindotter ein sehr guter Bodenverbesserer und während der Blütezeit so immens wertvoll für die Bienen. <strong>Ein Ansatz, der uns begeistert und den wir mit unserem Barnhouse Regionalprojekt weiterverfolgen werden:<\/strong> <strong>Ein “Drei-Nutzen-Feld”, das ökologisch gezüchteten Bio-Hafer mit den Möglichkeiten einer für Natur und Mensch nützlichen Unterpflanzung auf einer Fläche vereint.<\/strong> Wir sind Feuer und Flamme und uns sicher, dass wir gemeinsam mit Sepp Braun, Ben Schmehe und unseren Partner-Landwirten hier noch einiges bewegen werden.<\/p><h3>BARNHOUSE ALS SAATGUT-PIONIER:<br\/>AUF DEM WEG ZUR ERSTEN ÖKOLOGISCHEN SOMMERHAFER-SORTE<\/h3><p>Nach der Rückkehr zum Hof stärken wir uns mit einer kleinen Brotzeit und kommen in den Genuss einer Präsentation von Ben Schmehe und seiner wichtigen Züchtungsarbeit (Bild unten: Das Versuchsfeld auf dem Dottenfelderhof). <strong>Der Dottenfelderhof ist in Deutschland die einzige Initiative<\/strong>, die Spelzhafer nach den Richtlinien der biologisch-dynamischen oder ökologischen Landwirtschaft züchtet. Dabei wird immer wieder festgestellt, wie wichtig es ist, unter den Bedingungen zu züchten, unter denen auch der spätere Anbau stattfindet.<\/p><p><strong>Derzeit stammt das Saatgut aller Hafersorten, die ökologisch angebaut werden, aus konventioneller Züchtung.<\/strong> Diese sind entweder mittel oder sogar hoch anfällig gegenüber dem Flugbrand. Der einzi­ge Grund, warum es nicht zu Saatgutaberkennungen kommt, liegt darin, dass die Saatgut­produktion meist unter konventionellen Bedingungen (inklusive entsprechender Spritz- und Beiz­mittel) statt­findet. Nur die letzte Vermehrungsstufe des Saatgutes findet unter ökologischen Bedingungen statt. <strong>Danach gilt das Saatgut als ökologisch und darf an Bio-Landwirte abgegeben werden.<\/strong><\/p><p>Eine von Beginn an ökologisch gezüchtete Sorte gibt es bislang weltweit nicht – aber daran wird sich dank der Arbeit des Dottenfelderhofes bald etwas ändern. Da die Entwicklung und Anmeldung von Hafersorten sehr aufwändig und auch teuer ist, <strong>unterstützt und begleitet Barnhouse, wie bereits erwähnt, dieses Saatgut-Projekt finanziell von 2016 bis 2018 mit jährlich 15.000 €. Eine notwendige Finanzierung, um die letzte Hürden für die Saatgutzulassung zu nehmen. Und eine lohnenswerte Investition in die Weiterentwicklung des Öko-Landbaus. Als Bio-Pionier freuen wir uns sehr, dass wir hier auch als “Bio-Saatgut-Pionier” aktiv mit dabei sein dürfen.<\/strong><\/p><p><em><strong>EXKURS: Züchtung und Saatgutproduktion, konventionell und biologisch. Wo sind hier genau die Unterschiede und Abgrenzungen? Wir haben Ben Schmehe befragt – seine Antworten finden Sie  <\/strong><\/em><a href=\"https:\/\/barnhouse.de\/de\/home\/unsere-partner-landwirte\/info-oeko-saatgut.html\" target=\"_blank\"><em><strong>hier<\/strong><\/em><\/a><em><strong>.<\/strong><\/em><\/p><h3>EIN HOFRUNDGANG, DER UNS BEEINDRUCKT<\/h3><p>Inspiriert und die Köpfe voller Ideen und Pläne lassen wir uns von Sepp zum Abschluss noch kurz über das Anwesen führen. Hofhund Sina ist natürlich eifrig mit dabei (und bringt uns unermüdlich ihr “Stöckchen”…). <strong>Sepps Achtung und Respekt vor der Natur und dem Mitgeschöpf Tier ist überall spür- und erlebbar.<\/strong> Entspannt stehen die Milchkühe in einem Stall, der gemeinsam mit Verhaltensbiologen geplant wurde, um den Ansprüchen der Tiere gerecht zu werden. Völlig frei können sie zwischen Stall und Weide wählen. Aufmerksam werden wir von den Kühen beim Eintreten gemustert, während die Schweine, die träge im Stroh daneben liegen, uns verschlafen ignorieren. Am anderen Ende des Stalls ist Sofie, die Hofkäserin, zugange, die die schmackhaften Dürnecker Rohmilch-Kreationen bereitet.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "df70936f-dd70-418c-9e8c-ace3efeaabf6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "9b19eb0f-95d5-41f6-98bb-bbbe4fbeb8f8",
+        "66a365f4-610e-4240-bfd6-1cdd79789097",
+        "df70936f-dd70-418c-9e8c-ace3efeaabf6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0ffd6495-870e-4278-a055-80fc451861f8": {
+      "type": "gallery",
+      "blocks": {
+        "b9039084-f04b-43fd-99a6-d1b8f981ac70": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-right"
+          }
+        },
+        "f6d2982e-0986-4c13-b2d3-514352c0f570": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Braun_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "b9039084-f04b-43fd-99a6-d1b8f981ac70",
+        "f6d2982e-0986-4c13-b2d3-514352c0f570"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "89cfa212-8e56-481f-8063-6e8e88174441": {
+      "type": "rich-text",
+      "blocks": {
+        "0b686149-9344-4c16-a685-5f86e614e79f": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "253caf84-43a9-4f5d-aced-2fe161d85265": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Stolz zeigt uns Sepp auch die neuesten Hofbewohner:<\/h3><p>seine Hühner. “Ich wollte das einfach mal ausprobieren!”, sagt er mit einem verschmitzten Lächeln. <strong>Mit der ihm eigenen Intuition und Empathie sowie dem Vertrauen in die Natur geht er ganz unverkrampft an die Hühnerhaltung heran<\/strong> und hat sich absichtlich nicht über mögliche Hindernisse und Risiken schlau gemacht. Wir werfen einen Blick in den “Hühner-Kindergarten”, einem mobilen Stall: Hier tummeln sich die flauschigen Küken der Rasse “Les Bleues”, einer Zweinutzungsrasse – männliche Küken werden hier nicht als unwirtschaftlich aussortiert.<\/p><p><strong>Die “großen” Hühner dürfen sich über zwei lichtdurchflutete Ställe in Holzbauweise freuen<\/strong>, die auch uns begeistern: In einem Stall wohnen die braunen “New Hampshire Hennen”, im anderen die weißen, blaufüßigen “Les Bleues”. Mit großer Neugier kommen die Hühner gleich auf uns zu. Die großen Ställe sind zweigeteilt und verfügen über eine Art Wintergarten, in dem die Tiere nach Herzenslust scharren oder in einem eigenen Staubbad Gefiederpflege betreiben können. Manche sind hinterher so staubbedeckt und mausgrau, dass wir sie für eine eigene Rasse gehalten haben.<\/p><p>Im Freien finden die Hühne Schutz in einem “Agroforst”, einer langgezogenen Gruppe aus Bäumen und Sträuchern. Verblüfft erfahren wir von Sepp: “In den Bäumen sind auch Krähen zuhause. Und diese schützen die Hühner vor den Raubvögeln.” <strong>Ein weiteres Beispiel für die Arbeit des Bio-Landwirts mit der Natur.<\/strong><\/p><p><strong>Erstaunt sind wir auch über das von Sepp verwendete Hühnerfutter.<\/strong> Die Tiere erhalten eigens auf dem Hof gekeimte Saaten (die übrigens genauso appetitlich aussehen wie die Sprossen, die wir uns zuhause in den Salat mischen). Kein Wunder, dass die Hühner bei dieser gesunden, lebendigen Nahrung alle echte Schönheiten sind! Dass er bei dieser Art der Hühnerhaltung ein Dürnecker Ei deutlich über dem üblichen Marktpreis verkaufen muss, nimmt Sepp gelassen in Kauf. Seine Prioritäten liegen – wie wir wissen – woanders.<\/p><p><strong>Mit ganz vielen Eindrücken verabschieden wir uns von Sepp Braun. Wieder haben wir dazugelernt und Neues erfahren. Wieder sind wir mit Respekt vor den Leistungen der Bio-Bauern erfüllt, die ganz bewusst den schwierigeren Weg gewählt haben. Und wir freuen uns, mit Sepp Braun einen visionären Menschen an Bord unseres Regional-Projekts zu haben. Mit großer Zuversicht, was die Zukunft und Entwicklung des Öko-Landbaus anbelangt, treten wir die Heimreise an.<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "9aa28953-e943-48cb-95dd-5f5ea37b4f74": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "0b686149-9344-4c16-a685-5f86e614e79f",
+        "253caf84-43a9-4f5d-aced-2fe161d85265",
+        "9aa28953-e943-48cb-95dd-5f5ea37b4f74"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "b67bbda8-9d3e-43ac-82cc-37d85da9f7a8",
+    "0ffd6495-870e-4278-a055-80fc451861f8",
+    "89cfa212-8e56-481f-8063-6e8e88174441"
+  ]
+}

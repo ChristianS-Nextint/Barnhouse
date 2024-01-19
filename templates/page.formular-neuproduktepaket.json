@@ -1,0 +1,134 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "f8bdf016-c9b7-4726-9037-68303791ac36": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20003693953360__f8bdf016-c9b7-4726-9037-68303791ac36-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gewinne ein \"Sweet & Snack\" Neuheiten-Paket",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "f18b11d4-9b68-4133-a5be-95e10f11c66c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du möchtest eines von <strong>100 Paketen<\/strong> mit unseren <strong>Neuheiten Krunchy Salted Caramel Chunks<\/strong> und den <strong>drei Snack it! <\/strong>Styles <strong>gewinnen<\/strong>? Dann fülle einfach bis <strong>XY.1.23 <\/strong>unser kurzes Teilnahmeformular aus und schon bist du im Lostopf mit dabei.<\/p><p>Viel Glück! 🍀<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20003693953360__f8bdf016-c9b7-4726-9037-68303791ac36-heading-1",
+        "f18b11d4-9b68-4133-a5be-95e10f11c66c"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 20
+      }
+    },
+    "17018700274b404264": {
+      "type": "apps",
+      "blocks": {
+        "af3dedcf-0874-44dd-8a13-edb6cb778dab": {
+          "type": "shopify:\/\/apps\/hulk-form-builder\/blocks\/form-block\/b6b8dd14-356b-4725-a4ed-77232212b3c3",
+          "settings": {
+            "form_uuid": "cKOLvlAAGRLdvE8fhOhfTw",
+            "form_settings": false,
+            "font_color": "#000000",
+            "size": 14,
+            "input_background_color": "#ffffff",
+            "input_background_color_focus": "#f4dada",
+            "input_border_radius": 1,
+            "input_border_color": "#ebe9e9",
+            "input_border_color_focus": "#2d2727",
+            "input_font_color": "#3d3131",
+            "input_size": 14,
+            "border_color": "#121212",
+            "border_radius": 2,
+            "border": 1,
+            "fill_color": "#ebe9e9",
+            "padding": 35,
+            "form_width": 600,
+            "btn_text": "Submit",
+            "sub_btn_txt_color": "#f3f3f3",
+            "sub_btn_bg_color": "#3f3333",
+            "sub_btn_font_size": 14,
+            "sub_btn_bdr_color": "#ffffff",
+            "sub_btn_bdr_rad": 3,
+            "sub_btn_bdr_width": 1,
+            "fonts": "Times New Roman"
+          }
+        }
+      },
+      "block_order": [
+        "af3dedcf-0874-44dd-8a13-edb6cb778dab"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "612d5461-1d1b-41fb-9b5f-beeafee9e384": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20003693953360__612d5461-1d1b-41fb-9b5f-beeafee9e384-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier geht´s zu den Teilnahmebedingungen und unserer <a href=\"https:\/\/barnhouse.de\/policies\/privacy-policy\" target=\"_blank\" title=\"https:\/\/barnhouse.de\/policies\/privacy-policy\">Datenschutzerklärung<\/a>.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20003693953360__612d5461-1d1b-41fb-9b5f-beeafee9e384-text-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f8bdf016-c9b7-4726-9037-68303791ac36",
+    "17018700274b404264",
+    "612d5461-1d1b-41fb-9b5f-beeafee9e384"
+  ]
+}

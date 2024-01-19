@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_8_98ba542b-a6ed-4fc2-876e-ba295da1a505.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_2_3c3d2f4a-e707-48c6-a39a-4c0b7e9f3572.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_6_5bead479-b9a8-4eed-a4fc-e3abb707e60a.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Hans Reichl – Schwindegg",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Wer, wenn nicht wir“<\/h2><p><em>„Es ist wichtig und schön zu wissen, wohin das eigene Getreide <br\/>geliefert wird. Mit meiner Mithilfe kann ein regionales Bio-Produkt <br\/>entstehen. Die kurzen Lieferwege und die faire Entlohnung für das <br\/>Getreide sprechen klar für diese Gemeinschaft.“<\/em><\/p><p>Naturland-Bauer Hans Reichl ist schon länger Teil der Barnhouse <br\/>Liefergemeinschaft und gemeinsam konnten wir schon einige Projekte umsetzen. Immer wieder hält er uns auf dem Laufenden, was seine Arbeit <br\/>auf dem Schafdornerhof betrifft und baut für unser Krunchy Hafer und Dinkel an.<\/p><p>Daneben findet man auf dem 35 ha großen Hof auch noch Weizen und Roggen für die Draxmühle, sowie Erbsen, Ackerbohnen und <br\/>Luzerne-Kleegras, das an seine weiblichen Jungrinder verfüttert wird.<\/p><p><em>„Die Rinder werden aufgezogen für den Milchviehbetrieb meiner <br\/>Schwester, die die Milch an die Berchtesgadener Land Molkerei in Piding liefert. Auf eine artgerechte Jungrinderhaltung wird besonderer Wert gelegt, denn diese können sich im Stall frei bewegen und haben stets <br\/>Weidezugang. Auch die Bodenbewirtschaftung ist nachhaltig ausgerichtet, <br\/>es findet eine überwiegend pfluglose Bodenbearbeitung statt“,<\/em> erklärt uns Hans, der den Hof gemeinsam mit seiner Frau Astrid Wöhrl führt.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_7_b32ad822-cffc-4728-86e5-daed164a80ad.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_5_36968330-b12f-41d9-818e-951ad56eda76.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_1_7380c55c-9be1-42c2-b679-272d4378e710.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "top-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "c36ace06-011a-414a-8489-b64f485c323c",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17fd6be3-57a1-4692-9923-e1d69e4543dc": {
+      "type": "rich-text",
+      "blocks": {
+        "495a2b91-eb65-4391-b5c5-cb65b9ce1f04": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "da9b68fd-16ea-4fb7-8dd1-5fe09bfc3702": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Die Umstellung auf bio erfolgte bei den beiden 2000. Doch was treibt den Bio-Landwirt an?<\/strong><\/p><p><em>„Die Schaffung und Erhaltung der natürlichen Artenvielfalt macht <br\/>mir besonders Freude. Dies kann nur mithilfe einer nachhaltigen und schonenden Arbeitsweise gelingen, welche den Einsatz von Mineraldüngern und chemischen Pflanzenschutzmitteln untersagt“.<\/em><\/p><p>So setzt er seit sechs Jahren auf eine pfluglose Bestellung der <br\/>Flächen und eine möglichst flache Bearbeitung zur Schonung der Bodenlebewesen. Auch eine intensive und dauerhafte Begrünung der Flächen durch Zwischenfruchtanbau gehören zu den Anbau- und Arbeitsmethoden des Hofes.<\/p><p>Neben der Landwirtschaft führt Hand Reichl gemeinsam mit seiner Frau <br\/>Astrid auch das Bio-Hotel AmVieh-Theater auf seinem Hof. Das Hotel wird <br\/>ökologisch bewirtschaftet, das heißt es werden nur Bioprodukte <br\/>verarbeitet und den Gästen angeboten.<\/p><p><em>„Unsere nachhaltige Einstellung setzt sich im Privaten Bereich <br\/>ebenfalls fort, z. B. mit einem eigenen Elektroauto, das ausschließlich <br\/>mit dem eigenen Solarstrom geladen wird. Im Herbst 2018 haben wir <br\/>gemeinsam mit Barnhouse und weiteren Naturbegeisterten eine 100 m lange <br\/>Hecke gepflanzt, direkt neben einer seit 7 Jahren bestehenden <br\/>agrarökologischen Blühfläche mit 4.000 m²“<\/em>, erzählt uns Hans stolz, der sich auch in der Ökomodellregion Mühldorfer Land seit Beginn an engagiert.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "f16cb534-be03-4840-a2ba-fba5bd1f3a12": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "495a2b91-eb65-4391-b5c5-cb65b9ce1f04",
+        "da9b68fd-16ea-4fb7-8dd1-5fe09bfc3702",
+        "f16cb534-be03-4840-a2ba-fba5bd1f3a12"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d5f0160d-5344-47ee-b5f3-8b1433c2856e": {
+      "type": "gallery",
+      "blocks": {
+        "0486903d-a04e-45f5-83da-175fb680423a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_Startbild_3de843f0-b2a0-4e8e-a51a-29fbdd5f4a01.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c87b8b47-20f2-4a2a-8279-e92cf0016e76": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_3_f5b7601d-1b13-425c-b296-dc9a80a17af7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "cb37ffbb-6291-4200-af57-b0e0b6e84a3f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Reichl_4_547815c5-8042-4027-8411-86998840a7d3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "top-center"
+          }
+        }
+      },
+      "block_order": [
+        "0486903d-a04e-45f5-83da-175fb680423a",
+        "c87b8b47-20f2-4a2a-8279-e92cf0016e76",
+        "cb37ffbb-6291-4200-af57-b0e0b6e84a3f"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9fc840db-1dfb-4791-b51f-99562639376c": {
+      "type": "rich-text",
+      "blocks": {
+        "1aac5d16-a9d0-419d-9974-78e3fcc00c05": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c32c161a-be3d-4b7e-ba1b-57a9a31903e0": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>“Mir macht es ungemein Spaß, zu wissen, wohin mein Getreide geht!”<\/strong><\/h2><p><strong>Wir sind zu Besuch bei Hans Reichl auf dem Schafdorner Hof bei Schwindegg, ca. 20 Autominuten nordöstlich von Barnhouse entfernt, <br\/>eingebettet in eine sanfte Hügellandschaft. Die Geschichte des <br\/>traditionellen Vierseithofes, der von Hans und seiner Frau Astrid bewirtschaftet wird, reicht mehrere hundert Jahre zurück. 40 Hektar ist er groß, davon sind 30 ha Ackerland.<\/strong><\/p><p>Der Schafdorner Hof liegt sehr idyllischin einer weitläufigen <br\/>Senke und als wir eintreffen, werden wir von den Lamas Fridolin und Wendelin, den Alpakas Ernie und Bertie sowie natürlich Oskar, dem Hofhund, neugierig begrüßt. Schafe, Ponys und Hasen sind ebenfalls im Obstgarten und auf den benachbarten Weiden zu finden.<\/p><p><\/p><h2>Hans Reichl baut für Barnhouse Hafer und Dinkel an, <\/h2><p>aber auch Weizen und Roggen für die Hofpfisterei sowie Braugerste für das gute Bio-Bier der Mühldorfer Unertl-Brauerei. Bohnen, Kleegras und Erbsen wachsen für die Aufzucht von Kalbinnen (so nennt man in Bayern die weiblichen Jungrinder), die später einmal als Kühe Bio-Milch für die Molkerei Berchtesgadener Land geben werden. <strong>Der Schafdorner Hof ist <\/strong><a href=\"https:\/\/www.naturland.de\/de\/\"><strong>Naturland-<\/strong><\/a><strong>zertifiziert und wurde 2001 auf “Bio” umgestellt.<\/strong><\/p><p>Im Obstgarten gibt es seit 10 Jahren das <a href=\"http:\/\/amvieh-theater.de\/\">AmVieh-Theater<\/a>,<br\/> eine Kleinkunstbühne mit einem neu errichteten Biohotel. Die Besucher werden mit 100% biologischen Speisen und Getränken versorgt – viele <br\/>davon stammen vom eigenen Hof. <strong>Seit die Hotelgäste wissen, dass der Hafer für das Barnhouse Granola vom Hof kommt, schmeckt ihnen das <br\/>Hotelfrühstück nochmal besser.<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "f6a6e905-f0c9-47fe-bb3b-317ca9450ed1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1aac5d16-a9d0-419d-9974-78e3fcc00c05",
+        "c32c161a-be3d-4b7e-ba1b-57a9a31903e0",
+        "f6a6e905-f0c9-47fe-bb3b-317ca9450ed1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "17fd6be3-57a1-4692-9923-e1d69e4543dc",
+    "d5f0160d-5344-47ee-b5f3-8b1433c2856e",
+    "9fc840db-1dfb-4791-b51f-99562639376c"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brandl_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brandl_7.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brandl_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Franz Brandl – Reithofen",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Gut Ding braucht Weile“<\/h2><p>Der Hof von Partner-Landwirt Franz Brandl war ursprünglich eine Schmiede und eine Landwirtschaft, weshalb er auch die beiden Namen „Brandlhof“ und „Beim Wallnerschmied“ besitzt. 1907 folgte die Umstellung auf einen konventionell landwirtschaftlichen Betrieb und 1982 entschied man sich, auf bio umzustellen. Zwei Jahre später wurden der Hof und seine Eigentümer Mitglieder bei <strong>Naturland<\/strong> und <strong>Tagwerk.<\/strong><\/p><p>Franz Brandl bewirtschaftet den Hof, den er 2019 von seinen Eltern übernommen hat, im Nebenerwerb und ist vormittags noch als Landmaschinenmechaniker tätig. Seine Eltern unterstützen ihn weiterhin tatkräftig und so kann der Hof als Familienbetrieb geführt werden.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brandl_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brandl_2.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Brandl_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9d2ce5f9-ed82-4cd7-9bdc-42ef672b098a": {
+      "type": "rich-text",
+      "blocks": {
+        "402adfcf-80fb-4af9-8e2c-600d5038e550": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "6750b3ea-c92b-48ba-9d16-1491c53c8aea": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>„Unsere Schöpfung erhalten“<\/strong><\/p><p>Dem Naturland-Bauern ist es wichtig, gesunde Lebensmittel zu <br\/>produzieren und gleichzeitig die Bodenfruchtbarkeit zu steigern. Auch der verantwortungsvolle Umgang mit Mensch, Tier und Natur steht bei ihm ganz oben. Dabei versucht er so wenig wie möglich und so viel wie nötig <br\/>in die Natur einzugreifen und eine Kreislaufwirtschaft zu erhalten. Dafür hat er aus einer Vielfalt an Wisse und Erfahrungen auch ein eigenes Anbausystem entwickelt.<\/p><p>Neben verschiedenen Getreidesorten wie Weizen, Hafer, Roggen und Dinkel baut er auch Kleegras und Triticale an. Letzteres nutzt er für die Fütterung seiner besonderen Aubrac-Rinder. Dabei handelt es sich um eine 150 Jahre alte robuste Rinderrasse, die aus der Kreuzung von Braunvieh und Maraichine-Rind entstand.<\/p><p>Das im Betrieb erzeugte Fleisch, das Getreide und der Honig werden anschließend über Wochenmärkte an den Endverbraucher gebracht. Doch auch Restaurants und eine Bäckerei beliefert Franz Brandl.<\/p><p><\/p><p><strong>Das schätzt Franz Brandl an der Partnerschaft mit Barnhouse:<\/strong><\/p><p><em>„Regionale Vermarktung ist mir sehr wichtig und die Erhaltung <br\/>einer kleinbäuerlichen Struktur. Die Liefergemeinschaft setzt sich für die Vernetzung der Landwirte ein, dadurch erzeugt Barnhouse eine familiäre Gemeinschaft. Barnhouse steht für mich für Nachhaltigkeit.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "e48019f4-a12a-4514-a739-e89c8fbecd34": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "402adfcf-80fb-4af9-8e2c-600d5038e550",
+        "6750b3ea-c92b-48ba-9d16-1491c53c8aea",
+        "e48019f4-a12a-4514-a739-e89c8fbecd34"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "9d2ce5f9-ed82-4cd7-9bdc-42ef672b098a"
+  ]
+}

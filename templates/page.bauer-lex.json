@@ -1,0 +1,342 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse-Bauer-Lex-7.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Lex_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Lex_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Familie Lex – Bockhorn",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der 150 ha große Pointnerhof ist schon seit vielen Jahrhunderten im Besitz von Familie Lex und wird von dieser seit mehreren Generationen im Vollerwerb geführt. Unterstützt werden sie dabei von einigen Mitarbeitern, doch auch Auszubildende und Praktikanten beschäftigen sie.<\/p><p><strong>Das wird auf dem Biohof Lex angebaut:<\/strong><\/p><p><em>„Vieles…. Saatgutvermehrungen, Wildblumen, alte Getreidesorten, <br\/>glutenfreie Getreidearten und alles was interessant und schwierig ist“<\/em>, erklärt uns Bernadette, die den Hof gemeinsam mit ihren Eltern und Schwester Raphaela führt.<\/p><p>Doch auch besondere Kulturen wie Hirse, Hanf und Buchweizen findet <br\/>man auf dem Hof, der bereits 1980 auf bio umgestellt wurde. Beim Anbau achten die <strong>Naturland<\/strong>-Bauern dabei stets auch einen guten Bodenaufbau, Biodiversität und Mischkulturen.<\/p><p>Neben dem Anbau diverser Getreidesorten halten Bernadette und ihre Familie auch noch 400 Legehennen. Zudem steht auf dem Hof eine eigene Mühle und ein kleiner Hofladen, in dem sie ihre Produkte verkaufen. Mehr<br\/> Infos dazu findet ihr auch auf der Webseite des Hofes: <a href=\"http:\/\/www.biohof-lex.de\">www.biohof-lex.de<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Lex_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Lex_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Lex_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d0b75b4e-3232-4d82-9de3-396c22404d15": {
+      "type": "rich-text",
+      "blocks": {
+        "40c134b7-eac0-4743-ae29-5cfabb2ba161": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9799b6bd-aa42-4cda-87b0-734374c44788": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Wieso die Umstellung auf bio?<\/strong><\/p><p><em>„Ja mei, langweilig wird’s gar nie… Obwohl’s an Haufen Arbeit <br\/>ist, ist es halt auch Freiheit und Unabhängigkeit…. Einen Betrieb kann man ja in so vielerlei Richtungen entwickeln….“<\/em>,  erklärt uns Bernadette.<\/p><p>Und auch die Partnerschaft mit Barnhouse findet sie super: <em>„Tolles<br\/> Projekt; tolle Produkte, die wir auch gern im Hofladen verkaufen; schön  ist für jeden Landwirt einen verlässlichen Partner zu haben“.<\/em> Und das können wir nur an alle Landwirte zurückgeben, denn ohne euren Hafer und Dinkel könnten wir bestimmt nicht so ein tolles und gutes Produkt <br\/>herstellen. 🙂<\/p><p><\/p><p><strong>Der <\/strong><a href=\"http:\/\/www.biohof-lex.de\/\"><strong>Biohof Lex <\/strong><\/a><strong>zählt zu den echten Pionieren und ist <\/strong><a href=\"https:\/\/www.naturland.de\"><strong>NATURLAND<\/strong><\/a><strong>-Mitglied seit Verbandsgründung.<\/strong><\/p><p>Seit Beginn des 17. Jahrhunderts ist der Hof in Familienbesitz und bereits 1979 (übrigens auch das Barnhouse-Gründungsjahr) hat Lorenz Lex den Betrieb auf ökologischen Anbau umgestellt. Der beeindruckende Hof mit <br\/>über 100 ha erzeugt zur Direktvermarktung sämtliche Getreidearten mit dem Schwerpunkt auf Dinkel. Aber auch Sojabohnen, Gewürze, Kartoffeln, Sonnenblumen, Buchweizen, Speisemais und Braunhirse werden angebaut.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "f9b494ff-92e2-41e4-9e2c-ef4f08786824": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "40c134b7-eac0-4743-ae29-5cfabb2ba161",
+        "9799b6bd-aa42-4cda-87b0-734374c44788",
+        "f9b494ff-92e2-41e4-9e2c-ef4f08786824"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9d7d1b5b-17e9-4786-907f-fc7dbf12c053": {
+      "type": "gallery",
+      "blocks": {
+        "ca43ad65-5639-4275-95e7-3324495ae778": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse-Bauer-Lex-8.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "fdd90b8b-66ef-46e7-863b-4cf4a3f94b99": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Lex_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "ca43ad65-5639-4275-95e7-3324495ae778",
+        "fdd90b8b-66ef-46e7-863b-4cf4a3f94b99"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2835ae8a-137f-4807-8a4e-5e832e1ce248": {
+      "type": "rich-text",
+      "blocks": {
+        "2853dc3d-f3b8-49e2-8897-34e6c1f40dea": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "2fb0848a-b1de-469c-bc87-bf15ce39a1a0": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Raphaela ist bayerische Bio-Königin!<\/h3><p>Wusstest du, dass Familie Lex auch eine eine echte Königin hat? Wir freuen uns riesig, dass Raphaela Lex zur Bayerischen Bio-Königin „gekrönt“ wurde. Bis Ende 2024 ist sie damit Botschafterin der ökologischen Land- und Lebensmittelwirtschaft – eine wichtige Aufgabe! Für uns ist Raphaela die perfekte Person dafür, denn „Bio“ ist ihr Leben.  Wir gratulieren von Herzen und sind schon ein wenig stolz, sie zu unseren LandwirtInnen zählen zu dürfen. <\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "5fd153e4-4d93-4b31-a780-8bf52f8e56d0": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "2853dc3d-f3b8-49e2-8897-34e6c1f40dea",
+        "2fb0848a-b1de-469c-bc87-bf15ce39a1a0",
+        "5fd153e4-4d93-4b31-a780-8bf52f8e56d0"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "d0b75b4e-3232-4d82-9de3-396c22404d15",
+    "9d7d1b5b-17e9-4786-907f-fc7dbf12c053",
+    "2835ae8a-137f-4807-8a4e-5e832e1ce248"
+  ]
+}

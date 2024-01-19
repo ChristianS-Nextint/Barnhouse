@@ -1,0 +1,342 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_6.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Herbert Hochreiter – Garching",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Der Naturschutz ist mir sehr wichtig!“<\/h2><p>Der Mooswinkelhof in Halsbach ist schon seit mehreren Jahrhunderten im Besitz der Familie Hochreiter. Schon 1982 wurde der Hof auf bio umgestellt, damals noch von den Eltern von Herbert Hochreiter, der den Hof heute im Nebenerwerb leitet. Hauptberuflich ist er Ingenieur und arbeitet als Software- und System-Tester.<\/p><p>Auf den 23 ha Feldern, Wiesen und Wald, werden außer unserem Barnhouse-Hafer und Dinkel noch viele andere Dinge angebaut. Leindotter, Roggen, Gerste, Ackerbohnen, Erbsen, etc. Seit 2019 bevölkern auch noch mehrere Alpakas den Bauernhof.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "47c49aea-2e2f-410a-8a8c-5d1aee0703ba": {
+      "type": "rich-text",
+      "blocks": {
+        "4543bce5-9776-414e-ab6c-543ddaa75c18": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "52550aaf-1e72-4886-a617-107ca6f9311e": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Herbert Hochreiter ist Mitglied im <strong>Biokreis<\/strong>-Anbauverband und erklärt uns, weshalb er so gerne Bio-Landwirt ist:<\/p><p><em> „Meinen Bauernhof möchte ich wie schon meine Eltern auf natürliche und nachhaltige Weise bewirtschaften. Ich möchte naturbelassene Lebensmittel auf eine Weise erzeugen, die auch möglichst viele Lebensräume für unsere Artenvielfalt erhält.<\/em><\/p><p><em>Um das Bodenleben zu schützen, möchte ich einen möglichst hohen Bedeckungsgrad, insbesondere auch über den Winter erreichen. Ich mache das mit vielfältigen Zwischenfrucht-Mischungen, welche auf die Folgefrucht abgestimmt werden.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "59966ea6-47dd-4ca7-9cbd-579192a904a9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "4543bce5-9776-414e-ab6c-543ddaa75c18",
+        "52550aaf-1e72-4886-a617-107ca6f9311e",
+        "59966ea6-47dd-4ca7-9cbd-579192a904a9"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "47caea53-7431-4e66-848f-990a2a262798": {
+      "type": "gallery",
+      "blocks": {
+        "bf68ff3b-e6b7-4288-b2d6-48457915f91d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "72b9a135-f19c-430c-8c1f-e0c92e5063a3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hochreiter_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "bf68ff3b-e6b7-4288-b2d6-48457915f91d",
+        "72b9a135-f19c-430c-8c1f-e0c92e5063a3"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5e66eac9-0642-479a-b9ec-f4688243de9b": {
+      "type": "rich-text",
+      "blocks": {
+        "ed2876ff-5647-48dc-b8e9-8cee387f2a40": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "8d52b9ea-1f73-4ca2-aa86-a3bcacc74e2b": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Vor allem für den Schutz der Artenvielfalt macht Herbert einiges<\/strong><\/p><p><em>„Die Blühflächen sollen dazu beitragen, dass zum Beispiel die Wildbienen auch nach der Ernte einen Lebensraum haben. Die Hecken sollen einerseits ein Biotop darstellen, andererseits vor Erosionen schützen“<\/em>, erklärt Herbert.<\/p><p>Der Landwirt setzt sich sehr für die ökologische Landwirtschaft ein und hat 2 Hektar Wiesen sogar im Naturschutzprogramm.<\/p><p><strong>Zusammenarbeit mit Barnhouse<\/strong><\/p><p><em>„Ich freue mich und bin dankbar in der Liefergemeinschaft von Barnhouse nun schon seit 3 Jahren dabei sein zu dürfen. Die kurzen Wege und die Möglichkeit schon ab Ernte an das Gemeinschaftlager liefern zu können helfen mir sehr.Ein gutes Gefühl gibt mir auch die wertschätzende und faire Partnerschaft von Barnhouse mit seinen Partnerlandwirten. Und nicht zuletzt kann man beim knusprigen Krunchy-Frühstück in gewisser Weise sein eigener Kunde sein.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "57be76dc-8733-4126-9a5d-585fade906de": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "ed2876ff-5647-48dc-b8e9-8cee387f2a40",
+        "8d52b9ea-1f73-4ca2-aa86-a3bcacc74e2b",
+        "57be76dc-8733-4126-9a5d-585fade906de"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "47c49aea-2e2f-410a-8a8c-5d1aee0703ba",
+    "47caea53-7431-4e66-848f-990a2a262798",
+    "5e66eac9-0642-479a-b9ec-f4688243de9b"
+  ]
+}

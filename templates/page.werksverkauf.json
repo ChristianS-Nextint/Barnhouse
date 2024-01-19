@@ -1,0 +1,311 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "2c064c8e-02cd-41a7-ab05-5b6ec0dd836e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18848855458128__2c064c8e-02cd-41a7-ab05-5b6ec0dd836e-16825877536d33e07e-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Werksverkauf",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18848855458128__2c064c8e-02cd-41a7-ab05-5b6ec0dd836e-16825877536d33e07e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18848855458128__2c064c8e-02cd-41a7-ab05-5b6ec0dd836e-16825877536d33e07e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855458128__2c064c8e-02cd-41a7-ab05-5b6ec0dd836e-16825877536d33e07e-0",
+        "template--18848855458128__2c064c8e-02cd-41a7-ab05-5b6ec0dd836e-16825877536d33e07e-1",
+        "template--18848855458128__2c064c8e-02cd-41a7-ab05-5b6ec0dd836e-16825877536d33e07e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Sabine-mit-Fokus-auf-Schuessel_1ad08d6a-f7bc-4fc8-a261-4f5e6832ca57.jpg",
+        "image_position": "bottom center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 0,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "efdaf6d8-3e02-406c-865c-be510fc2d005": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Werksverkauf",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-0",
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-1",
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "a186d15c-8d03-4e61-ba57-597dd627da34": {
+      "type": "image-with-text",
+      "blocks": {
+        "9b85fa2b-2a6c-41a6-ae47-70ca7defa6ca": {
+          "type": "heading",
+          "settings": {
+            "heading": "Dein Besuch lohnt sich!",
+            "heading_size": "h1",
+            "heading_tag": "h3"
+          }
+        },
+        "eaf1608f-549c-4e9f-b2b6-410923d35512": {
+          "type": "text",
+          "settings": {
+            "text": "<ul><li>Du erhältst<strong> 10% Rabatt<\/strong> auf alle Produkte aus unserem Sortiment<\/li><li>Auf unser <strong>Produkt des Monats <\/strong>bekommst du<strong> 20% Nachlass <\/strong><\/li><li>Wir bieten häufig attraktive <strong>Aktionsware<\/strong> aus Sonderproduktionen, die es so nicht im Bioladen gibt<\/li><li>Lass es dir in unserem gemütlichen <strong>Café<\/strong> mit heißen und kalten Getränken sowie <strong>leckerem Krunchy<\/strong> gut gehen<\/li><li>Misch dir dein <strong>Knuspermüsli ganz nach deinem Geschmack<\/strong> zusammen<\/li><\/ul><p>Wir stellen dir auch Gutscheine für unseren Werksverkauf aus, die sich als ideales Geschenk für alle Krunchy-Liebhaber eignen.<\/p><p>Unsere Kollegin Sabine freut sich schon auf dich und kümmert sich gerne um deine Wünsche!<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "c330e5df-e886-4ade-93c6-b26a25ab99c9": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "9b85fa2b-2a6c-41a6-ae47-70ca7defa6ca",
+        "eaf1608f-549c-4e9f-b2b6-410923d35512",
+        "c330e5df-e886-4ade-93c6-b26a25ab99c9"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/D2783659-B3B3-4E23-A26B-120FDBF015D3.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "450px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 28
+      }
+    },
+    "92a9a157-908c-4038-a020-9d850d8efeb9": {
+      "type": "guarantees",
+      "blocks": {
+        "template--18848855458128__92a9a157-908c-4038-a020-9d850d8efeb9-1682588648c6418728-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Standort",
+            "title_size": "h3",
+            "text": "<p>Edisonstraße 3<br\/>Mühldorf-Nord-Gewerbegebiet<br\/>84453 Mühldorf am Inn<\/p>"
+          }
+        },
+        "template--18848855458128__92a9a157-908c-4038-a020-9d850d8efeb9-1682588648c6418728-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "stopwatch",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Öffnungszeiten",
+            "title_size": "h3",
+            "text": "<p>Jeden Mittwoch: 12- 18 Uhr<br\/>Jeden 1. Samstag im Monat: 10-14 Uhr<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18848855458128__92a9a157-908c-4038-a020-9d850d8efeb9-1682588648c6418728-0",
+        "template--18848855458128__92a9a157-908c-4038-a020-9d850d8efeb9-1682588648c6418728-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "use_custom_colors": false,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "6d2e9c5d-f84f-46d5-b564-7f5736a3c3ba": {
+      "type": "map",
+      "blocks": {
+        "3e552ea2-693e-473a-b442-0f02c0572c97": {
+          "type": "heading",
+          "settings": {
+            "heading": "Barnhouse Werksverkauf",
+            "heading_size": "h3",
+            "heading_tag": "h3"
+          }
+        },
+        "template--18583017095504__6d2e9c5d-f84f-46d5-b564-7f5736a3c3ba-1681998919395b9799-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Edisonstraße 3<br\/>Mühldorf-Nord-Gewerbegebiet<br\/>84453 Mühldorf am Inn<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "814432f2-9208-47cb-b3c4-71542533abfd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Öffnungszeiten",
+            "heading_size": "h3",
+            "heading_tag": "h3"
+          }
+        },
+        "1ec0de3f-0948-48dc-81ce-23acd6a04398": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jeden Mittwoch: 12-18 Uhr<br\/>Jeden 1. Samstag im Monat: 10-14 Uhr<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "3e552ea2-693e-473a-b442-0f02c0572c97",
+        "template--18583017095504__6d2e9c5d-f84f-46d5-b564-7f5736a3c3ba-1681998919395b9799-2",
+        "814432f2-9208-47cb-b3c4-71542533abfd",
+        "1ec0de3f-0948-48dc-81ce-23acd6a04398"
+      ],
+      "custom_css": [
+        "h3.banner__heading.h3 {color: rgb(87, 53, 36) !important;}"
+      ],
+      "settings": {
+        "map_address": "Edisonstraße 3, Mühdorf-Nord-Gewerbegebiet, 84453 Mühldorf am Inn",
+        "map_api_key": "AIzaSyDV9KcsaHuw4nNn84On3xlojcAJqVA-B9k",
+        "map_zoom": 14,
+        "map_style": "standard",
+        "image": "shopify:\/\/shop_images\/Bildschirmfoto_2023-10-27_um_16.35.12.png",
+        "image_position": "center center",
+        "text_box_position": "middle-left",
+        "text_alignment": "left",
+        "image_ratio": "450px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "400px",
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#573522",
+        "colors_text": "#1a1b18",
+        "colors_overlay": "#ffffff",
+        "gradient_overlay": "",
+        "colors_overlay_opacity": 96,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "main",
+    "2c064c8e-02cd-41a7-ab05-5b6ec0dd836e",
+    "efdaf6d8-3e02-406c-865c-be510fc2d005",
+    "a186d15c-8d03-4e61-ba57-597dd627da34",
+    "92a9a157-908c-4038-a020-9d850d8efeb9",
+    "6d2e9c5d-f84f-46d5-b564-7f5736a3c3ba"
+  ]
+}

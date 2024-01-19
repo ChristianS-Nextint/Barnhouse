@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Franz & Luise Egger – Engelsberg",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>„Das Schwarzmaieranwesen von Maisenberg geht laut der uns <br\/>vorliegenden Altbesitzurkunde zurück bis ins Jahr 1700, wobei der kleine Ort mit den zwei Vierseithöfen und der Kirche (alter Edelsitz, angeblich ehem. Klosteranlage) schon 913 genannt wurde. Der jetzige Vierseithof mit Wirtshaus wurde etwa um 1890\/1900, zum Teil wieder auf <br\/>altem Gemäuer, erstellt und ist bis heute so erhalten“<\/em>, erklären uns unsere Partner-Landwirte Luise und Franz Egger stolz.<\/p><p>Nach seiner Schulzeit absolvierte der <strong>Bioland<\/strong>-Landwirt eine landwirtschaftliche Ausbildung und gründete bereits mit jungen 22 Jahren mit seiner Frau Luise eine Familie. Später entschied er sich für eine weitere Ausbildung und fand im Bankwesen eine neue Aufgabe. Neben der Mithilfe auf dem elterlichen Betrieb arbeitete Franz bei <br\/>verschiedenen Banken im Kredit- und Immobilienbereich. 2013 kündigte er diese Stellung und widmete sich mit seiner Frau Luise ganz der Sanierung des historischen Vierseithofes und der biologischen Landwirtschaft.<\/p><p><em>„Meine Mutter ist mit zunehmendem Alter immer wieder mit der Bitte auf uns zugekommen, den Hof doch zu übernehmen und weiterzuführen,<br\/> um einen Verkauf und eine Aufteilung abzuwenden, ein Herzenswunsch meiner Mutter. Nach reiflichen Überlegungen haben wir uns entschlossen, den bis dahin verpachteten Hof mit seinen 32 ha, als Biohof wieder <br\/>selbst zu bewirtschaften und weiterzuführen, da wir bereits seit gut 30 Jahren biologischen Gartenbau betreiben und auf vollwertige und naturnahe Lebensweise immer schon Wert legen.“<\/em> – Franz Egger über die Übernahme und Umstellung des elterlichen Betriebes auf bio.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a20f73e4-2f70-4e44-98f8-20d6369056fa": {
+      "type": "gallery",
+      "blocks": {
+        "b7b8cd67-fed8-4cfb-8e89-5a593cf3996a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "9357eed3-1988-4538-907a-cef4345d0ef0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "1027339f-aea0-4e9f-b38a-f74fe8fed2ed": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_7.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "b7b8cd67-fed8-4cfb-8e89-5a593cf3996a",
+        "9357eed3-1988-4538-907a-cef4345d0ef0",
+        "1027339f-aea0-4e9f-b38a-f74fe8fed2ed"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2b3bc3cd-8f59-4396-80d3-8948149a331c": {
+      "type": "rich-text",
+      "blocks": {
+        "03ba0eb8-a5c1-4c4f-9378-0ed3cce237ec": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "e58f8013-61cb-4a81-89a0-50edafbf3342": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Anbaumethoden bei Familie Egger<\/strong><\/p><p><em>„Nach diversen Fortbildungsseminaren für Biolandbau haben wir uns<br\/> in erster Linie der Gesundung des Bodens, dem Humusaufbau, der <br\/>regenerativen Landwirtschaft verschrieben. Ich versuche pfluglos zu arbeiten, mit Untersaaten im Getreide und Zwischenfrüchten für die Flächenrotte bis zur nächsten Hauptkultur. Unsere Druschfrüchte (Dinkel, Hafer, Braugerste, Weizen, Ackerbohne, Soja) werden zusätzlich mit EM <br\/>und Komposttee behandelt und sind dadurch vitaler und widerstandsfähiger gegen Krankheiten und Schädlinge“<\/em>, beschreibt uns Franz seine Anbaumethoden.<\/p><p>Bei der Übernahme des Hofes haben die beiden bereits mit der <br\/>Pflanzung von Baumalleen und einer Streuobstwiese begonnen. Weitere Pflanzaktionen sind zukünftig noch vorgesehen.<\/p><p><em>„Die Wiederherstellung von artenreichen Wiesen über das <br\/>Vertrags-Naturschutzprogramm, das Pflanzen von Bäumen und Sträuchern in die ausgeräumten Landschaften, um wieder Lebensräume für die teils bedrohte Tier- und Vogelwelt zu schaffen, liegt uns sehr am Herzen.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "693fc31d-2927-478d-8229-8f304cbe4b23": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "03ba0eb8-a5c1-4c4f-9378-0ed3cce237ec",
+        "e58f8013-61cb-4a81-89a0-50edafbf3342",
+        "693fc31d-2927-478d-8229-8f304cbe4b23"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_8.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_9.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Egger_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "c79599f8-fccb-49da-9a9b-a76aaf66e8e0": {
+      "type": "rich-text",
+      "blocks": {
+        "e0e7cc23-2c6b-40b1-9157-e0b80ad79934": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "a8c20cd0-f9eb-4ef8-b064-c04383c3bcef": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dass die Natur immer wieder für Überraschungen gut ist, musste auch der Bioland-Landwirt am eigenen Leib erfahren und den einen oder anderen Rückschlag einstecken. Dennoch ist Franz überzeugt:<em> „Jeder m² Boden, der ohne Ackergifte bewirtschaftet wird, kann nur ein Gewinn für <br\/>Natur und Umwelt und somit für unsere Kinder, die nachfolgenden <br\/>Generationen sein“.<\/em><\/p><p>Vor allem der Humusaufbau und die damit verbundene Co² Speicherung wird im Hinblick auf die zunehmende Klimaveränderung eine immer größere Rolle spielen. Humusreiche Böden haben ein vielfach höheres Wasserhaltevolumen und kommen mit langen Trockenperioden sehr viel <br\/>besser zurecht.<\/p><p><\/p><p><strong>Das schätzen sie an der Barnhouse-Partnerschaft<\/strong><\/p><p><em>„Wir sind gerne Barnhouse Partner-Landwirt, weil die Möglichkeit der regionalen Vermarktung, ohne weite Transportwege, Sinn macht und wir  dies hiermit auch unterstützen möchten. Die bestehenden Lieferverträge <br\/>stellen für uns auch eine gewisse Planungssicherheit dar“.<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "29175d04-2ae5-40a1-a570-7fb5d62f951a": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "e0e7cc23-2c6b-40b1-9157-e0b80ad79934",
+        "a8c20cd0-f9eb-4ef8-b064-c04383c3bcef",
+        "29175d04-2ae5-40a1-a570-7fb5d62f951a"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "a20f73e4-2f70-4e44-98f8-20d6369056fa",
+    "2b3bc3cd-8f59-4396-80d3-8948149a331c",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "c79599f8-fccb-49da-9a9b-a76aaf66e8e0"
+  ]
+}

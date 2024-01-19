@@ -1,0 +1,328 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Johann und Elisabeth Tiefenbeck – Wurmsham",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Häusererhof in Weichselgarten, nahe der Rott-Quelle ist schon seit mehreren hundert Jahren im Besitz von Familie Tiefenbeck. Der Vierseithof mit zusätzlichem Stall und Halle ist ein traditioneller Familienbetrieb und wird im Haupterwerb geführt. Seit 2008 ist der Betrieb Mitglied bei <strong>Bioland<\/strong>.<\/p><p>Hans Tiefenbeck und seine Frau Elisabeth leben gemeinsam mit ihren vier Kindern und den Großeltern auf den Hof und bewirtschaften gemeinsam ca. 30 ha landwirtschaftliche Nutzfläche. Ein Drittel davon wird als Dauergrünfläche genutzt. Der Rest teilt sich auf Kleegras, Wintergerste, Hafer, Triticale und Silo- und Körnermais auf.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-right"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        }
+      },
+      "block_order": [
+        "c36ace06-011a-414a-8489-b64f485c323c",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3d8d7493-4431-4ddb-841c-a96ec3f94956": {
+      "type": "rich-text",
+      "blocks": {
+        "5e01ef39-5929-4618-ad9d-3f2c5ced2c5a": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "a8455d46-c9d5-4695-ac17-70a3cb90d478": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Von Milchkühen zu Bio-Milchziegen<\/strong><\/p><p><em>„In den letzten Generationen wurden Milchkühe gehalten, seit 2008 auf Bio-Milchziegen umgestellt“<\/em>, erzählt uns Hans. Die Familie besitzt 145 weiße deutsche Edelziegen und 50 Jungziegen zur Nachzucht plus 30 weibliche Kitze und vier Böcke. Zudem hat der Landwirt auch 15-20 Hühner für den Eigenedarf.<\/p><p><em>„Unsere Ziegen und Nachzuchttiere liefern Biomilch für die Andechser Molkerei und einen Direktvermarkter im Landkreis Landshut“,<\/em> erklärt uns Hans.<\/p><p><em>„Wir suchten vor ca. 15 Jahren nach einer Alternative zu den Milchkühen, denn hierfür sahen wir mit 25 Kühen keine Zukunftschancen. Jetzt melken wir trotzdem, aber die Tiere sind einen ‚Nummer‘ kleiner. Der Umgang mit den Ziegen macht uns Spaß und wir bereuen die Umstellung überhaupt nicht.“<\/em><\/p><p>Neben der Arbeit mit den Tieren kümmert sich der Bioland-Landwirt auch um seine Felder: <em>„Auf unseren Feldern produzieren wir das Futter für unsere Ziegen. Den Hafer, der gut in die Fruchtfolge passt und nicht auf dem Betrieb benötigt wird, verkaufen wir an euch. Es ehrt uns hier an der Gemeinschaft beteiligt zu sein, und macht uns stolz, hier eine super passende Vermarktung gefunden zu haben.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "a9edcdf9-ce47-4c98-8ba5-73b7c133bcc5": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5e01ef39-5929-4618-ad9d-3f2c5ced2c5a",
+        "a8455d46-c9d5-4695-ac17-70a3cb90d478",
+        "a9edcdf9-ce47-4c98-8ba5-73b7c133bcc5"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "36409f53-3c48-4ea8-83ee-10675398d6bf": {
+      "type": "gallery",
+      "blocks": {
+        "5b07151d-15ee-4f87-abd4-963ffe009aa3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "bf04c073-292c-4936-a2e0-8d615bad145a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Tiefenbeck_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-right"
+          }
+        }
+      },
+      "block_order": [
+        "5b07151d-15ee-4f87-abd4-963ffe009aa3",
+        "bf04c073-292c-4936-a2e0-8d615bad145a"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e700b760-a948-4f48-a2ea-ee255858d8df": {
+      "type": "rich-text",
+      "blocks": {
+        "28e3806f-a52a-44c3-9fa6-317b3ac5d661": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c794742d-0400-4501-81e5-f1a8f6fe7290": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Bio macht Spaß<\/strong><\/p><p><em>„Es wurde uns so richtig bewusst, seit dem wir es machen, dass es auch so funktioniert. Eigentlich ist es selbstverständlich so zu wirtschaften“<\/em>, begründet Hans den Grund auf bio umgestellt zu haben. Dabei möchte er die ‚anders‘ Wirtschaftenden nicht kritisieren, sondern eher versuchen eine biologische Lebensweise vorzuzeigen.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "7cdb5a84-e616-483e-9524-3edb10430506": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "28e3806f-a52a-44c3-9fa6-317b3ac5d661",
+        "c794742d-0400-4501-81e5-f1a8f6fe7290",
+        "7cdb5a84-e616-483e-9524-3edb10430506"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "3d8d7493-4431-4ddb-841c-a96ec3f94956",
+    "36409f53-3c48-4ea8-83ee-10675398d6bf",
+    "e700b760-a948-4f48-a2ea-ee255858d8df"
+  ]
+}

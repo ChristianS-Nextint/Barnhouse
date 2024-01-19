@@ -1,0 +1,328 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_6.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Christian Meidinger – Mintraching",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der 47 ha große Biohof Meidinger wird bereits in der 4. Generation bewirtschaftet. <em>„Da unser Hof sehr klein war (ist), bewirtschaftete ich den Betrieb anfangs im Nebenerwerb. Hauptberuflich war ich Angestellter bei einer Firma am Flughafen München“<\/em>, erzählt uns Christian.<\/p><p><em>„Mit der Umstellung auf die biologische Wirtschaftsweise 2009 eröffnete sich für uns eine bessere Möglichkeit unsere Produkte selbst zu vermarkten. Anfangs noch mit einer Selbstbedienungskiste und zwei gastronomischen Betrieben, die beliefert wurden, entwickelte sich die Vermarktung in den letzten 4 Jahren rasant. Zu unseren Kunden zählen heute ca. 20 Supermarktfilialen, mehrere Gastrobetriebe sowie diverse andere Läden, wie Dorf- oder Hofläden. Außerdem wurde ein eigener Hofladen mit einem fast kompletten Lebensmittel Angebot verwirklicht.“<\/em><\/p><p>Seine Stelle am Flughafen gab er im März 2018 auf und mittlerweile gibt der Betrieb der ganzen Familie sowie einer Vollzeitkraft und drei Teilzeitkräften genug Arbeit.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_5.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3e2a66a8-e532-4561-8626-3b22e96644ed": {
+      "type": "rich-text",
+      "blocks": {
+        "1f558b5c-349d-44f2-84c3-400ff6b97744": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "f690b955-44e0-473f-8863-074aea721d13": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Das wird auf dem Biohof Meidinger angebaut<\/strong><\/p><p><em>„In unserer Fruchtfolge stehen viele verschiedene Früchte. Das Kleegras ist die Grundlage der Fruchtfolge. Nach dessen Umbruch wird ein Wintergetreide wie Dinkel oder Weizen angebaut. Nach der Ernte dieses Wintergetreides wird eine Zwischenfrucht mit 12 verschiedenen Pflanzen gesät, die den Boden auf unsere wichtigste Kultur – die Kartoffel – vorbereitet“<\/em>, erklärt uns der <strong>Bioland<\/strong>-Bauer.<\/p><p><em>„Nach der Kartoffel wird ein Sommergetreide wie Hafer, Sommerweizen oder ein Futtergetreide angebaut. Dann folgt wieder das Kleegras. Es wird auch immer wieder was Neues ausprobiert. Soja hat sich im Anbau gut bewährt, Früchte wie Linsen, Leindotter oder Quinoa vervollständigen die Vielfalt im Pflanzenbau.“ <\/em>Doch auch für die Ansiedlung von gefährdeten Ackerwildkräutern setzt sich die Familie ein.<\/p><p><strong>Neben dem Ackerbau hat der Betrieb seit 2015 auch 660 Legehennen<\/strong><\/p><p><em>„Die Hühner leben in drei kleinen Gruppen von je 220 Tieren in mobilen Hühnerställen. Je Stall sorgen fünf Gockel für mehr Ruhe und Ordnung in der Gruppe, warnen bei Gefahr und gehören einfach zu einer natürlichen Lebensweise der Hühner. Die anderen Brüder der Hennen werden bei unserem Lieferanten nach Bio-Richtlinien aufgezogen und wenn sie das Schlachtgewicht erreicht haben auf diesem Betrieb zu Produkten aus Gockelfleisch verarbeitet, so können wir auf das Töten von Küken verzichten“.<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "a82b6d32-2c11-435c-8651-8578d732ba75": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1f558b5c-349d-44f2-84c3-400ff6b97744",
+        "f690b955-44e0-473f-8863-074aea721d13",
+        "a82b6d32-2c11-435c-8651-8578d732ba75"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "382601bf-6756-4c54-b933-9e927f0219c0": {
+      "type": "gallery",
+      "blocks": {
+        "c08a8574-fa45-42aa-bbae-22905dc81447": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_Startbild.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "b5fc93c2-c88e-4b31-8b2d-4d60ec37bb4f": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Meidinger_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "c08a8574-fa45-42aa-bbae-22905dc81447",
+        "b5fc93c2-c88e-4b31-8b2d-4d60ec37bb4f"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "5c745c5b-0cff-41ec-9aff-9bcf1bddae9c": {
+      "type": "rich-text",
+      "blocks": {
+        "f0fb0b75-b762-4cc9-9081-172d994f163c": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "ffc65075-02b6-475c-85f5-5156d7ee3619": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Landwirt aus Leidenschaft<\/strong><\/p><p>Christian Meidinger ist Landwirt aus Leidenschaft – jedoch erst seit er auf bio umgestellt hat.<\/p><p><em>„Seitdem kann ich wieder durch Getreidefelder gehen, die Hände an den Ähren entlangstreifen lassen, ohne das Gefühl zu haben es klebt irgendein Gift dran.“<\/em><\/p><p>Zudem kann er den Menschen wieder gesunde Lebensmittel anbieten, die nach bestem Wissen und Gewissen angebaut werden, ohne Nachfragen nach der Produktionsweise zu scheuen. Damit leistet er seinen Beitrag dazu, unsere Lebensgrundlagen Luft, Boden und Wasser auch für zukünftige Generationen gesund zu halten.<\/p><p>Um sein Wissen weiterzugeben, finden auf seinem Hof immer wieder Hofradltouren und VHS-Kartoffelernten für Kinder und Erwachsene statt, bei denen Christian seine Wirtschaftsweise vorstellt und sich den Fragen der Besucher stellt.<\/p><p><strong>Partnerschaft mit Barnhouse<\/strong><\/p><p><em>„Ich bin gerne Barnhouse Partner Landwirt, weil Barnhouse der Gedanke von Produktion und Verarbeitung in der Region sehr wichtig ist. Außerdem ist der Umgang mit den Landwirten fair und transparent.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "85a03e88-d33d-43fe-aa2e-ad95b8030292": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "f0fb0b75-b762-4cc9-9081-172d994f163c",
+        "ffc65075-02b6-475c-85f5-5156d7ee3619",
+        "85a03e88-d33d-43fe-aa2e-ad95b8030292"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "3e2a66a8-e532-4561-8626-3b22e96644ed",
+    "382601bf-6756-4c54-b933-9e927f0219c0",
+    "5c745c5b-0cff-41ec-9aff-9bcf1bddae9c"
+  ]
+}

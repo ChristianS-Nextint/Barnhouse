@@ -1,0 +1,349 @@
+{
+  "sections": {
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 36,
+        "mobile_height": 16
+      }
+    },
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "d940716f-3d49-47c7-aa0a-a6fdead2b528": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/preview_badge\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "14dcb9b4-9113-4f28-b084-8ecab2736a74": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.metafields.custom.verkehrsbezeichnung.value }}",
+            "text_style": "body"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "large",
+            "show_badges": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": false,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "6d8a7d72-6cc5-4bcf-b26a-a07510702767": {
+          "type": "text",
+          "settings": {
+            "icon": "truck",
+            "text": "Zustellung in 2-4 Werktagen",
+            "text_style": "body"
+          }
+        },
+        "f5195f94-622a-48be-96fd-be6f2ab2071d": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "icon": "star",
+            "text": "Versandrabatt wird im Kassenschritt verrechnet",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "sticky_cart": {
+          "type": "sticky_cart",
+          "settings": {
+            "show_quantity_selector": false
+          }
+        },
+        "7af80e9c-4055-4c6a-9632-9c3930ac3528": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"container-produkt-badge\">\n{% if product.tags contains \"Bayern\" %}\n<img src=\"{{ 'Symbol_Bayern.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Bio\" %}\n<img src=\"{{ 'Symbol_Bio.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Palmölfrei\" %}\n<img src=\"{{ 'Symbol_Palmoelfrei.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Vegan\" %}\n<img src=\"{{ 'Symbol_Vegan.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Weizenfrei\" %}\n<img src=\"{{ 'Symbol_Weizenfrei.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Alternativ gesüßt\" %}\n<img src=\"{{ 'Symbol_alt_gesuesst.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Regionale Haferflocken\" %}\n<img src=\"{{ 'Symbol_Haferflocken.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"regionale Dinkelflocken\" %}\n<img src=\"{{ 'Symbol_Dinkelflocken.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n\n<\/div>"
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Zutaten",
+            "content": "{{ product.metafields.custom.neu_inhaltsstoffe | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Nährwerte\/100g",
+            "content": "{{ product.metafields.custom.neu_n_hrwerte_100g | metafield_tag }}<p>{{ product.metafields.customAttributes.barnhouse_product_food_valu | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
+        "4946bc6e-7734-4d6e-8293-586f72d3ec37": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Allergiehinweise",
+            "content": "<p>{{ product.metafields.customAttributes.barnhouse_product_allergy_i.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "7ceb75bd-dc38-43a5-b56c-f284b8be93d4": {
+          "type": "complementary",
+          "settings": {
+            "icon": "none",
+            "heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "product_list_limit": 4,
+            "image_ratio": "adapt",
+            "image_position": "center center",
+            "show_vendor": false,
+            "enable_image_fill": true
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Artikel empfehlen"
+          }
+        }
+      },
+      "block_order": [
+        "d940716f-3d49-47c7-aa0a-a6fdead2b528",
+        "title",
+        "14dcb9b4-9113-4f28-b084-8ecab2736a74",
+        "price",
+        "variant_picker",
+        "6d8a7d72-6cc5-4bcf-b26a-a07510702767",
+        "f5195f94-622a-48be-96fd-be6f2ab2071d",
+        "buy_buttons",
+        "sticky_cart",
+        "7af80e9c-4055-4c6a-9632-9c3930ac3528",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "4946bc6e-7734-4d6e-8293-586f72d3ec37",
+        "description",
+        "7ceb75bd-dc38-43a5-b56c-f284b8be93d4",
+        "share"
+      ],
+      "custom_css": [
+        ".price-item.price-item--regular > price-money > bdi {font-size: calc(var(--font-heading-scale) * 2.8rem) !important; letter-spacing: 0;}"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_position": "left",
+        "media_size": "small",
+        "gallery_layout": "thumbnail_slider",
+        "image_ratio": "adapt",
+        "show_thumbnails": true,
+        "hide_variants": true,
+        "enable_image_zoom": false,
+        "enable_video_looping": true,
+        "mobile_image_ratio": "adapt_first",
+        "show_mobile_thumbnails": true,
+        "padding_top": 0,
+        "padding_bottom": 68
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "show_divider": false,
+        "heading": "Schon entdeckt?",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": false,
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "67fb2d86-b1eb-4599-89e4-a92270857525": {
+      "type": "video",
+      "settings": {
+        "cover_image": "shopify:\/\/shop_images\/Barnhouse_21112019-82.jpg",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=SItRJWyi2IQ",
+        "description": "So backen wir dein Krunchy",
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Dein Krunchy in 60 Sekunden",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1edb5849-7d7d-42b1-95d8-0013c43a6162": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "template--18177738670416__1edb5849-7d7d-42b1-95d8-0013c43a6162-16795680695e7befe7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Die Barnhouse Bäuerinnen und Bauern",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18177738670416__1edb5849-7d7d-42b1-95d8-0013c43a6162-16795680695e7befe7-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Eine fruchtbare Partnerschaft auf Augenhöhe:<\/strong> 90 <br\/>Bio-LandwirtInnen der Verbände Demeter, Naturland, Bioland und Biokreis <br\/>bauen in der Region Hafer und Dinkel für Barnhouse an. Hier geht es um Partnerschaft.<br\/><br\/><\/p>",
+            "text_size": "typeset",
+            "secondary_color": true
+          }
+        },
+        "template--18177738670416__1edb5849-7d7d-42b1-95d8-0013c43a6162-16795680695e7befe7-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Mehr erfahren",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18177738670416__1edb5849-7d7d-42b1-95d8-0013c43a6162-16795680695e7befe7-0",
+        "template--18177738670416__1edb5849-7d7d-42b1-95d8-0013c43a6162-16795680695e7befe7-1",
+        "template--18177738670416__1edb5849-7d7d-42b1-95d8-0013c43a6162-16795680695e7befe7-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Moodbild-laengs.jpg",
+        "image_position": "80% 0",
+        "text_box_position": "flex-start",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "colors_button_label": "#573522",
+        "colors_button_background": "#fecc0a",
+        "colors_text": "#212326",
+        "colors_overlay": "#f3f3f3",
+        "colors_overlay_opacity": 92,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fdfe7801-8a95-494e-b1fd-f38f46a93487": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18177738670416__fdfe7801-8a95-494e-b1fd-f38f46a93487-1679567868659da713-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.content_text_produkt | metafield_tag }}",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18177738670416__fdfe7801-8a95-494e-b1fd-f38f46a93487-1679567868659da713-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "In den Warenkorb",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18177738670416__fdfe7801-8a95-494e-b1fd-f38f46a93487-1679567868659da713-1",
+        "template--18177738670416__fdfe7801-8a95-494e-b1fd-f38f46a93487-1679567868659da713-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "{{ product.metafields.custom.contentbild_produkt_video.value }}",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "top",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": true,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "1680170568674d7e49": {
+      "type": "apps",
+      "blocks": {
+        "23afd57c-582f-487c-bb33-3912c75c067a": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/review_widget\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "23afd57c-582f-487c-bb33-3912c75c067a"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "empty-space",
+    "main",
+    "product-recommendations",
+    "67fb2d86-b1eb-4599-89e4-a92270857525",
+    "1edb5849-7d7d-42b1-95d8-0013c43a6162",
+    "fdfe7801-8a95-494e-b1fd-f38f46a93487",
+    "1680170568674d7e49"
+  ]
+}

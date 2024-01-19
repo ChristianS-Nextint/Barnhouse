@@ -1,0 +1,165 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "50f72fe3-88ea-4269-91ad-e08e6aceddec": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18860569133392__50f72fe3-88ea-4269-91ad-e08e6aceddec-1682676994d9ccab37-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Auszeichnungen und Preise",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18860569133392__50f72fe3-88ea-4269-91ad-e08e6aceddec-1682676994d9ccab37-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Checkout-Header.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "0a4cf86e-e3b4-4bed-a1a1-bec83e6df4e0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18860569133392__0a4cf86e-e3b4-4bed-a1a1-bec83e6df4e0-1682677072f38b52e6-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Geschmack und Qualität <\/strong>stehen bei Barnhouse an erster Stelle. Um hier immer nur das Beste vom Besten liefern zu können, arbeiten wir stetig an uns und unseren Produkten. Wir sind beispielsweise We-Care-zertifiziert übernehmen somit Verantwortung, indem wir unsere Krunchys nachhaltig, sozial und fair produzieren. Deshalb ist es immer wieder schön, eure Zufriedenheit zum Beispiel über die <strong>Bestes Bio-Auszeichnung <\/strong>bestätigt zu bekommen.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18860569133392__0a4cf86e-e3b4-4bed-a1a1-bec83e6df4e0-1682677072f38b52e6-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "7d528378-0552-40cd-8b2b-a7ddb1442c51": {
+      "type": "gallery",
+      "blocks": {
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/We-Care-Siegel-mit-Spruch-640x292.webp",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bestes-Bio-2023-Crazy-Nuts.webp",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-2": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-3": {
+          "type": "image",
+          "settings": {
+            "image_position": "center center",
+            "subheading": "Subheading",
+            "subheading_size": "h5",
+            "heading": "Tell your story",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-0",
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-1",
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-2",
+        "template--18860569133392__7d528378-0552-40cd-8b2b-a7ddb1442c51-1682677761bc0fdfdd-3"
+      ],
+      "settings": {
+        "per_row": 2,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Gallery",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "50f72fe3-88ea-4269-91ad-e08e6aceddec",
+    "0a4cf86e-e3b4-4bed-a1a1-bec83e6df4e0",
+    "7d528378-0552-40cd-8b2b-a7ddb1442c51"
+  ]
+}

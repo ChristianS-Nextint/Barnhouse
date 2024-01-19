@@ -1,0 +1,602 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "4d95a455-f4e6-46bc-b9e9-9cf50e825135": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855318847824__4d95a455-f4e6-46bc-b9e9-9cf50e825135-1683207808d6c35b8d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Unser Team",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18855318847824__4d95a455-f4e6-46bc-b9e9-9cf50e825135-1683207808d6c35b8d-0"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "4ca92a11-776e-4d2a-8dea-c1a7455e7a12": {
+      "type": "multicolumnhover",
+      "blocks": {
+        "template--18855271072080__4ca92a11-776e-4d2a-8dea-c1a7455e7a12-1682588929f63f9ba7-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin_Eras_Portrait_-_bearbeitet_132a4bce-954c-48ac-9193-e88682d87cac.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Martin-Spassfoto.jpg",
+            "title": "Martin Eras",
+            "title_size": "h3",
+            "text": "<p><strong>Geschäftsführer<\/strong> <\/p><p>Martins Aufgaben als unser Geschäftsführer sind ebenso vielfältig wie umfassend. Bei ihm laufen alle Fäden zusammen. Flache Strukturen sind ihm wichtig, Ideen und Anregungen stets willkommen. Sein Ziel: Barnhouse sicher und nachhaltig weiterhin erfolgreich in die Zukunft zu führen.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18855271072080__4ca92a11-776e-4d2a-8dea-c1a7455e7a12-1682588929f63f9ba7-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heidi_Hentschel_Homepage.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Heidi_Hentschel_Spassfoto_a610f618-5be8-4f0e-87a0-0e4425712dad.jpg",
+            "title": "Heidi Hentschel",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Personal<\/strong><\/p><p>Mit unseren über 90 MitarbeiterInnen kommt bei Heidi sicher nie Langeweile auf. Da gibt es immer etwas zu regeln oder zu organisieren und ein stets offenes Ohr (und Herz) für alle KollegInnen gehört natürlich mit dazu. Sie ist erste Ansprechpartnerin für unsere neuen „Barnies“ und alle, die es werden wollen. Wenn ihr also Fragen zu einem Job bei Barnhouse habt, seid ihr bei Heidi richtig!<\/p><p>E-Mail: <a href=\"mailto:personal@barnhouse.de\" title=\"mailto:personal@barnhouse.de\">personal@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18855271072080__4ca92a11-776e-4d2a-8dea-c1a7455e7a12-1682588929f63f9ba7-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fabian_Kanzelsberger_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Fabian_Kanzelsberger_Spassfoto_-_bearbeitet.jpg",
+            "title": "Fabian Kanzelsberger",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Einkauf und Logistik<\/strong><\/p><p>Fabian sorgt mit seinen Kollegen dafür, dass immer genug Krunchy bei uns und unseren Kunden vorrätig ist. Dazu organisiert er die ganze Produktionsplanung, stellt sicher, dass uns die benötigten Zutaten nie ausgehen und kümmert sich um die Logistik. Da heißt es, immer einen kühlen Kopf bewahren, schnell reagieren und alle Termine im Auge behalten!<\/p><p>E-Mail: <a href=\"mailto:fabian.kanzelsberger@barnhouse.de\" title=\"mailto:fabian.kanzelsberger@barnhouse.de\">fabian.kanzelsberger@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855271072080__4ca92a11-776e-4d2a-8dea-c1a7455e7a12-1682588929f63f9ba7-0",
+        "template--18855271072080__4ca92a11-776e-4d2a-8dea-c1a7455e7a12-1682588929f63f9ba7-1",
+        "template--18855271072080__4ca92a11-776e-4d2a-8dea-c1a7455e7a12-1682588929f63f9ba7-2"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 12
+      }
+    },
+    "52e6e66c-8274-43ba-8840-96c59172aa7b": {
+      "type": "multicolumnhover",
+      "blocks": {
+        "9569edb8-ef40-40e5-9be3-bb32a8eea058": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adrian_Reichle_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Adrian_Reichle_Spassfoto.jpg",
+            "title": "Adrian Reichle",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Vertrieb<\/strong><\/p><p>Als Vertriebsleiter ist Adrian neben dem deutschen Markt auch für das Ausland sowie unsere Private Label Kunden verantwortlich. Gemeinsam mit seinen Kolleginnen sorgt er dafür, dass du unser Krunchy nicht nur großflächig in Deutschland, sondern auch im Ausland kaufen kannst.<\/p><p>E-Mail: <a href=\"mailto:verkauf@barnhouse.de\" title=\"mailto:verkauf@barnhouse.de\">verkauf@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "2c627b37-bee2-455a-9241-0f1c30974221": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Katharina_Schmidinger_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Katharina_Schmidinger_Spassfoto_-_bearbeitet.jpg",
+            "title": "Katharina Schmidinger",
+            "title_size": "h3",
+            "text": "<p><strong>Key-Account-Management Fachhandel<\/strong><\/p><p>Immer ein offenes Ohr – das hat Katharina als Ansprechpartnerin für alle Bio-Großhändler und -Filialisten! Sie sorgt innerhalb von Deutschland, Österreich und Schweiz dafür, dass du unser Krunchy in so gut wie jedem Bioladen findest. Außerdem ist sie dafür verantwortlich, dass du dich in unserem Onlineshop regelmäßig über attraktive Rabattaktionen und spannende Saisonpakete freuen darfst.<\/p><p>E-Mail: <a href=\"mailto:katharina.schmidinger@barnhouse.de\" title=\"mailto:katharina.schmidinger@barnhouse.de\">katharina.schmidinger@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "cc7e0cae-cc5c-4b05-9cc8-79dfa2c09498": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alicia_Mueller_Portrait_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Alicia-Spassfoto.jpg",
+            "title": "Alicia Müller",
+            "title_size": "h3",
+            "text": "<p><strong>Vertriebsassistenz DACH + Ausland<\/strong><\/p><p>Alicia hilft tatkräftig mit, dass du unser Krunchy im Ausland in immer mehr Bioläden findest. So geht auch den Krunchy-Fans außerhalb Deutschlands der Vorrat nie aus – und du kannst dich auch im Urlaub auf köstlichen Frühstücksgenuss freuen.  Im Zuge dessen ist sie die erste Ansprechpartnerin für unsere PartnerInnen im Ausland.<\/p><p>E-Mail: <a href=\"mailto:alicia.mueller@barnhouse.de\" title=\"mailto:alicia.mueller@barnhouse.de\">alicia.mueller@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "9569edb8-ef40-40e5-9be3-bb32a8eea058",
+        "2c627b37-bee2-455a-9241-0f1c30974221",
+        "cc7e0cae-cc5c-4b05-9cc8-79dfa2c09498"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "8bae1ebd-0254-489c-87b6-0ce005d68f87": {
+      "type": "multicolumnhover",
+      "blocks": {
+        "7004a47b-a615-42d1-83ea-25152a38459f": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christian_Hoferer_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Christian_Hoferer_Spassfoto_-_bearbeitet.jpg",
+            "title": "Christian Hoferer",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Qualität und Produktentwicklung<\/strong><\/p><p>Beste Qualität steht bei Barnhouse immer im absoluten Mittelpunkt – und das geht tatsächlich weit über unsere Produkte hinaus. Zusammen mit seinem Team ist Christian oberster und strenger Wächter unserer Qualität und aller damit zusammenhängenden Maßnahmen. Weiterhin verantwortet er alle Zertifizierungen und Audits – von Bio über IFS bis hin zu Fairtrade Cocoa.<\/p><p>E-Mail: <a href=\"mailto:christian.hoferer@barnhouse.de\" title=\"mailto:christian.hoferer@barnhouse.de\">christian.hoferer@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "cf4db0da-d329-4f0f-b401-6c3075ae3e88": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fabian_Kaleske-Stangl_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Fabian_Kaleske-Stangl_Spassfoto_-_bearbeitet.jpg",
+            "title": "Fabian Kaleske-Stangl",
+            "title_size": "h3",
+            "text": "<p><strong>Produktentwickler & QS<\/strong><\/p><p>Fabian ist unser Krunchy-Wizard! Wenn er nicht gerade im Auftrag bester Barnhouse-Qualität in der Produktion unterwegs ist, findet man ihn einen Stock höher in unserer Versuchsküche, wo er mit ganz viel Liebe interessante Rohstoffe ausprobiert, neue Krunchy-Sorten entwickelt oder daran tüftelt, wie er bestehende Rezepturen für dich noch besser machen kann.<\/p><p>E-Mail: <a href=\"mailto:produktentwicklung@barnhouse.de\" title=\"mailto:produktentwicklung@barnhouse.de\">produktentwicklung@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "45ecd7f7-291a-4e9c-beb0-051b10e60b6c": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Axel_Stritter_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Axel_Stritter_Spassfoto_-_bearbeitet.jpg",
+            "title": "Axel Stritter",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Produktion<\/strong><\/p><p>Axel ist für die perfekt laufenden Backstraßen, aus denen am Ende köstliches Krunchy rauspurzelt, verantwortlich. Das fängt bei der Schichtplanung an und hört bei der Überwachung technischer Prozesse lange noch nicht auf. Auch wenn für unser Krunchy handwerkliches Gespür und Können die notwendige Grundlage ist, gibt es für unsere BäckerInnen und Abpacker viel zu beachten.<\/p><p>E-Mail: <a href=\"mailto:produktion@barnhouse.de\" title=\"mailto:produktion@barnhouse.de\">produktion@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "7004a47b-a615-42d1-83ea-25152a38459f",
+        "cf4db0da-d329-4f0f-b401-6c3075ae3e88",
+        "45ecd7f7-291a-4e9c-beb0-051b10e60b6c"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "f07efaf7-3352-4228-ad35-15405e3c2ca6": {
+      "type": "multicolumnhover",
+      "blocks": {
+        "d81de904-92a7-4c01-91b3-bead112cf62b": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Andreas_Bentlage_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Andreas_Bentlage_Spassfoto.jpg",
+            "title": "Andreas Bentlage",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Marketing und Produktmanagement<\/strong><\/p><p>Als Wächter der Marke verantwortet Andreas die Unternehmenskommunikation und das Marketing von der klassischen Anzeige über Messen bis hin zu Öffentlichkeitsarbeit. Er begleitet unsere Produkte von der Idee bis zum Marktstart und kümmert sich um das Packaging. Eine Herzensangelegenheit ist ihm die Zusammenarbeit mit den Barnhouse Bäuerinnen und Bauern.<\/p><p>E-Mail: <a href=\"mailto:andreas.bentlage@barnhouse.de\" title=\"mailto:andreas.bentlage@barnhouse.de\">andreas.bentlage@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "a46d98f5-33a9-4e74-b830-eff422b83d9d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daniel_Haeusler_Homepage_-_bearbeitet.jpg",
+            "imagehover": "shopify:\/\/shop_images\/Daniel_Haeusler_Spassfoto_-_bearbeitet.jpg",
+            "title": "Daniel Häusler",
+            "title_size": "h3",
+            "text": "<p><strong>Onlinemarketing<\/strong><\/p><p>Daniel hat bei all unseren Onlineauftritten seine Finger im Spiel. Er sorgt unter anderem dafür, dass du schnell und bequem in unserem Onlineshop einkaufen kannst. Und auch unsere Homepage ist sein Zuhause, mit der er dich über unsere Aktionen wie Gewinnspiele und alles rund um Barnhouse informiert. Außerdem hält er dich per Social Media, Newsletter und Co. stets auf dem Laufenden.<\/p><p>E-Mail: <a href=\"mailto:daniel.haeusler@barnhouse.de\" title=\"mailto:daniel.haeusler@barnhouse.de\">daniel.haeusler@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "2d86d7e6-b229-429c-8e4d-ad730fa08569": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "d81de904-92a7-4c01-91b3-bead112cf62b",
+        "a46d98f5-33a9-4e74-b830-eff422b83d9d",
+        "2d86d7e6-b229-429c-8e4d-ad730fa08569"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 12
+      }
+    },
+    "554f2021-e543-4e95-a22d-832317082a6e": {
+      "type": "multicolumn",
+      "blocks": {
+        "63d8143e-03c9-4cdb-87fe-55f74deb3a2d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Martin_Eras_Portrait_-_bearbeitet_132a4bce-954c-48ac-9193-e88682d87cac.jpg",
+            "title": "Martin Eras",
+            "title_size": "h3",
+            "text": "<p><strong>Geschäftsführer<\/strong> <\/p><p>Martins Aufgaben als unser Geschäftsführer sind ebenso vielfältig wie umfassend. Bei ihm laufen alle Fäden zusammen. Flache Strukturen sind ihm wichtig, Ideen und Anregungen stets willkommen. Sein Ziel: Barnhouse sicher und nachhaltig weiterhin erfolgreich in die Zukunft zu führen.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "0c9f3ba0-36e3-4522-b56c-3f3e0cea5dc2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Heidi_Hentschel_Homepage.jpg",
+            "title": "Heidi Hentschel",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Personal<\/strong><\/p><p>Mit unseren über 90 MitarbeiterInnen kommt bei Heidi sicher nie Langeweile auf. Da gibt es immer etwas zu regeln oder zu organisieren und ein stets offenes Ohr (und Herz) für alle KollegInnen gehört natürlich mit dazu. Sie ist erste Ansprechpartnerin für unsere neuen „Barnies“ und alle, die es werden wollen. Wenn ihr also Fragen zu einem Job bei Barnhouse habt, seid ihr bei Heidi richtig!<\/p><p>E-Mail: <a href=\"mailto:personal@barnhouse.de\" title=\"mailto:personal@barnhouse.de\">personal@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "dfaed9ba-e907-4902-8970-22e631dd894a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fabian_Kanzelsberger_Homepage_-_bearbeitet.jpg",
+            "title": "Fabian Kanzelsberger",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Einkauf und Logistik<\/strong><\/p><p>Fabian sorgt mit seinen Kollegen dafür, dass immer genug Krunchy bei uns und unseren Kunden vorrätig ist. Dazu organisiert er die ganze Produktionsplanung, stellt sicher, dass uns die benötigten Zutaten nie ausgehen und kümmert sich um die Logistik. Da heißt es, immer einen kühlen Kopf bewahren, schnell reagieren und alle Termine im Auge behalten!<\/p><p>E-Mail: <a href=\"mailto:fabian.kanzelsberger@barnhouse.de\" title=\"mailto:fabian.kanzelsberger@barnhouse.de\">fabian.kanzelsberger@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "9d1b3313-a391-490d-b521-1d9b00fa8ab8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adrian_Reichle_Homepage_-_bearbeitet.jpg",
+            "title": "Adrian Reichle",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Vertrieb<\/strong><\/p><p>Als Vertriebsleiter ist Adrian neben dem deutschen Markt auch für das Ausland sowie unsere Private Label Kunden verantwortlich. Gemeinsam mit seinen Kolleginnen sorgt er dafür, dass du unser Krunchy nicht nur großflächig in Deutschland, sondern auch im Ausland kaufen kannst.<\/p><p>E-Mail: <a href=\"mailto:vertrieb@barnhouse.de\" title=\"mailto:vertrieb@barnhouse.de\">vertrieb@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "817d2883-08e5-4516-a8bd-06edf2f287cd": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Katharina_Schmidinger_Homepage_-_bearbeitet.jpg",
+            "title": "Katharina Schmidinger",
+            "title_size": "h3",
+            "text": "<p><strong>Key-Account-Management Fachhandel<\/strong><\/p><p>Immer ein offenes Ohr – das hat Katharina als Ansprechpartnerin für alle Bio-Großhändler und -Filialisten! Sie sorgt innerhalb von Deutschland, Österreich und Schweiz dafür, dass du unser Krunchy in so gut wie jedem Bioladen findest. Außerdem ist sie dafür verantwortlich, dass du dich in unserem Onlineshop regelmäßig über attraktive Rabattaktionen und spannende Saisonpakete freuen darfst.<\/p><p>E-Mail: <a href=\"mailto:katharina.schmidinger@barnhouse.de\" title=\"mailto:katharina.schmidinger@barnhouse.de\">katharina.schmidinger@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "18cf6d3f-e33c-4da2-b945-50e8227566c5": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Alicia_Mueller_Portrait_-_bearbeitet.jpg",
+            "title": "Alicia Müller",
+            "title_size": "h3",
+            "text": "<p><strong>Vetriebsassistenz DACH + Ausland<\/strong><\/p><p>Alicia hilft tatkräftig mit, dass du unser Krunchy im Ausland in immer mehr Bioläden findest. So geht auch den Krunchy-Fans außerhalb Deutschlands der Vorrat nie aus – und du kannst dich auch im Urlaub auf köstlichen Frühstücksgenuss freuen.  Im Zuge dessen ist sie die erste Ansprechpartnerin für unsere PartnerInnen im Ausland.<\/p><p>E-Mail: <a href=\"mailto:alicia.mueller@barnhouse.de\" title=\"mailto:alicia.mueller@barnhouse.de\">alicia.mueller@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "8a72a916-5634-4bc4-8c0c-aec6c8281947": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Christian_Hoferer_Homepage_-_bearbeitet_3e9e2225-165d-4c5e-a1bf-e5b9696cccfd.jpg",
+            "title": "Christian Hoferer",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Qualität und Produktentwicklung<\/strong><\/p><p>Beste Qualität steht bei Barnhouse immer im absoluten Mittelpunkt – und das geht tatsächlich weit über unsere Produkte hinaus. Zusammen mit seinem Team ist Christian oberster und strenger Wächter unserer Qualität und aller damit zusammenhängenden Maßnahmen. Weiterhin verantwortet er alle Zertifizierungen und Audits – von Bio über IFS bis hin zu Fairtrade Cocoa.<\/p><p>E-Mail: <a href=\"mailto:christian.hoferer@barnhouse.de\" title=\"mailto:christian.hoferer@barnhouse.de\">christian.hoferer@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "14e0b611-9512-4529-be85-b11d7c8fa059": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Fabian_Kaleske-Stangl_Homepage_-_bearbeitet.jpg",
+            "title": "Fabian Kaleske-Stangl",
+            "title_size": "h3",
+            "text": "<p><strong>Produktentwickler & QS<\/strong><\/p><p>Fabian ist unser Krunchy-Wizard! Wenn er nicht gerade im Auftrag bester Barnhouse-Qualität in der Produktion unterwegs ist, findet man ihn einen Stock höher in unserer Versuchsküche, wo er mit ganz viel Liebe interessante Rohstoffe ausprobiert, neue Krunchy-Sorten entwickelt oder daran tüftelt, wie er bestehende Rezepturen für dich noch besser machen kann.<\/p><p>E-Mail: <a href=\"mailto:produktentwicklung@barnhouse.de\" title=\"mailto:produktentwicklung@barnhouse.de\">produktentwicklung@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "850f65a2-5aff-4e15-8632-5e61431fb3ee": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Andreas_Bentlage_Homepage_-_bearbeitet_3566d087-a360-43e3-a5ee-5ffa2d5ea4cb.jpg",
+            "title": "Andreas Bentlage",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Marketing und Produktmanagement<\/strong><\/p><p>Als Wächter der Marke verantwortet Andreas die Unternehmenskommunikation und das Marketing von der klassischen Anzeige über Messen bis hin zu Öffentlichkeitsarbeit. Er begleitet unsere Produkte von der Idee bis zum Marktstart und kümmert sich um das Packaging. Eine Herzensangelegenheit ist ihm die Zusammenarbeit mit den Barnhouse Bäuerinnen und Bauern.<\/p><p>E-Mail: <a href=\"mailto:andreas.bentlage@barnhouse.de\" title=\"mailto:andreas.bentlage@barnhouse.de\">andreas.bentlage@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "ada37576-faec-436d-8454-1da1eff02b89": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Daniel_Haeusler_Homepage_-_bearbeitet.jpg",
+            "title": "Daniel Häusler",
+            "title_size": "h3",
+            "text": "<p><strong>Onlinemarketing<\/strong><\/p><p>Daniel hat bei all unseren Onlineauftritten seine Finger im Spiel. Er sorgt unter anderem dafür, dass du schnell und bequem in unserem Onlineshop einkaufen kannst. Und auch unsere Homepage ist sein Zuhause, mit der er dich über unsere Aktionen wie Gewinnspiele und alles rund um Barnhouse informiert. Außerdem hält er dich per Social Media, Newsletter und Co. stets auf dem Laufenden.<\/p><p>E-Mail: <a href=\"mailto:daniel.haeusler@barnhouse.de\" title=\"mailto:daniel.haeusler@barnhouse.de\">daniel.haeusler@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "0f703186-fbbb-4cd8-92d8-29f3d5282033": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Axel_Stritter_Homepage_-_bearbeitet.jpg",
+            "title": "Axel Stritter",
+            "title_size": "h3",
+            "text": "<p><strong>Leitung Produktion<\/strong><\/p><p>Axel ist für die perfekt laufenden Backstraßen, aus denen am Ende köstliches Krunchy rauspurzelt, verantwortlich. Das fängt bei der Schichtplanung an und hört bei der Überwachung technischer Prozesse lange noch nicht auf. Auch wenn für unser Krunchy handwerkliches Gespür und Können die notwendige Grundlage ist, gibt es für unsere BäckerInnen und Abpacker viel zu beachten.<\/p><p>E-Mail: <a href=\"mailto:produktion@barnhouse.de\" title=\"mailto:produktion@barnhouse.de\">produktion@barnhouse.de<\/a><\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "63d8143e-03c9-4cdb-87fe-55f74deb3a2d",
+        "0c9f3ba0-36e3-4522-b56c-3f3e0cea5dc2",
+        "dfaed9ba-e907-4902-8970-22e631dd894a",
+        "9d1b3313-a391-490d-b521-1d9b00fa8ab8",
+        "817d2883-08e5-4516-a8bd-06edf2f287cd",
+        "18cf6d3f-e33c-4da2-b945-50e8227566c5",
+        "8a72a916-5634-4bc4-8c0c-aec6c8281947",
+        "14e0b611-9512-4529-be85-b11d7c8fa059",
+        "850f65a2-5aff-4e15-8632-5e61431fb3ee",
+        "ada37576-faec-436d-8454-1da1eff02b89",
+        "0f703186-fbbb-4cd8-92d8-29f3d5282033"
+      ],
+      "disabled": true,
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "b3470841-dc86-458c-b0b6-99c968f63ab8": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18855318847824__b3470841-dc86-458c-b0b6-99c968f63ab8-1682587864e6635be5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Kontakt",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18855318847824__b3470841-dc86-458c-b0b6-99c968f63ab8-1682587864e6635be5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Postadresse:<\/h3><p>Edisonstraße 3a<br\/>84453 Mühldorf am Inn<br\/>Telefonnummer: +49 (0) 86 31 36 22 0<\/p><h3>Wenn du uns besuchst:<\/h3><ul><li><strong>Haupteingang (Verwaltung, GL, Produktion, Technik)<\/strong><br\/>Einfahrt zum Besucherparkplatz\/Haupteingang auf Höhe Äußere Neumarkter Str. 78 (Navi-Eingabe)<\/li><li><strong>Vertrieb, Marketing und Werksverkauf<br\/><\/strong>Eingang Edisonstraße 3<\/li><li><strong>Lager (Warenabholung und -anlieferung)<br\/><\/strong>Anmeldung Edisonstraße 3<\/li><\/ul>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18855318847824__b3470841-dc86-458c-b0b6-99c968f63ab8-1682587864e6635be5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "PDF-DOWNLOAD Anfahrtsplan",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Anfahrtsplan_3abcc802-ec43-420b-aa92-efbbb2cc0570.jpg?v=1690875654",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855318847824__b3470841-dc86-458c-b0b6-99c968f63ab8-1682587864e6635be5-0",
+        "template--18855318847824__b3470841-dc86-458c-b0b6-99c968f63ab8-1682587864e6635be5-1",
+        "template--18855318847824__b3470841-dc86-458c-b0b6-99c968f63ab8-1682587864e6635be5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Anfahrtsplan.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_mobile": "shopify:\/\/shop_images\/Anfahrtsplan.jpg",
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "39fb8083-f0bc-44c7-b381-8d2109a71d06": {
+      "type": "map",
+      "blocks": {
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Barnhouse Naturprodukte GmbH",
+            "heading_size": "h3",
+            "heading_tag": "h3"
+          }
+        },
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-1": {
+          "type": "subheading",
+          "disabled": true,
+          "settings": {
+            "subheading": "Naturprodukte GmbH",
+            "subheading_size": "h5",
+            "secondary_color": true
+          }
+        },
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-2": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Edisonstraße 3<br\/>Mühldorf-Nord-Gewerbegebiet<br\/>84463 Mühldorf am Inn<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-3": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Get directions",
+            "button_link": "",
+            "button_size": "small",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-0",
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-1",
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-2",
+        "template--18855318847824__39fb8083-f0bc-44c7-b381-8d2109a71d06-168386990738e128e8-3"
+      ],
+      "settings": {
+        "map_address": "Edisonstraße 3, Mühdorf-Nord-Gewerbegebiet, 84453 Mühldorf am Inn",
+        "map_api_key": "AIzaSyDV9KcsaHuw4nNn84On3xlojcAJqVA-B9k",
+        "map_zoom": 14,
+        "map_style": "standard",
+        "image_position": "center center",
+        "text_box_position": "middle-left",
+        "text_alignment": "left",
+        "image_ratio": "450px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_box_position": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "400px",
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#573522",
+        "colors_text": "#1a1b18",
+        "colors_overlay": "#ffffff",
+        "gradient_overlay": "",
+        "colors_overlay_opacity": 96,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "4d95a455-f4e6-46bc-b9e9-9cf50e825135",
+    "4ca92a11-776e-4d2a-8dea-c1a7455e7a12",
+    "52e6e66c-8274-43ba-8840-96c59172aa7b",
+    "8bae1ebd-0254-489c-87b6-0ce005d68f87",
+    "f07efaf7-3352-4228-ad35-15405e3c2ca6",
+    "554f2021-e543-4e95-a22d-832317082a6e",
+    "b3470841-dc86-458c-b0b6-99c968f63ab8",
+    "39fb8083-f0bc-44c7-b381-8d2109a71d06"
+  ]
+}

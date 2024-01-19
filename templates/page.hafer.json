@@ -1,0 +1,793 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "6c8ed66e-e1ca-4824-b8ee-d286a025a0d1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18869060075856__6c8ed66e-e1ca-4824-b8ee-d286a025a0d1-16828598357323efd7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hafer - ein unterschätztes Superfood",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__6c8ed66e-e1ca-4824-b8ee-d286a025a0d1-16828598357323efd7-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Barnhouse_2021_Reichgruber-8.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "b917d796-d838-435d-8753-ce93f946f712": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__b917d796-d838-435d-8753-ce93f946f712-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Hauptzutat von vielen unserer beliebten Krunchys ist der Hafer. Ein wahres Superfood, das so viel zu bieten hat, doch von den meisten Menschen unterschätzt wird. Auf dieser Seite erfährst du alles Wissenswerte über das wertvolle Getreide. Zum Beispiel, wie dir die Inhaltsstoffe des Hafers helfen können, gesund und fit zu bleiben oder auch wie eng Barnhouse selbst mit der Feldfrucht und ihrem Anbau verbunden ist.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__b917d796-d838-435d-8753-ce93f946f712-168285991260a6c954-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "161b582f-e997-48bd-b36d-d6d6b3366028": {
+      "type": "image-banner",
+      "blocks": {
+        "e724bc71-1142-4ee1-bd69-d9e85450c1bd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hafer ist gesund",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "e724bc71-1142-4ee1-bd69-d9e85450c1bd"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hafer.jpg",
+        "image_2": "shopify:\/\/shop_images\/Haferflocken.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "91c4545a-07d2-4d9d-b8e1-c40932da6359": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__91c4545a-07d2-4d9d-b8e1-c40932da6359-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Doch was macht den Hafer nun zu so einem “Superfood”? Neben seinem leckeren Geschmack hat der Hafer noch einige andere tolle Merkmale zu bieten:<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "7140faf5-a6c3-4cf7-ba06-88de816a8335": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Hafer-Beta-Glucan<\/h3><p>Cholesterin ist sehr wichtig für unseren Körper. Daraus werden Hormone, Vitamin D und Gallensäuren gebildet. Wenn der Körper jedoch zu viel aufnehmen muss, wird überschüssiges Cholesterin in den Blutgefäßen abgelagert. Der Blutdruck steigt und damit auch das gesundheitliche Risiko.<\/p><p>Für einen zu hohen Cholesterinspiegel gibt es einen natürlichen Helfer: Das im Hafer enthaltene Hafer-Beta-Glucan verringert nachweislich den Cholesterinspiegel im Blut und trägt zur Aufrechterhaltung eines normalen Wertes bei. Schon ab einer Aufnahme von 3 Gramm Hafer-Beta-Glucan am Tag fängt der Körper an, Gallensäuren an den Ballaststoff zu binden, die später ausgeschieden werden. Da Gallensäuren unter anderem für die Fettverbrennung notwendig sind, füllt der Körper die Vorräte wieder auf und verbrennt deshalb Cholesterin. Schon nach drei bis sechs Wochen regelmäßigem Verzehr von Haferprodukten kann der Cholesterinspiegel um 15 % sinken.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__91c4545a-07d2-4d9d-b8e1-c40932da6359-168285991260a6c954-1",
+        "7140faf5-a6c3-4cf7-ba06-88de816a8335"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "21e2ae4f-1620-4be6-87dc-10efc5a947a7": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__21e2ae4f-1620-4be6-87dc-10efc5a947a7-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Vitamine & Mineralstoffe<\/h3><p>Hafer kann bei gereizter Haut, geschwächtem Immunsystem und Lustlosigkeit helfen! Diese Probleme werden oft mit einem Mangel an Biotin in Verbindung gebracht. Hafer hilft hier mit seinem hohen Gehalt an Vitamin B1 und B6. Hier liegt der Hafer sogar noch weit vor allen anderen Getreidearten. Außerdem liefert das Getreide viele wertvolle Mineralstoffe wie Magnesium, Phosphor, pflanzliches Eisen und Zink. Bereits 40 Gramm Haferflocken decken 20 Prozent des Tagesbedarfs an Zink und Kupfer ab. Zusammen mit anderen Spurenelementen wie Mangan stärkt dies die Fingernägel und sorgt für eine gesunde und schöne Haut.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "04318d7d-a10f-477f-9c0e-e9b665c9927b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Ballaststoffe<\/h3><p>Wer genügend Haferflocken zu sich nimmt, muss sich weniger Sorgen um seine Darmgesundheit machen. Hafer enthält zwar nicht die meisten Ballaststoffe, im Vergleich zu anderen Getreiden hat er jedoch die beste Balance zwischen löslichen und unlöslichen Ballaststoffen. Während bei Roggen, Gerste und Weizen die unlöslichen überwiegen, herrscht bei Hafer eine gute Balance. Doch was machen Ballaststoffe in unserem Körper? Sie halten unter anderem den sauren Magensaft von der Schleimhaut fern und wirken wie eine Schutzschicht. Darüber hinaus kurbelt aufgekochter Haferbrei mit Wasser oder Milch die Verdauung an.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__21e2ae4f-1620-4be6-87dc-10efc5a947a7-168285991260a6c954-1",
+        "04318d7d-a10f-477f-9c0e-e9b665c9927b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "3816fbef-6d55-45b1-9d53-436d7f8b0d35": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__3816fbef-6d55-45b1-9d53-436d7f8b0d35-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Nahrhaftigkeit<\/h3><p>Hafer sättigt. Wer zum Frühstück eine Portion Haferflocken verputzt, braucht bis zum Mittagessen nichts anderes mehr! Das Hafer-Beta-Glucan hilft dir nicht nur bei deinem Cholesterinspiegel, sondern hält dich auch länger satt. Es produziert einen Gelfilm im Magen, der die Entleerung verlangsamt. So kommt es zu einem länger anhaltenden Sättigungsgefühl und einer geringeren Kalorienzufuhr. Zudem wird durch die Ballaststoffe das Peptidhormon YY freigesetzt, wodurch dem Körper ein stärkeres Sättigungsgefühl vermittelt wird.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__3816fbef-6d55-45b1-9d53-436d7f8b0d35-168285991260a6c954-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "1dac9295-dd16-4d5c-a93b-843b4b653eeb": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18869060075856__1dac9295-dd16-4d5c-a93b-843b4b653eeb-16828598357323efd7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hafer für die Fitness",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__1dac9295-dd16-4d5c-a93b-843b4b653eeb-16828598357323efd7-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hanteltraining.jpg",
+        "image_2": "shopify:\/\/shop_images\/Joggerin.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3fbfb0f5-567e-46bf-9244-4ea30ce4750b": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__3fbfb0f5-567e-46bf-9244-4ea30ce4750b-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hafer eignet sich perfekt für Sportlerinnen und Sportler. Egal ob Ausdauer- oder Kraftsport, das vielseitige Getreide bietet genau die richtigen Nährstoffe für beides.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "8f6aa66d-97b4-499c-aef6-1efd67694391": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Muskelaufbau<\/h3><p>Wer Muskeln aufbauen möchte, muss neben regelmäßigem Krafttraining auch auf seine Ernährung achten. Ein sehr wichtiges Thema, das von vielen Sportlerinnen und Sportlern unterschätzt wird. Proteine sind hier der wichtigste Grundstein. Sie stellen die Basis für neue Muskelfasern bereit, da Muskeln zu ca. 20 % aus Proteinen bestehen. Um seinem Körper eine ausreichende Zufuhr an gutem Eiweiß zu verschaffen, muss man sich aber nicht mit Fleisch oder Proteinshakes aushelfen. Die Natur bietet uns hier einigen Alternativen, wie zum Beispiel Hafer! Haferflocken zählen mit etwa 14 Gramm pflanzlichem Protein pro 100 g zu den eiweißreichsten pflanzlichen Lebensmitteln überhaupt und eignen sich damit perfekt für eine ausgewogene und eiweißreiche Ernährung.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__3fbfb0f5-567e-46bf-9244-4ea30ce4750b-168285991260a6c954-1",
+        "8f6aa66d-97b4-499c-aef6-1efd67694391"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "417781ef-5b58-49b7-af3d-4fba754d333c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__417781ef-5b58-49b7-af3d-4fba754d333c-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Energiespender<\/h3><p>Nicht nur für den Muskelaufbau bietet Hafer die perfekte Basis. Viele AusdauersportlerInnen schwören auf das vielseitige Getreide als pflanzlicher Energiespender. Haferflocken bestehen zu 70 % aus langkettigen Kohlenhydraten und versorgen den Körper langfristig mit Energie, da sie langsamer ins Blut gehen und dadurch den Blutzuckerspiegel nicht sofort in die Höhe schießen lassen. Für die besten Ergebnisse sollte man seinen Kohlenhydratspeicher etwa zwei Stunden vor dem Sport mit Haferflocken auffüllen.<\/p><p>Auch nach dem Training kann man sich auf Hafer verlassen. 100 g Haferflocken enthalten etwa 134 mg Magnesium, die den Körper bei der Regeneration und dem Vorbeugen von Muskelkrämpfen unterstützen können.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "f841355c-85fa-4ad8-99f3-7c7d83fdb8fa": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Schlankmacher<\/h3><p>Und jetzt noch eine weitere gute Nachricht: Hafer ist ein “Schlankmacher”. Zwar ist auch er kein Wunderheilmittel, das dich sofort mehrere Kilogramm an überflüssigem Fett verlieren lässt, jedoch kann er dich beim Abnehmprozess unterstützen. Wie bereits erwähnt, hält das Getreide lange satt, weshalb der Körper nicht sofort wieder nach Nahrung verlangt.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__417781ef-5b58-49b7-af3d-4fba754d333c-168285991260a6c954-1",
+        "f841355c-85fa-4ad8-99f3-7c7d83fdb8fa"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "80f77692-c1c9-4e65-8e58-dcb7bbe8c21a": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18869060075856__80f77692-c1c9-4e65-8e58-dcb7bbe8c21a-16828598357323efd7-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Die Geschichte des Hafers",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__80f77692-c1c9-4e65-8e58-dcb7bbe8c21a-16828598357323efd7-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Hafer-in-Faust.jpg",
+        "image_2": "shopify:\/\/shop_images\/Hafer-auf-Hand.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0dafc0e4-0988-4eeb-b761-5f20e4bd6514": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__0dafc0e4-0988-4eeb-b761-5f20e4bd6514-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hafer, so wie wir ihn heute kennen, ist eigentlich eine verhältnismäßig junge Kulturpflanze. Er wird erst seit ca. 3.000 Jahren von den Menschen angebaut und gepflegt. Dies hört sich zwar nach einer sehr langen Zeit an, ist aber im Vergleich zu anderen Getreidearten, wie zum Beispiel Gerste, doch sehr wenig.<\/p><p>Die Pflanze gelangte bereits vor ca. 7.000 Jahren aus seiner vorderasiatischen Heimat nach Europa, wurde jedoch eher als Unkraut auf den Feldern betrachtet, da sie nur sehr wenig Ertrag einbrachte und im Vergleich zu anderen Getreidepflanzen relativ instabil war. Richtig glänzen konnte der Hafer erst etwa 1.000 v. Chr. als das Klima am Ende der Bronzezeit immer schlechter wurde. Während die meisten Getreidearten das kalte Klima nicht überlebten, war nun die Zeit für den Hafer gekommen. Er überlebte selbst die längeren Kältezeiten und wurde so für die Menschen immer interessanter.<\/p><p>Im Mittelalter wurde der Hafer zu einer der wichtigsten Feldfrüchte, die ihre Stellung erst durch die Einfuhr der Kartoffel im 18. Jahrhundert verlor. Schon damals bemerkten die Menschen, dass sich das Getreide positiv auf die Gesundheit auswirkt.<\/p><p><em>“Der Hafer ist warm, von scharfem Geschmack und von starkem Rauch, und er ist eine beglückende und gesunde Speise für gesunde Menschen und bereitet ihnen einen frohen Sinn und einen reinen und klaren Verstand und er macht ihnen eine gute Farbe und gesundes Fleisch.”<\/em>– Hildegard von Bingen<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__0dafc0e4-0988-4eeb-b761-5f20e4bd6514-168285991260a6c954-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "c1078985-4c9a-45b1-9a63-6d42b46d0375": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18869060075856__c1078985-4c9a-45b1-9a63-6d42b46d0375-168286087687b98d43-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Barnhouse und Hafer<strong><br\/><\/strong><\/h3><p>Seit der zweiten Hälfte des 20. Jahrhunderts hat der Haferanbau in Deutschland eher eine untergeordnete Bedeutung, doch das “Superfood” ist wieder auf dem Vormarsch! Auch wir bei Barnhouse nutzen die vielen Vorteile des Hafers in unseren Produkten. Hafer ist die Basis für die meisten unserer Krunchys, weshalb uns ein ökologischer und nachhaltiger Anbau des Getreides ganz besonders am Herzen liegt. Seit 2017 gibt es unseren “eigenen”, vom Bundessortenamt zugelassenen Barnhouse-Hafer “SinaBa“. Barnhouse unterstützt den Weg von der Züchtung bis zur Sortenzulassung. “SinaBa” war damals der erste ökologisch gezüchtete Spelzhafer weltweit und setzte neue Maßstäbe für den biologischen Anbau von Hafer.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__c1078985-4c9a-45b1-9a63-6d42b46d0375-168286087687b98d43-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Barnhouse_2021_Wachinger-14.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e30c9f5c-08ec-4a04-8c45-22cea4805a7f": {
+      "type": "featured-collection",
+      "settings": {
+        "collection": "hafer",
+        "products_to_show": 8,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Diese und viele weitere Krunchys sind aus Hafer",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": false,
+        "secondary_image_max": 1,
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "02d58ac2-b883-4568-89c8-ff41b7e8605a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869060075856__02d58ac2-b883-4568-89c8-ff41b7e8605a-168285991260a6c954-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Das kann man alles mit Hafer zubereiten",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869060075856__02d58ac2-b883-4568-89c8-ff41b7e8605a-168285991260a6c954-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das vielseitige Getreide kann auch anders genossen werden als nur mit Milch in einer Schüssel. Hier zeigen wir dir einige Wege, wie ihr leckere Bowls und andere süße Überraschungen aus unseren Haferprodukten zaubern könnt:<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__02d58ac2-b883-4568-89c8-ff41b7e8605a-168285991260a6c954-0",
+        "template--18869060075856__02d58ac2-b883-4568-89c8-ff41b7e8605a-168285991260a6c954-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "529fff3a-a54d-48ce-83b2-70bd1b19bde8": {
+      "type": "gallery",
+      "blocks": {
+        "template--18869060075856__529fff3a-a54d-48ce-83b2-70bd1b19bde8-16828612517b344480-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Schoko_Cookies.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Schoko Cookies",
+            "heading_size": "h3",
+            "link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/unser-chocolate-cookie-rezept?ose=false",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18869060075856__529fff3a-a54d-48ce-83b2-70bd1b19bde8-16828612517b344480-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Milchshake.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Blaubeere Milchshake",
+            "heading_size": "h3",
+            "link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/rezept-blueberry-milkshake?ose=false",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__529fff3a-a54d-48ce-83b2-70bd1b19bde8-16828612517b344480-0",
+        "template--18869060075856__529fff3a-a54d-48ce-83b2-70bd1b19bde8-16828612517b344480-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 6,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Krunchy Hafer alternativ gesüßt",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8feed580-8275-41e4-9a42-b079b0598773": {
+      "type": "gallery",
+      "blocks": {
+        "template--18869060075856__8feed580-8275-41e4-9a42-b079b0598773-16828612517b344480-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Klassischer-Porridge.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Klassischer Porridge",
+            "heading_size": "h3",
+            "link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/rezept-klassischer-porridge?ose=false",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18869060075856__8feed580-8275-41e4-9a42-b079b0598773-16828612517b344480-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Acai_Bowl.png",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Acai-Bowl",
+            "heading_size": "h3",
+            "link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/rezept-krunchy-acai-bowl?ose=false",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869060075856__8feed580-8275-41e4-9a42-b079b0598773-16828612517b344480-1",
+        "template--18869060075856__8feed580-8275-41e4-9a42-b079b0598773-16828612517b344480-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 3,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Barnhouse Flakes Hafer",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1af2d7e4-4716-4b27-bfb5-4b90f905ead7": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18974714822992__1af2d7e4-4716-4b27-bfb5-4b90f905ead7-16849986693e8af797-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Schoko-Cookies---Barnhouse-Krunchy-Hafer-alternativ-gesuesst.jpg",
+            "title": "Schoko Cookies",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/unser-chocolate-cookie-rezept?ose=false",
+            "button_style_secondary": false
+          }
+        },
+        "template--18974714822992__1af2d7e4-4716-4b27-bfb5-4b90f905ead7-16849986693e8af797-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Blaubeere-Milchshake---Barnhouse-Krunchy-Hafer-alternativ-gesuesst.jpg",
+            "title": "Blaubeere Milchshake",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/rezept-blueberry-milkshake?ose=false",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18974714822992__1af2d7e4-4716-4b27-bfb5-4b90f905ead7-16849986693e8af797-0",
+        "template--18974714822992__1af2d7e4-4716-4b27-bfb5-4b90f905ead7-16849986693e8af797-1"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "Krunchy Hafer alternativ gesüßt",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "center",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fea4e631-9e88-433d-a92d-1b8e5ebd46ae": {
+      "type": "multicolumn",
+      "blocks": {
+        "2a622407-7945-41d8-b8ae-b4da4d23117a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Porridge---Barnhouse-Flakes-Hafer.jpg",
+            "title": "Klassischer Porridge",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/rezept-klassischer-porridge?ose=false",
+            "button_style_secondary": false
+          }
+        },
+        "65dd4d5a-b1e8-423f-925d-2e309b8bac8a": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Acai-Bowl---Barnhouse-Flakes-Hafer_fed852fc-c1ca-4d3d-87cf-bdc0b1bd7086.jpg",
+            "title": "Acai Bowl",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "https:\/\/barnhouse-onlineshop.myshopify.com\/blogs\/rezepte\/rezept-krunchy-acai-bowl?ose=false",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "2a622407-7945-41d8-b8ae-b4da4d23117a",
+        "65dd4d5a-b1e8-423f-925d-2e309b8bac8a"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "Barnhouse Flakes Hafer",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "center",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "40bbc235-c5f6-435a-9a15-a96c51a9b13d": {
+      "type": "featured-blog",
+      "blocks": {
+        "template--19058296258896__40bbc235-c5f6-435a-9a15-a96c51a9b13d-title-1": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": false
+          }
+        },
+        "template--19058296258896__40bbc235-c5f6-435a-9a15-a96c51a9b13d-summary-1": {
+          "type": "summary",
+          "settings": {
+          }
+        },
+        "template--19058296258896__40bbc235-c5f6-435a-9a15-a96c51a9b13d-read_more-1": {
+          "type": "read_more",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--19058296258896__40bbc235-c5f6-435a-9a15-a96c51a9b13d-title-1",
+        "template--19058296258896__40bbc235-c5f6-435a-9a15-a96c51a9b13d-summary-1",
+        "template--19058296258896__40bbc235-c5f6-435a-9a15-a96c51a9b13d-read_more-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "blog": "rezepte",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Blog posts",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6c8ed66e-e1ca-4824-b8ee-d286a025a0d1",
+    "b917d796-d838-435d-8753-ce93f946f712",
+    "161b582f-e997-48bd-b36d-d6d6b3366028",
+    "91c4545a-07d2-4d9d-b8e1-c40932da6359",
+    "21e2ae4f-1620-4be6-87dc-10efc5a947a7",
+    "3816fbef-6d55-45b1-9d53-436d7f8b0d35",
+    "1dac9295-dd16-4d5c-a93b-843b4b653eeb",
+    "3fbfb0f5-567e-46bf-9244-4ea30ce4750b",
+    "417781ef-5b58-49b7-af3d-4fba754d333c",
+    "80f77692-c1c9-4e65-8e58-dcb7bbe8c21a",
+    "0dafc0e4-0988-4eeb-b761-5f20e4bd6514",
+    "c1078985-4c9a-45b1-9a63-6d42b46d0375",
+    "e30c9f5c-08ec-4a04-8c45-22cea4805a7f",
+    "02d58ac2-b883-4568-89c8-ff41b7e8605a",
+    "529fff3a-a54d-48ce-83b2-70bd1b19bde8",
+    "8feed580-8275-41e4-9a42-b079b0598773",
+    "1af2d7e4-4716-4b27-bfb5-4b90f905ead7",
+    "fea4e631-9e88-433d-a92d-1b8e5ebd46ae",
+    "40bbc235-c5f6-435a-9a15-a96c51a9b13d"
+  ]
+}

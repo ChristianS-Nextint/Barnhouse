@@ -1,0 +1,8 @@
+{
+  "parent": "page.produkt-des-monats.json",
+  "context": {
+    "market": "international"
+  },
+  "sections": {
+  }
+}

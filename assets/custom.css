@@ -1,0 +1,139 @@
+.footer-bio-image-block {
+    display: flex;
+    align-items: center;
+    margin: 0 -10px 30px 0;
+}
+.bio-image {
+    padding: 0 10px;
+}
+.bio-image img {
+    max-width: 80px;
+    max-height: 80px;
+    object-fit: contain;
+}
+.footer-bio-text p {
+    font-size: 12px;
+}
+
+.col-12.quantityList {
+    display: inline-block;
+    width: 100%;
+    max-width: 300px;
+    position: relative;
+}
+.col-12.quantityList .col-12.divisionLine {
+    width: 100%;
+    /* padding-right: 50%; */
+}
+.col-12.quantityList .col-12.divisionLine ~ .col-12.row {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 50%;
+    text-align: right;
+}
+.col-12.quantityList .col-12.divisionLine ~ .col-12.row .optionCell.qunatityPrice {
+    color: #226e06;
+}
+.col-12.quantityList .col-12 .optionCell {
+    padding: 4px  0 2px;
+}
+.col-12.divisionLine.row .optionCell {
+    border-bottom: solid 1px #ccc;
+}
+.table-block.table-2  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-2 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-3  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-3 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-4  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-4 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-5  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-5 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-6  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-6 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-7  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-7 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-8  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-8 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-9  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-9 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-10  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-10 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-11  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-11 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-12  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-12 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-13  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-13 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-14  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-14 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-15  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-15 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.table-block.table-16  .col-12.quantityList .col-12.divisionLine.row ~ .col-12.row .optionCell.qunatityPrice:first-child {
+    display: none;
+}
+.table-block.table-16 .col-12.divisionLine.row .optionCell:first-child {
+    display: none;
+}
+.all-tables-block.activce-table {
+    display: block;
+}
+.all-tables-block {
+    display: none;
+}

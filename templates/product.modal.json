@@ -1,0 +1,128 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product-modal",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "title_size": "h2",
+            "show_price": false,
+            "price_size": "medium"
+          }
+        },
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "icon": "none",
+            "text": "{{ product.metafields.custom.verkehrsbezeichnung.value }}",
+            "text_style": "uppercase"
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "price_size": "medium",
+            "show_badges": true
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "show_variant_labels": true,
+            "picker_type": "button",
+            "enable_color_swatches": true,
+            "swatch_type": "round",
+            "size_chart": ""
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_quantity_selector": true,
+            "show_dynamic_checkout": false
+          }
+        },
+        "6d13c01f-c861-45c0-aca4-7eccd81ebdc9": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<div class=\"container-produkt-badge\">\n{% if product.tags contains \"Bayern\" %}\n<img src=\"{{ 'Symbol_Bayern.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Bio\" %}\n<img src=\"{{ 'Symbol_Bio.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Palmölfrei\" %}\n<img src=\"{{ 'Symbol_Palmoelfrei.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Vegan\" %}\n<img src=\"{{ 'Symbol_Vegan.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Weizenfrei\" %}\n<img src=\"{{ 'Symbol_Weizenfrei.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Alternativ gesüßt\" %}\n<img src=\"{{ 'Symbol_alt_gesuesst.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}{% if product.tags contains \"Regionale Haferflocken\" %}\n<img src=\"{{ 'Symbol_Haferflocken.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n{% if product.tags contains \"Regionale Dinkelflocken\" %}\n<img src=\"{{ 'Symbol_Dinkelflocken.png' | asset_img_url: '150px' }}\" class=\"collection-badge\" \/>\n{% endif %}\n\n<\/div>"
+          }
+        },
+        "f558d9a3-a8cf-45d0-aa8f-c6c638f26847": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Beschreibung"
+          }
+        },
+        "collapsible_tab-0": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Zutaten",
+            "content": "{{ product.metafields.custom.neu_inhaltsstoffe | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "collapsible_tab-1": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Nährwerte\/100g",
+            "content": "<p>{{ product.metafields.customAttributes.barnhouse_product_food_valu | metafield_tag }}<\/p>{{ product.metafields.custom.neu_n_hrwerte_100g | metafield_tag }}",
+            "page": ""
+          }
+        },
+        "3ccc530f-bd6e-4f28-af26-0dd538b0bc25": {
+          "type": "collapsible_tab",
+          "settings": {
+            "icon": "none",
+            "heading": "Allergiehinweise",
+            "content": "<p>{{ product.metafields.customAttributes.barnhouse_product_allergy_i.value }}<\/p>",
+            "page": ""
+          }
+        },
+        "7ea4ce2a-fa34-48af-97ae-a848d9058ec7": {
+          "type": "read_more",
+          "settings": {
+            "show_icon": true
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "vendor",
+        "price",
+        "variant_picker",
+        "buy_buttons",
+        "6d13c01f-c861-45c0-aca4-7eccd81ebdc9",
+        "f558d9a3-a8cf-45d0-aa8f-c6c638f26847",
+        "collapsible_tab-0",
+        "collapsible_tab-1",
+        "3ccc530f-bd6e-4f28-af26-0dd538b0bc25",
+        "7ea4ce2a-fa34-48af-97ae-a848d9058ec7"
+      ],
+      "settings": {
+        "hide_variants": false,
+        "enable_image_zoom": false,
+        "enable_video_looping": false,
+        "enable_image_fill": false,
+        "mobile_image_ratio": "adapt_first"
+      }
+    },
+    "1684830500d1de156d": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1684830500d1de156d"
+  ]
+}

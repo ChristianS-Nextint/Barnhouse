@@ -1,0 +1,610 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "226139e0-3168-4795-8a01-34af7d4d7b4c": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19058296848720__226139e0-3168-4795-8a01-34af7d4d7b4c-16866527317d97a813-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Pressebereich",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--19058296848720__226139e0-3168-4795-8a01-34af7d4d7b4c-16866527317d97a813-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--19058296848720__226139e0-3168-4795-8a01-34af7d4d7b4c-16866527317d97a813-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19058296848720__226139e0-3168-4795-8a01-34af7d4d7b4c-16866527317d97a813-0",
+        "template--19058296848720__226139e0-3168-4795-8a01-34af7d4d7b4c-16866527317d97a813-1",
+        "template--19058296848720__226139e0-3168-4795-8a01-34af7d4d7b4c-16866527317d97a813-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19168092324176__9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--19168092324176__9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Gerne stellen wir Ihnen unsere Pressemitteilungen – in chronologischer <br\/>Reihenfolge – zur Verfügung. Sollten Sie noch Fragen haben, Produktfotos oder anderes Bildmaterial benötigen, wenden Sie sich bitte an Andreas <br\/>Bentlage (<a href=\"mailto:andreas.bentlage@barnhouse.de\" title=\"mailto:andreas.bentlage@barnhouse.de\">andreas.bentlage@barnhouse.de<\/a>).<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--19168092324176__9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19168092324176__9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23-heading-1",
+        "template--19168092324176__9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23-text-1",
+        "template--19168092324176__9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23-button-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e3c89614-f583-4a67-a109-83ac437435ce": {
+      "type": "rich-text",
+      "blocks": {
+        "7ce392f4-d0b0-44fa-b0a7-9dabf97aa535": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "a705db17-84dd-4527-99d2-0f81b015bc9b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>November 2023:<\/h3><p><strong>Presse-Information \"Krunchy Snack it!\"<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse-Presse-Kit_Krunchy-Snack_it.zip?v=1699517197\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse-Presse-Kit_Krunchy-Snack_it.zip?v=1699517197\">Download Presse-Kit<\/a><\/p><h3><\/h3><p><strong>Presse-Information \"Krunchy Salted Caramel Chunks\"<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presse-Kit_Krunchy-Salted-Caramel-Chunks.zip?v=1699516981\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presse-Kit_Krunchy-Salted-Caramel-Chunks.zip?v=1699516981\">Download Presse-Kit<\/a><\/p><p><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "5841b7fd-62e6-49cc-bdb0-308341d12717": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>März 2023:<\/h3><p><strong>Presse-Information Wildbienen-Aktion “Barnhouse BEE WILD 2023“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit_BEE_WILD_Maerz2023.zip?v=1690792468\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit_BEE_WILD_Maerz2023.zip?v=1690792468\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "d77577d6-bebf-4c15-bcf2-39453cb557b4": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "7ce392f4-d0b0-44fa-b0a7-9dabf97aa535",
+        "a705db17-84dd-4527-99d2-0f81b015bc9b",
+        "5841b7fd-62e6-49cc-bdb0-308341d12717",
+        "d77577d6-bebf-4c15-bcf2-39453cb557b4"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "134209ed-c693-4e08-8eca-618bd9278623": {
+      "type": "rich-text",
+      "blocks": {
+        "c88fa858-5ca4-405c-9008-16d12b341b09": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "92aa910a-7646-465a-bcdd-10ee1912c258": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Februar 2023:<\/h3><p><strong>Presse-Information “Krunchy Linse mit Apfel“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/PresseKit_Barnhouse_Krunchy-Linse-Apfel.zip?v=1690792467\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/PresseKit_Barnhouse_Krunchy-Linse-Apfel.zip?v=1690792467\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "80baba2f-85ba-4a5d-af1d-4351e89ae8c6": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "c88fa858-5ca4-405c-9008-16d12b341b09",
+        "92aa910a-7646-465a-bcdd-10ee1912c258",
+        "80baba2f-85ba-4a5d-af1d-4351e89ae8c6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "81f16de0-a8a0-41d3-867a-5729bf673561": {
+      "type": "rich-text",
+      "blocks": {
+        "ceb9b301-5364-43a1-ac95-d40b29173b09": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "3d3195c2-731e-4dd7-8930-4157bf027e1b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>September 2022:<\/h3><p><strong>Presse-Information “Krunchy Plus“<\/strong><\/p><p><a href=\"https:\/\/backup.barnhouse.de\/wp-content\/uploads\/2022\/09\/Press-Kit-Barnhouse_Krunchy-Plus.zip\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "881bb2ff-5230-4518-9d85-c917c3763f67": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "ceb9b301-5364-43a1-ac95-d40b29173b09",
+        "3d3195c2-731e-4dd7-8930-4157bf027e1b",
+        "881bb2ff-5230-4518-9d85-c917c3763f67"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d4231fb5-de38-4443-801a-d9fa33efbea6": {
+      "type": "rich-text",
+      "blocks": {
+        "2b0707c8-1103-4b4e-8abb-c8308070fb8c": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "05aee34a-4c0c-463f-889e-27dd050a62e0": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>März 2022:<\/h3><p><strong>Presse-Information “Barnhouse Ideenwettbewerb“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Presse-Kit_Barnhouse_Bauern_Ideenwettbewerb_Maerz2022_1.zip?v=1690792466\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Presse-Kit_Barnhouse_Bauern_Ideenwettbewerb_Maerz2022_1.zip?v=1690792466\">Download Presse-Kit<\/a><\/p><p><\/p><p><strong>Presse-Information “Barnhouse BEE WILD 2022“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit_BEE_WILD_Maerz2022.zip?v=1690792467\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit_BEE_WILD_Maerz2022.zip?v=1690792467\">Download Presse-Kit<\/a><\/p><p><\/p><p><strong>Presse-Information “Krunchy XL“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit__Krunchy_125kg_Maerz2022.zip?v=1690792468\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit__Krunchy_125kg_Maerz2022.zip?v=1690792468\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "e84e67ac-fc23-4b78-8f14-ed20bb1ec88b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "2b0707c8-1103-4b4e-8abb-c8308070fb8c",
+        "05aee34a-4c0c-463f-889e-27dd050a62e0",
+        "e84e67ac-fc23-4b78-8f14-ed20bb1ec88b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "4ac64e52-d133-4a33-9493-b5dbac7177da": {
+      "type": "rich-text",
+      "blocks": {
+        "5facb5a2-9aed-4cd5-9bb5-de0234717183": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "7ded3c69-d3e5-4e05-8676-68c2e66c2a05": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>November 2021:<\/h3><p><strong>Presse-Information “We Care“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit_We-Care_November2021.zip?v=1690792467\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Presskit_We-Care_November2021.zip?v=1690792467\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "d0851dab-811a-4337-8bc0-432dc717e831": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5facb5a2-9aed-4cd5-9bb5-de0234717183",
+        "7ded3c69-d3e5-4e05-8676-68c2e66c2a05",
+        "d0851dab-811a-4337-8bc0-432dc717e831"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ea2d3fe6-e1ea-4669-b098-1ecd75d7fb21": {
+      "type": "rich-text",
+      "blocks": {
+        "f4eafb32-6fcb-4a3f-a87e-a2a83d9fcb58": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "d9aebfd6-fb62-45e6-ba49-953a33708a69": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>September 2021:<\/h3><p><strong>Presse-Information “Krunchy Low Sugar“<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/PressKit_Barnhouse_Krunchy_Low-Sugar_September2021.zip?v=1690792468\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/PressKit_Barnhouse_Krunchy_Low-Sugar_September2021.zip?v=1690792468\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "270ab249-0e32-424f-8e2d-2be41d5d288b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "f4eafb32-6fcb-4a3f-a87e-a2a83d9fcb58",
+        "d9aebfd6-fb62-45e6-ba49-953a33708a69",
+        "270ab249-0e32-424f-8e2d-2be41d5d288b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3b146b8c-f84b-4784-b832-ce9b4a12bbed": {
+      "type": "rich-text",
+      "blocks": {
+        "cc2827e8-0b50-47e0-bfc1-cfd7544fdd6f": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "6b10a727-6654-486a-8847-db8deabf211e": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Juli 2021:<\/h3><p><strong>Presse-Informationen<br\/> “Barnhouse erhöht Produktionskapazitäten” & “Barnhouse unterstützt <br\/>seine Bauern bei Bodenverbesserung und Humusaufbau”<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Pressekit_Juli_2021.zip?v=1690792469\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Pressekit_Juli_2021.zip?v=1690792469\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "18c46041-85cd-4029-a37a-0b95c1d4e0ae": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "cc2827e8-0b50-47e0-bfc1-cfd7544fdd6f",
+        "6b10a727-6654-486a-8847-db8deabf211e",
+        "18c46041-85cd-4029-a37a-0b95c1d4e0ae"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "a75830ba-1fd2-4db5-9d34-13e77f02cf34": {
+      "type": "rich-text",
+      "blocks": {
+        "8703d97f-a04a-4ca1-97b1-41dc3f66d499": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "019b365d-105e-4451-8bf3-e625f04ad193": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>April 2021:<\/h3><p><strong>Presse-Information Barnhouse baut regionalen Getreideanbau weiter aus<\/strong><\/p><p><a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse-baut-regionalen-Getreideanbau-weiter-aus.zip?v=1690792468\" target=\"_blank\" title=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse-baut-regionalen-Getreideanbau-weiter-aus.zip?v=1690792468\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "86e43979-8b54-470c-a6fc-5b814a7e9389": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "8703d97f-a04a-4ca1-97b1-41dc3f66d499",
+        "019b365d-105e-4451-8bf3-e625f04ad193",
+        "86e43979-8b54-470c-a6fc-5b814a7e9389"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "9a83f513-bbaa-4dec-9e6d-6e9f9eacf93f": {
+      "type": "rich-text",
+      "blocks": {
+        "909d21d6-34f4-4dbb-aaad-61fa454b720b": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "c553e40f-8af2-4c90-9fbb-96bc141ddb87": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Januar 2021:<\/h3><p><strong>Presse-Information Krunchy Oat to the Max und Barnhouse Flakes<\/strong><\/p><p><a href=\"https:\/\/backup.barnhouse.de\/wp-content\/uploads\/2021\/01\/Krunchy-OTTM-und-Flakes-1.zip\">Download Presse-Kit<\/a><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "ce12f81b-0747-4331-98a6-15989d628794": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "909d21d6-34f4-4dbb-aaad-61fa454b720b",
+        "c553e40f-8af2-4c90-9fbb-96bc141ddb87",
+        "ce12f81b-0747-4331-98a6-15989d628794"
+      ],
+      "disabled": true,
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "226139e0-3168-4795-8a01-34af7d4d7b4c",
+    "9b27c77c-a5e7-40b8-a9d2-721f2d2b3c23",
+    "e3c89614-f583-4a67-a109-83ac437435ce",
+    "134209ed-c693-4e08-8eca-618bd9278623",
+    "81f16de0-a8a0-41d3-867a-5729bf673561",
+    "d4231fb5-de38-4443-801a-d9fa33efbea6",
+    "4ac64e52-d133-4a33-9493-b5dbac7177da",
+    "ea2d3fe6-e1ea-4669-b098-1ecd75d7fb21",
+    "3b146b8c-f84b-4784-b832-ce9b4a12bbed",
+    "a75830ba-1fd2-4db5-9d34-13e77f02cf34",
+    "9a83f513-bbaa-4dec-9e6d-6e9f9eacf93f"
+  ]
+}

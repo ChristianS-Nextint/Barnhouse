@@ -1,0 +1,70 @@
+{
+  "name": "t:sections.footer-group.name",
+  "type": "footer",
+  "sections": {
+    "4d0bf804-535d-4cd2-a14a-9b8ffe4d867f": {
+      "type": "custom-liquid",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "custom_liquid": "background missing",
+        "full_width": true,
+        "show_divider": false,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Weitere relevante Links",
+            "menu": "footer"
+          }
+        },
+        "8334a0a8-bcf2-4b94-b880-fa2a8a9f674b": {
+          "type": "text",
+          "settings": {
+            "heading": "Kontakt",
+            "subtext": "<p>Barnhouse Naturprodukte GmbH<br\/>Edisonstraße 3a<br\/>84453 Mühldorf am Inn<br\/>Telefon: +49 (0) 8631 36 22 0<br\/>E-Mail: <a href=\"mailto:info@barnhouse.de\" target=\"_blank\" title=\"mailto:info@barnhouse.de\">info@barnhouse.de<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "footer-1",
+        "8334a0a8-bcf2-4b94-b880-fa2a8a9f674b"
+      ],
+      "settings": {
+        "show_divider": false,
+        "image_1": "shopify:\/\/shop_images\/Mittel_DE-OeKO-007_1.png",
+        "image_2": "shopify:\/\/shop_images\/573px-Bio-Siegel-EG-Oeko-VO-Deutschland_1.png",
+        "image_3": "shopify:\/\/shop_images\/Mittel_We-Care-Siegel_1.png",
+        "subtext_1": "",
+        "subtext_2": "",
+        "newsletter_enable": true,
+        "newsletter_heading": "Zum Newsletter anmelden",
+        "newsletter_text": "<p>Melde dich hier für unseren Newsletter an, um keine Neuigkeiten und Aktionen wie Gewinnspiele mehr zu verpassen.<\/p>",
+        "show_social": true,
+        "social_heading": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": false,
+        "copyright_text": "All rights reserved.",
+        "colors_text": "#212326",
+        "colors_heading": "#573522",
+        "colors_link": "#573522",
+        "colors_border": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": ""
+      }
+    }
+  },
+  "order": [
+    "4d0bf804-535d-4cd2-a14a-9b8ffe4d867f",
+    "footer"
+  ]
+}

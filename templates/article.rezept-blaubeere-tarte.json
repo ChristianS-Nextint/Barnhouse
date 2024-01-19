@@ -1,0 +1,207 @@
+{
+  "sections": {
+    "89b3c314-f08a-42d6-851f-6a093e230967": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18913960427856__89b3c314-f08a-42d6-851f-6a093e230967-1683645464220c024c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "{{ article.title }}",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18913960427856__89b3c314-f08a-42d6-851f-6a093e230967-1683645464220c024c-0"
+      ],
+      "settings": {
+        "image": "{{ article.image }}",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18913960427856__3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94-1683645569a8d1d0f4-0": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "title_size": "h3",
+            "text": "{{ article.metafields.custom.rezept_spalte_1 | metafield_tag }}",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18913960427856__3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94-1683645569a8d1d0f4-1": {
+          "type": "column",
+          "settings": {
+            "title": "",
+            "title_size": "h3",
+            "text": "{{ article.metafields.custom.rezept_spalte_2 | metafield_tag }}",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18913960427856__3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94-1683645569a8d1d0f4-2": {
+          "type": "column",
+          "settings": {
+            "image": "{{ article.metafields.custom.rezept_zusatzbild.value }}",
+            "title": "",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18913960427856__3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94-1683645569a8d1d0f4-0",
+        "template--18913960427856__3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94-1683645569a8d1d0f4-1",
+        "template--18913960427856__3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94-1683645569a8d1d0f4-2"
+      ],
+      "settings": {
+        "image_ratio": "square",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "featured_image": {
+          "type": "featured_image",
+          "disabled": true,
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "breadcrumb": {
+          "type": "breadcrumb",
+          "disabled": true,
+          "settings": {
+            "text_style": "uppercase",
+            "show_divider": false
+          }
+        },
+        "title": {
+          "type": "title",
+          "disabled": true,
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": true,
+            "blog_show_comment_count": false
+          }
+        },
+        "content": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "back_to_blog": {
+          "type": "back_to_blog",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "next_previous_posts": {
+          "type": "next_previous_posts",
+          "disabled": true,
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "featured_image",
+        "breadcrumb",
+        "title",
+        "content",
+        "share",
+        "back_to_blog",
+        "next_previous_posts"
+      ],
+      "settings": {
+        "show_gravatar": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "featured-blog": {
+      "type": "featured-blog",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "show_date": true,
+            "show_author": false,
+            "show_comment_count": true
+          }
+        }
+      },
+      "block_order": [
+        "title"
+      ],
+      "settings": {
+        "blog": "rezepte",
+        "post_limit": 3,
+        "show_view_all": true,
+        "show_divider": false,
+        "heading": "Andere Rezepte, die Dir auch gefallen könnten",
+        "heading_size": "h2",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "show_image": true,
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "89b3c314-f08a-42d6-851f-6a093e230967",
+    "3c5bb5d5-a25e-49b8-a2ba-f7bf50c85f94",
+    "main",
+    "featured-blog"
+  ]
+}

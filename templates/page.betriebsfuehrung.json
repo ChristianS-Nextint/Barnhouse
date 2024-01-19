@@ -1,0 +1,80 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "16d85492-ed47-4a30-9bbf-dede6a8b907e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19288037523792__16d85492-ed47-4a30-9bbf-dede6a8b907e-heading-1": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--19288037523792__16d85492-ed47-4a30-9bbf-dede6a8b907e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Du möchtest bei der <strong>Barnhouse Betriebsführung<\/strong> im Rahmen der <a href=\"https:\/\/www.bioregio-mue.de\/\" target=\"_blank\">bioregionalen Wochen<\/a> des Landkreises Mühldorf dabei sein? Dann melde dich hier an:<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--19288037523792__16d85492-ed47-4a30-9bbf-dede6a8b907e-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19288037523792__16d85492-ed47-4a30-9bbf-dede6a8b907e-heading-1",
+        "template--19288037523792__16d85492-ed47-4a30-9bbf-dede6a8b907e-text-1",
+        "template--19288037523792__16d85492-ed47-4a30-9bbf-dede6a8b907e-button-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "3c955a26-0e7e-4ee1-9020-a8b31efc43db": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "<div style=\"margin:0 auto;\" class=\"pxFormGenerator\" id=\"q4gjHLt-tgHsp_zVs73oyw\"><\/div>",
+        "full_width": false,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16d85492-ed47-4a30-9bbf-dede6a8b907e",
+    "3c955a26-0e7e-4ee1-9020-a8b31efc43db"
+  ]
+}

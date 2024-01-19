@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hargasser_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hargasser_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hargasser_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Rudi Hargasser – Salmanskirchen",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>„Verliere nie die Leichtigkeit und denke immer daran, wer du bist!“<\/h3><p>In knapp 20 Autominuten fährt man von Barnhouse zum Hof von Rudi Hargasser in Salmanskirchen (Ampfing). Der Schloßbauer Hof war früher im Besitz von Familie Pfäffingers, einem Adelsgeschlecht im 1500 Jahrhundert. Seit 1845 gehört er Rudis Familie und wird seit 2012 als Bio-Betrieb mit reinem Getreideanbau geführt. Gemeinsam mit seiner Frau und den zwei Kindern lebt und arbeitet Rudi auf dem Hof. Hauptberuflich ist er als Einkaufsleiter bei einem Zulieferbetrieb für die Automobilindustrie tätig.<\/p><p>Um dem Stress, der bei seinen zwei Jobs immer mal wieder auftreten kann, entgegenzuwirken, meditiert der <strong>Bioland<\/strong>-Bauer. Das Bewusstsein eines gesunden Lebensstils war auch der Grund, warum Rudi Bio-Bauer wurde. <em>„…, weil ich dadurch mir und meiner Familie ein absolut gutes Gefühl verschaffe, gesunde Lebensmittel zu erzeugen und dadurch bewussten Menschen genau dieses auch weitergeben kann.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hargasser_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hargasser_1.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hargasser_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fbbaa322-52bc-4f73-9ee2-7a0d565ce00e": {
+      "type": "rich-text",
+      "blocks": {
+        "5193d976-fb20-4bf9-ba2d-8802957041f0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "8cf5b342-bf10-4547-9a74-69cfcc53176b": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dieses Bewusstsein und die Wichtigkeit dahinter, versucht er auch seinen Kindern zu vermitteln und ihnen zu zeigen, was Landwirtschaft mit seinen Mitteln bedeutet. Seine Arbeit auf dem Hof verschafft Rudi auch eine gewisse Erdung und gleichzeitig einen Ausgleich zu seinem Haupterwerb.<\/p><p><em>„Im Einklang mit den Jahreszeiten als Landwirt zu denken, aber auch sich gewissermaßen unterzuordnen verschafft mir eine gewisse Demut, die bei mir von Jahr zu Jahr mehr Raum einnimmt,“<\/em> erklärt er uns.<\/p><p>Doch Rudi ist es auch wichtig zu wissen, wofür er all das tut und sein Getreide anbaut. <em>„Zu wissen, was konkret aus meinem Getreide entsteht, ist das eine. Zu wissen, welche Leute einem gegenüberstehen und deren persönliche Überzeugung zu kennen, ist das andere. Wenn nun beides stimmig ist und die Belange aller wahrgenommen bzw. ernst genommen werden, weiß man auch, wofür man das Ganze Jahr arbeitet. Erst dann macht es wahnsinnig Spaß, auch mit allen zusammen zu feiern!!“<\/em><\/p><p>Erwähnenswert: Rudi Hargasser ist im Vorstand des Vereins “Eicher Raubtiere Salmanskirchen”, der sich nicht nur der Erhaltung und Vorführung alter bäuerlicher Arbeitsmethoden widmet, sondern auch der Tradition und Pflege historischer Landmaschinen. Namens gebend waren hier Traktoren der oberbayerischen Firma Eicher, deren himmelblaue Baureihe “Eicher Raubtiere” aus den 1950er\/60er-Jahren legendär ist.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "b88ad97d-5fcc-459d-9167-57400c2555fd": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "5193d976-fb20-4bf9-ba2d-8802957041f0",
+        "8cf5b342-bf10-4547-9a74-69cfcc53176b",
+        "b88ad97d-5fcc-459d-9167-57400c2555fd"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "fbbaa322-52bc-4f73-9ee2-7a0d565ce00e"
+  ]
+}

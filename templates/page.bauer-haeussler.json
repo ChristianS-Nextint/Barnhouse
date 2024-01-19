@@ -1,0 +1,328 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Hilarius Häußler – Gallenbach",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>“Bio-Bauer zu sein, heißt für mich auch, Verantwortung zu übernehmen –<\/strong><br\/><strong>nicht nur ökologisch, sondern auch historisch und sozial!”<\/strong><\/h3><p><strong>Zu Besuch in Gallenbach\/Taufkirchen bei unserem Partner-Landwirt Hilarius Häußler. Die kleine Gemeinde Taufkirchen liegt in sehr reizvoller Voralpen-Landschaft zwischen den Flüssen Inn und Alz.<\/strong><\/p><h2>Tafernwirtschaft seit 1696 (!)<\/h2><p>mit Kräutergarten, Kräuterhütte, Gastgarten, Esel, Bienenhaltung und Biobauernhof: Das alles ist Gallenbach und es ist gerade diese Vielfalt, die den Reiz und den Charme des Anwesens ausmachen. Bayerische Bodenständigkeit und Sinn für Tradition finden sich hier fruchtbar vereint mit ökologischem sowie kulturellem Bewusstsein und Engagement, wie wir es nicht selten bei vielen Bio-Landwirten der jüngeren Generation finden.<\/p><p><\/p><h3>Gallenbach liegt prominent am Ortsrand von Taufkirchen.<\/h3><p>Das alte, mächtige Windrad muss kein Wasser mehr aus dem Hof-Brunnen pumpen, sondern dient als Wegmarke und Wahrzeichen für Hof und Wirtschaft. <strong>Ein authentischer Ort<\/strong>, weshalb wohl auch der Regisseur Christian Lerch Szenen seines Film “Was weg is, is weg” hier drehte.<\/p><p><strong>“D’Wirtin und da Bauer” <\/strong>titelt die sehenswerte <a href=\"https:\/\/www.maier-gallenbach.de\/\">Webseite <\/a>von Gallenbach und scheint erstmal auf eine deutliche Aufgabenteilung zwischen <strong>Claudia (d’Wirtin)<\/strong> und <strong>Hilarius (da Bauer)<\/strong> hinzuweisen. Nicht ganz, denn als wir in Gallenbach eintreffen, müssen wir erst einmal Hilarius vom Küchendienst “befreien” – eine große Gesellschaft wird zum Mittagstisch erwartet, es herrscht emsiger Hochbetrieb an Pfannen und Töpfen und so wurde der Landwirt flugs von seiner Frau zum Aushelfen verpflichtet.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "06919eae-db40-4641-b17b-b13df6aa9348": {
+      "type": "rich-text",
+      "blocks": {
+        "47cff3fc-c96f-4617-8d11-1c2207388d76": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9da5bb80-9fc3-48bb-a767-da035df50d45": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Hilarius baut für Barnhouse Hafer und Dinkel an und ist Bio-Landwirt im Nebenerwerb.<\/h2><p>“Denn eigentlich bin ich ja Sozialpädagoge. Ein Beruf, den ich jetzt halbtags ausübe!”, verrät er schmunzelnd und erzählt, dass er ein Wohnprojekt für Menschen mit psychischer Behinderung betreut.<\/p><p>Im Jahr 2007 haben seine Frau Claudia und er Hof und Wirtschaft von den Schwiegereltern übernommen, 2011 erfolgte dann die Umstellung der Landwirtschaft auf Bio. Ganz sicher keine leichte Übung für einen Sozialpädagogen, aber Hilarius strahlt die für diesen Weg notwendige Besonnenheit, Tatkraft und Zielstrebigkeit aus. Ein echter Autodidakt des Öko-Landbaus. <strong>Und uns erfüllt wieder einmal großes Staunen und Respekt – vor diesem für uns alle so wichtigen Beruf und vor denen, die ihn ausüben.<\/strong><\/p><h3>“Hilarius, was bedeutet das für Dich eigentlich, Bio-Bauer zu sein?”,<\/h3><p>wollen wir von ihm wissen. Hilarius denkt kurz nach. “Bio-Bauer sein bedeutet für mich nicht nur, kein Gift auf die Äcker zu fahren, sondern ist ein ganzheitlicher Lebensentwurf. Man übernimmt für einen Ort, der einem anvertraut wurde, Verantwortung für eine Generation und zwar auf der ganzen Linie – ökologisch, historisch und sozial. Bio-Bauer ist man in allen Lebensbereichen, das ist mir wichtig!”<\/p><h3>Wie wichtig ihnen das ist, haben Claudia und Hilarius 2014 bewiesen,<\/h3><p>als sie ohne finanzielle Unterstützung der Gemeinde einen Gedenkstein für das NS-Opfer Stefan Duda am Waldrand bei Gallenbach aufstellten. Duda war ein polnischer Zwangsarbeiter, der hier aufgrund seiner Beziehung zur Tochter eines Bauern öffentlich hingerichtet wurde. “Wir haben uns sehr stark mit der Geschichte von Gallenbach beschäftigt und versucht dunkle Kapitel der Hofgeschichte aufzuarbeiten. <strong>Mit der Übergabe 2007 haben wir nicht nur Felder und Hof bekommen, sondern wir haben auch die historische und soziale Verantwortung für einen alten Siedlungsort übernommen.”<\/strong><\/p><p><strong>Natürlich möchten wir mit ihm die Felder besichtigen, auf denen das Barnhouse-Getreide wächst.<\/strong> Weil das Haferfeld einen kleinen Fußmarsch entfernt ist, beschränken wir uns auf das gleich benachbart liegende Dinkelfeld. Sattgrün leuchten die Halme, die schon um einiges höher stehen als der Hafer, erfolgte die Aussaat dieser alten Getreidesorte doch bereits im Herbst letzten Jahres. Überhaupt sind alte Getreidesorten und Kulturpflanzen Steckenpferd und Leidenschaft von Hilarius. Neben dem Dinkel wächst Emmer und Einkorn, aber auch Buchweizen, ein sogenanntes “Pseudogetreide”, dessen hochwertige Inhaltsstoffe gerade wiederentdeckt werden.<\/p><p><strong>In seinen Ausführungen macht uns Hilarius wieder deutlich, wie enorm wichtig die Qualität des Ackerbodens ist.<\/strong> Geschädigte Böden, wie sie im konventionellen Ackerbau an der Tagesordnung sind, benötigen oft Jahre und Jahrzehnte, bis sie wieder gesund sind. Manche Schäden sind sogar unumkehrbar. So ist z.B. die sogenannte Verdichtung ein großes Problem. Hier wird der Ackerboden durch den Einsatz zu schwerer Maschinen sowie durch Humusschwund und reduziertes Bodenleben aufgrund enger Fruchtfolgen und Spritzmittel oft irreversibel geschädigt.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "b4dd735b-2ad3-465b-97ea-981acdf4cbeb": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "47cff3fc-c96f-4617-8d11-1c2207388d76",
+        "9da5bb80-9fc3-48bb-a767-da035df50d45",
+        "b4dd735b-2ad3-465b-97ea-981acdf4cbeb"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b92255b6-1d1a-45ed-b4d0-85d265b261cb": {
+      "type": "gallery",
+      "blocks": {
+        "8723d570-01db-432f-abaa-d17dc099ebb7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "64c36c1a-5463-436c-8531-5c186d2275f7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Haeussler_3.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "8723d570-01db-432f-abaa-d17dc099ebb7",
+        "64c36c1a-5463-436c-8531-5c186d2275f7"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8d89a876-80a1-4901-815b-a0c0726dc345": {
+      "type": "rich-text",
+      "blocks": {
+        "c9806f45-229c-48ae-b0d6-d075c1dc5af9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "be24d67e-bdf3-4e9f-ac31-9a86b1d1b53f": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Wir kehren zum Hof zurück, wo einige Esel unsere Ankunft aufmerksam verfolgen.<\/strong><\/h3><p>“Wir haben ja hier keine Viehhaltung, aber ich finde, zu einem Bauernhof gehören einfach auch Tiere.”, erklärt uns Hilarius, während er diese liebevoll krault. Natürlich interessiert uns auch der Kräutergarten, an dessen Zaun die nicht im Einsatz befindlichen Wabenrahmen der Hofbienen hängen. Hilarius geniesst hier in der Region den Ruf eines kompetenten Kräuterkundigen und bietet auch entsprechende Kurse an.<\/p><p>Im Kräutergarten zupft Hilarius Blätter von den Pflanzen. Wir probieren neugierig und sind überrascht von den feinen Aromen. Auch die Kunst des traditionellen Räucherns beherrscht er und gibt sein Wissen an Interessierte gerne weiter. Stolz führt er uns in seine Kräuterhütte. <strong>Wir sind fasziniert und erschnuppern verschiedenste Düfte, die den unzähligen, von der Decke hängenden Bündeln entströmen.<\/strong><\/p><p>Gerne würden wir noch mehr über die Wirkungsweisen der vielen Kräuter erfahren, deren Namen wir vorher noch nie gehört hatten, doch leider drängt die Zeit und wir müssen aufbrechen.<\/p><p><strong>“D’Wirtin und da Bauer” von Gallenbach bieten das ganze Jahr über ein buntes Kultur- und Veranstaltungsprogramm: Brot- und Fladenbacken, Kochen am offenen Feuer, Urgetreide-Tage, Vorträge, Konzerte, Lesungen und vieles mehr. Jeden 1. Sonntag ist großes Bio-Frühstück. Alle Infos gibt’s auf der <\/strong><a href=\"http:\/\/www.maier-gallenbach.de\/\" target=\"_parent\"><strong>Homepage<\/strong><\/a><strong> oder <\/strong><a href=\"https:\/\/www.facebook.com\/pages\/Gasthaus-Maier-Gallenbach\/611236775602875?fref=ts\" target=\"_blank\"><strong>Facebook<\/strong><\/a><strong>.<\/strong><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "23ea6fdd-d0c5-4770-a425-889837e90f4b": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "c9806f45-229c-48ae-b0d6-d075c1dc5af9",
+        "be24d67e-bdf3-4e9f-ac31-9a86b1d1b53f",
+        "23ea6fdd-d0c5-4770-a425-889837e90f4b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "06919eae-db40-4641-b17b-b13df6aa9348",
+    "b92255b6-1d1a-45ed-b4d0-85d265b261cb",
+    "8d89a876-80a1-4901-815b-a0c0726dc345"
+  ]
+}

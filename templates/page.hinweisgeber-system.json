@@ -1,0 +1,186 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "efdaf6d8-3e02-406c-865c-be510fc2d005": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hinweisgeber­system",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2><strong>Barnhouse Naturprodukte GmbH<\/strong><\/h2>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-0",
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-1",
+        "template--19058296947024__efdaf6d8-3e02-406c-865c-be510fc2d005-16866527317d97a813-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "rich_text_gB6VUW": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_fRizhg": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Hinweisgeber­system",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text_AP9UCm": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Nachhaltiges Wirtschaften begründet die Zukunftsperspektive für Umwelt, Gesellschaft sowie Wirtschaft und auch für jede*n einzelne*n Mitarbeiter*in,<br\/>Geschäftspartner*in oder Kund*in von Barnhouse Naturprodukte GmbH<em>.<\/em><\/p><p>Grundpfeiler der Kultur der Barnhouse Naturprodukte GmbH ist ein gemeinsames Verständnis für Werte und Risikominimierung für eine<br\/>nachhaltige Unternehmensentwicklung.<\/p><p>Das Hinweisgebersystem mit anwaltlicher Expertise der <a href=\"http:\/\/www.ratisbona-compliance.de\/\" target=\"_blank\">Ratisbona Compliance GmbH <\/a>(„RC-Whistle“) schafft durch eine für jede Person zugängliche, klar definierte Struktur und eine juristisch<br\/>fundierte Erstbewertung zusätzliches Vertrauen und Sicherheit, um auf Missstände hinzuweisen und damit den nachhaltigen Erfolg der Barnhouse Naturprodukte GmbH<em> <\/em>zu sichern und<br\/>Schaden abzuwenden.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "button_R6xXm7": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fRizhg",
+        "text_AP9UCm",
+        "button_R6xXm7"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#573522",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_UjhfDd": {
+      "type": "rich-text",
+      "blocks": {
+        "button_rACtKk": {
+          "type": "button",
+          "settings": {
+            "button_label": "Jetzt einen Hinweis geben",
+            "button_link": "https:\/\/ratisbona-compliance.de\/start\/",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "button_rACtKk"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_J6R9fU": {
+      "type": "rich-text",
+      "blocks": {
+        "text_zqh4Wa": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hier findest du unsere <a href=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0556\/1375\/1632\/files\/Barnhouse_Whistleblowing-Richtlinie_Januar_2024.pdf?v=1705475315\" target=\"_blank\" title=\"Whistleblower-Richtlinie\"><strong>Whistleblower-Richtlinie<\/strong><\/a>.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "text_zqh4Wa"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "efdaf6d8-3e02-406c-865c-be510fc2d005",
+    "rich_text_gB6VUW",
+    "rich_text_UjhfDd",
+    "rich_text_J6R9fU"
+  ]
+}

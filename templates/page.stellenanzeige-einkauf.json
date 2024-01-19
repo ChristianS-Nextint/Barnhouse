@@ -1,0 +1,357 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "fdb43e03-bc03-4be9-9da2-44c17527d915": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Einkauf_Bio-Pionier.jpg",
+            "title": "Bio-Pionier",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Einkauf_tolle-Produkte.jpg",
+            "title": "Tolle Marke - leckeres Krunchy",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_21112019-113.jpg",
+            "title": "Super KollegInnen",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-2",
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-1",
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-0"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "Einkäufer im operativen Bereich (m\/w\/d)",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "a8c16a5c-8621-455b-8f72-da1f0f539a03": {
+      "type": "gallery",
+      "blocks": {
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anlagenfahrer_Adrian-Backstrasse.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Tolle KollegInnen",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anlagenfahrer_Waldbeere.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Tolle Marke - leckeres Krunchy",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anlagenfahrer_moderne-Produktionsanlagen.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Moderne Produktionsanlagen",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-0",
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-1",
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 3,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Anlagenfahrer in unserer Produktion (m\/w\/d)",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "758390ca-c524-4601-bfcd-480713db9cba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir suchen dich als <strong>Einkäufer im operativen Bereich (m\/w\/d)<\/strong> in Mühldorf. Barnhouse Naturprodukte ist Deutschlands führender Hersteller von Knuspermüsli in Bio-Qualität. 1979 gegründet, sind wir ein echter Bio-Pionier. Im idyllischen Mühldorf am Inn stellen wir an unserem modernen Produktionsstandort im 3-Schicht-Betrieb Frühstückscerealien her. Wir expandieren und brauchen daher neue Barnies.<\/p><p>Bist auch Du Krunchy? Dann komm zu uns ins Team als<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9ea0d902-1db6-4940-ac12-2eaa766e9999": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Einkäufer im operativen Bereich (m\/w\/d)<\/h2>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-1",
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-0",
+        "9ea0d902-1db6-4940-ac12-2eaa766e9999"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "e6b3f051-8011-459d-8d20-e94a729e5261": {
+      "type": "rich-text",
+      "blocks": {
+        "6842200a-eff0-44a7-8291-2584caa3eb45": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Diese interessanten Aufgaben warten auf dich:<\/strong><\/h3><p>Von den Zutaten für unsere Krunchys über Verpackungsmaterial bis hin zu<br\/>Ersatzteilen der Technikabteilung – du überwachst unsere kompletten Lagerbestände für Roh- und Hilfsstoffe.<\/p><p>Damit wir reibungslos produzieren können, platzierst du termingerecht die<br\/>Bestellungen bei unseren Lieferanten.<\/p><p>Auch das Einholen von Angeboten gehört zu deinen Aufgaben.<\/p><p>Unser Warenwirtschaftssystem ist eines deiner wichtigsten Tools. Hierüber wickelst du die vollständige Dokumentation ab und verwaltest alle Verträge.<\/p><p>Die Prüfung und Freigabe der Rechnungen liegt ebenfalls in deiner Verantwortung.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "6842200a-eff0-44a7-8291-2584caa3eb45"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "26da2506-95ce-4e2b-b52e-2be5a1ba6c30": {
+      "type": "rich-text",
+      "blocks": {
+        "0c772f9a-61e8-41be-a67f-f203ca1d3d5e": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Damit überzeugst du uns:<\/strong><\/h3><p>Du hast eine abgeschlossene kaufmännische Ausbildung oder ähnliches.<\/p><p>Idealerweise bringst du bereits Berufserfahrung im operativen Einkauf mit.<\/p><p>Du beherrschst Microsoft Office, insbesondere Excel.<\/p><p>Sehr gute Selbstorganisation, sichere Terminplanung sowie proaktives<br\/>Engagement zeichnen dich aus.<\/p><p>Du hast Freude am Umgang mit guten Bio-Lebensmitteln? Umso besser!<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "0c772f9a-61e8-41be-a67f-f203ca1d3d5e"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "79df0e17-194f-48a9-9a48-7f706e85886c": {
+      "type": "rich-text",
+      "blocks": {
+        "8c400e7f-4a1b-4f64-9cba-ad8c716906b6": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Darauf kannst du dich freuen:<\/strong><\/h3><p>sicherer Arbeitsplatz mit flexiblen Arbeitszeiten in einem wachsenden Bio-Lebensmittelbetrieb<\/p><p>interessante und abwechslungsreiche Tätigkeiten<\/p><p>familiäre Arbeitsatmosphäre in einem sympathischen und fröhlichen Team<\/p><p>Neben Urlaubs- und Weihnachtsgeld bekommst du von uns eine jährliche<br\/>Erholungspauschale sowie einen entfernungsabhängigen <br\/>Fahrkostenzuschuss.<\/p><p>Wir unterstützen deine Gesundheit mit einem regelmäßigen Massageangebot. Außerdem übernehmen wir bei Bedarf die Basisbehandlung bei unserem Partner-Arzt für Naturheilkunde.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "8c400e7f-4a1b-4f64-9cba-ad8c716906b6"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "cf743d2c-6cec-4b2f-b3b3-5ad28f240a93": {
+      "type": "rich-text",
+      "blocks": {
+        "88c9a9ca-1865-42ba-9123-f380b8fc7e29": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Was es sonst noch für dich gibt: <\/strong><\/h3><p>Zuschuss zum Mittagessen bei zwei benachbarten Bistros<\/p><p>40% MitarbeiterInnen-Rabatt in unserem Werksverkauf<\/p><p>Bio-Obstkorb<\/p><p>kostenlose Heißgetränke<\/p><p>leckeres Krunchy zur Stärkung zwischendurch<\/p><p>Wir können auch feiern - freu dich auf tolle Firmenfeste!<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "88c9a9ca-1865-42ba-9123-f380b8fc7e29"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    },
+    "7da641f1-4166-4c27-ad42-f8ad90da55f0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855635714384__7da641f1-4166-4c27-ad42-f8ad90da55f0-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Bist du Krunchy?<\/h3><p>Dann freuen wir uns auf deine aussagefähige, schriftliche Bewerbung, vorzugs­weise per E-Mail an Fabian Kanzelsberger:<br\/><a href=\"mailto:fabian.kanzelsberger@barnhouse.de\" title=\"mailto:fabian.kanzelsberger@barnhouse.de\">fabian.kanzelsberger@barnhouse.de<\/a><\/p><p>Barnhouse Naturprodukte GmbH<br\/>Tel. 0 86 31 36 22-0 | Edisonstraße 3a | 84453 Mühldorf am Inn<br\/>www.barnhouse.de<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__7da641f1-4166-4c27-ad42-f8ad90da55f0-1682587994a45636d5-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fdb43e03-bc03-4be9-9da2-44c17527d915",
+    "a8c16a5c-8621-455b-8f72-da1f0f539a03",
+    "758390ca-c524-4601-bfcd-480713db9cba",
+    "e6b3f051-8011-459d-8d20-e94a729e5261",
+    "26da2506-95ce-4e2b-b52e-2be5a1ba6c30",
+    "79df0e17-194f-48a9-9a48-7f706e85886c",
+    "cf743d2c-6cec-4b2f-b3b3-5ad28f240a93",
+    "7da641f1-4166-4c27-ad42-f8ad90da55f0"
+  ]
+}

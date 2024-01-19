@@ -1,0 +1,294 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "22dfda40-8a5c-4eb1-b962-96eb977aa9cc": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18854904430928__22dfda40-8a5c-4eb1-b962-96eb977aa9cc-16825877536d33e07e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Krunchy Linse Challenge",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18854904430928__22dfda40-8a5c-4eb1-b962-96eb977aa9cc-16825877536d33e07e-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18854904430928__22dfda40-8a5c-4eb1-b962-96eb977aa9cc-16825877536d33e07e-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18854904430928__22dfda40-8a5c-4eb1-b962-96eb977aa9cc-16825877536d33e07e-0",
+        "template--18854904430928__22dfda40-8a5c-4eb1-b962-96eb977aa9cc-16825877536d33e07e-1",
+        "template--18854904430928__22dfda40-8a5c-4eb1-b962-96eb977aa9cc-16825877536d33e07e-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bh_bowl_krunchy_honig_v1_web-optimiert.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "64cccefe-b962-4776-95cb-bdff00284695": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18854904430928__64cccefe-b962-4776-95cb-bdff00284695-1682587994a45636d5-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18854904430928__64cccefe-b962-4776-95cb-bdff00284695-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ungewöhnlich, spannend und etwas ganz Neues – das ist unser <a href=\"https:\/\/barnhouse.de\/produkt\/krunchy-linse-mit-apfel\/\" target=\"_blank\"><strong>Krunchy Linse mit Apfel<\/strong><\/a>. Und genauso ist auch der Geschmack! Ganz anders und doch ein richtiges Krunchy, das alles hat, was du erwartest: wunderbar knusprig und köstlich!<\/p><p>Ein Knuspermüsli ganz <strong>ohne Getreide als Zutat<\/strong> macht dich neugierig? Dann lass dich <strong>überraschen<\/strong>, wie toll sich die Linse im Krunchy macht.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18854904430928__64cccefe-b962-4776-95cb-bdff00284695-1682587994a45636d5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "zur Krunchy Linse",
+            "button_link": "shopify:\/\/products\/krunchy-linse-mit-apfel",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18854904430928__64cccefe-b962-4776-95cb-bdff00284695-1682587994a45636d5-0",
+        "template--18854904430928__64cccefe-b962-4776-95cb-bdff00284695-1682587994a45636d5-1",
+        "template--18854904430928__64cccefe-b962-4776-95cb-bdff00284695-1682587994a45636d5-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "db09e1cb-6a18-4329-a5ee-7ce21ae0579e": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18854904430928__db09e1cb-6a18-4329-a5ee-7ce21ae0579e-1682587864e6635be5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Bist du bereit für die Linse?",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18854904430928__db09e1cb-6a18-4329-a5ee-7ce21ae0579e-1682587864e6635be5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Dann bewirb dich für unsere <strong>Krunchy Linse Challenge <\/strong>und probiere unsere Neuheit aus – das erste Krunchy ohne Getreide als Zutat. Sag uns dafür einfach <strong>bis 30. April<\/strong>in<strong>2-3 Sätzen<\/strong>, warum du unsere Innovation unbedingt knuspern möchtest. Unser Barnhouse Challenge Team schickt den <strong>100 überzeugendsten Bewerbungen <\/strong>ein Paket mit je <strong>2 Packungen Krunchy Linse mit Apfel <\/strong>zu.<\/p><p><\/p><h3>Und dann geht´s richtig los!<\/h3>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18854904430928__db09e1cb-6a18-4329-a5ee-7ce21ae0579e-1682587864e6635be5-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18854904430928__db09e1cb-6a18-4329-a5ee-7ce21ae0579e-1682587864e6635be5-0",
+        "template--18854904430928__db09e1cb-6a18-4329-a5ee-7ce21ae0579e-1682587864e6635be5-1",
+        "template--18854904430928__db09e1cb-6a18-4329-a5ee-7ce21ae0579e-1682587864e6635be5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Signet-Linsen-Challenge-e1677594280887-600x434.webp",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_mobile": "shopify:\/\/shop_images\/Signet-Linsen-Challenge-e1677594280887-600x434.webp",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "19a3c3fa-53b1-43f3-bee5-90d115bd48d0": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18854904430928__19a3c3fa-53b1-43f3-bee5-90d115bd48d0-1682587864e6635be5-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Mach die Challenge und zeig uns, wo und wie du Krunchy Linse knusperst. Einzige Bedingung: Sei dabei genauso ungewöhnlich wie unser neues Knuspermüsli.",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18854904430928__19a3c3fa-53b1-43f3-bee5-90d115bd48d0-1682587864e6635be5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Deiner Kreativität sind keine Grenzen gesetzt.<\/p><p>Du knusperst an <strong>außergewöhnlichen Orten<\/strong>? Das wollen wir sehen!<\/p><p>Du probierst Krunchy Linse in ganz <strong>besonderen Situationen<\/strong>? Darauf sind wir neugierig!<\/p><p>Du findest, ein ungewöhnliches Krunchy kann man auch mal <strong>ganz anders<\/strong> als sonst genießen? Zeig es uns!<\/p><p> <\/p><p>Wir freuen uns über deine Fotos, Videos, Bilder, Geschichten u.ä. genauso wie über dein strahlendes Gesicht, weil es dir so gut schmeckt. Unsere Kollegin Alicia beispielsweise ist leidenschaftliche Radlerin und hat sich mal eben auf ihren Drahtesel geschwungen, um Krunchy Linse in voller Fahrt zu knuspern!<\/p><p>Deine Familie oder Freunde wollen sich auch der Challenge stellen? Dann nehmt gerne als Paar oder Gruppe teil.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18854904430928__19a3c3fa-53b1-43f3-bee5-90d115bd48d0-1682587864e6635be5-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Hier bewerben",
+            "button_link": "",
+            "button_size": "large",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18854904430928__19a3c3fa-53b1-43f3-bee5-90d115bd48d0-1682587864e6635be5-0",
+        "template--18854904430928__19a3c3fa-53b1-43f3-bee5-90d115bd48d0-1682587864e6635be5-1",
+        "template--18854904430928__19a3c3fa-53b1-43f3-bee5-90d115bd48d0-1682587864e6635be5-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Alicia-480x640.webp",
+        "image_position": "top center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    },
+    "cec5fe13-2126-4461-af38-bbf18943478f": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18854904430928__cec5fe13-2126-4461-af38-bbf18943478f-1682588929f63f9ba7-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Regionalitaet.jpg",
+            "title": "Platz 1: Freu dich auf ein Krunchy Jahresabo!",
+            "title_size": "h3",
+            "text": "<p>Ein ganzes Jahr lang Knuspergenuss von Barnhouse! Wir schicken dir <strong>monatlich <\/strong>dein individuelles Paket frei Haus zu, damit du jede Woche ein anderes Wunsch-Krunchy knuspern kannst. Somit musst du dir vorerst keinen Kopf mehr machen, was es in nächstes Zeit Leckeres zum Frühstück oder Snacken gibt.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18854904430928__cec5fe13-2126-4461-af38-bbf18943478f-1682588929f63f9ba7-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MotivErdbeer176.jpg",
+            "title": "Platz 2 bis 10: Freut euch auf ein Krunchy-Frühstückspaket!",
+            "title_size": "h3",
+            "text": "<p>Ihr dürft euch jeweils durch ein <strong>Krunchy-Frühstückspaket <\/strong>im Wert von <strong>25€ <\/strong>knuspern.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18854904430928__cec5fe13-2126-4461-af38-bbf18943478f-1682588929f63f9ba7-0",
+        "template--18854904430928__cec5fe13-2126-4461-af38-bbf18943478f-1682588929f63f9ba7-1"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "left",
+        "show_divider": false,
+        "heading": "Das gibt es zu gewinnen!",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "left",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 48,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "22dfda40-8a5c-4eb1-b962-96eb977aa9cc",
+    "64cccefe-b962-4776-95cb-bdff00284695",
+    "db09e1cb-6a18-4329-a5ee-7ce21ae0579e",
+    "19a3c3fa-53b1-43f3-bee5-90d115bd48d0",
+    "cec5fe13-2126-4461-af38-bbf18943478f"
+  ]
+}

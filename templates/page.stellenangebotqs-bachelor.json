@@ -1,0 +1,397 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "fdb43e03-bc03-4be9-9da2-44c17527d915": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bachelorand-QS_KollegInnen.jpg",
+            "title": "Super KollegInnen",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bachelorand-QS_tolleMarke.jpg",
+            "title": "Tolle Marke - leckeres Krunchy",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bachelorand-QS_spannendeAufgaben.jpg",
+            "title": "Spannende Projekte",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-0",
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-1",
+        "template--18977632190800__fdb43e03-bc03-4be9-9da2-44c17527d915-16849289784012b016-2"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "Bachelorand\/Praktikant Nachhaltigkeit (m\/w\/d)",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "a8c16a5c-8621-455b-8f72-da1f0f539a03": {
+      "type": "gallery",
+      "blocks": {
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anlagenfahrer_Adrian-Backstrasse.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Tolle KollegInnen",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anlagenfahrer_Waldbeere.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Tolle Marke - leckeres Krunchy",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anlagenfahrer_moderne-Produktionsanlagen.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Spannende Projekte",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-0",
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-1",
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 3,
+        "spacing_images": 12,
+        "image_height": 280,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Anlagenfahrer in unserer Produktion (m\/w\/d)",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "758390ca-c524-4601-bfcd-480713db9cba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Barnhouse Naturprodukte ist Deutschlands führender Hersteller von Knuspermüsli in Bioqualität. 1979 gegründet, sind wir ein echter Biopionier. Im idyllischen Mühldorf am Inn stellen wir an unserem modernen Produktionsstandort im 3-Schicht-Betrieb Frühstückscerealien her.<\/p><p>Wir sind We-Care-zertifiziert und brauchen dich als<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9ea0d902-1db6-4940-ac12-2eaa766e9999": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>BACHELORAND \/ PRAKTIKANT<br\/>NACHHALTIGKEIT (m\/w\/d)<\/h2><h3><\/h3><h3>PROJEKTSTART: FEBRUAR ODER MÄRZ 2024<\/h3>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-1",
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-0",
+        "9ea0d902-1db6-4940-ac12-2eaa766e9999"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "52aa7196-842f-4a44-bf1e-34c26af4df14": {
+      "type": "rich-text",
+      "blocks": {
+        "e462aec1-f45e-4a9d-978f-4fe20ac2a4c9": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "885d6ae8-31df-4d51-8ead-b64fa0a1d838": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Diese interessanten Aufgaben warten auf dich:<\/strong><\/h3><p>Du aktualisierst unsere Nachhaltigkeitsstrategie und führst dabei Stakeholder-<br\/>Umfragen sowie eine Wesentlichkeitsanalyse durch.<br\/><\/p><p>Bei der Erstellung unseres neuen DNK-Berichts arbeitest du aktiv mit.<\/p><p>Du prüfst die Umsetzung der Vorgaben des Nachhaltigkeitsstandards We Care.<\/p><p>Bei deinen Tätigkeiten arbeitest du eng und in direkter Abstimmung mit<br\/>unserem Leiter Qualität zusammen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "e462aec1-f45e-4a9d-978f-4fe20ac2a4c9",
+        "885d6ae8-31df-4d51-8ead-b64fa0a1d838"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "71fb1a2f-f9cb-45e4-a85b-40294a4ae1e6": {
+      "type": "rich-text",
+      "blocks": {
+        "00a4b626-4f12-42d5-beef-42d2f736c277": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "2c1cb6b7-763f-4c16-9c46-a3020421fc3b": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Damit überzeugst du uns:<\/strong><\/h3><p>Du befindest dich im Studium oder in einer Weiterbildung im Bereich Nachhaltigkeit.<\/p><p>Das Thema Nachhaltigkeit interessiert dich sehr.<\/p><p>Eine sehr gute Selbstorganisation sowie Durchsetzungsfähigkeit zeichnen dich aus.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "00a4b626-4f12-42d5-beef-42d2f736c277",
+        "2c1cb6b7-763f-4c16-9c46-a3020421fc3b"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "5253afb2-f28d-44ae-a0a9-40846b86266d": {
+      "type": "rich-text",
+      "blocks": {
+        "21d6bb57-feb7-4251-8c2b-80df55f90ffd": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "76dd1ee3-81ef-4753-958a-d06f81d32071": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Darauf kannst du dich freuen:<\/strong><\/h3><p>flexible Arbeitszeiten in einem wachsenden Bio-Lebensmittelbetrieb<\/p><p>interessante und abwechslungsreiche Tätigkeiten<\/p><p>familiäre Arbeitsatmosphäre in einem sympathischen und fröhlichen Team<\/p><p>Wir unterstützen deine Gesundheit mit einem regelmäßigen Massageangebot. Außerdem übernehmen wir bei Bedarf die Basisbehandlung bei unserem Partner-Arzt für Naturheilkunde.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "21d6bb57-feb7-4251-8c2b-80df55f90ffd",
+        "76dd1ee3-81ef-4753-958a-d06f81d32071"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
+    "785dbcb1-4b0b-4acb-ab2f-d347493d9bd2": {
+      "type": "rich-text",
+      "blocks": {
+        "383584b9-f8cc-4fcb-ae08-00cf341ec59b": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "213a5921-0b06-4a5b-a843-de9f90fa2dd2": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Was es sonst noch für dich gibt: <\/strong><\/h3><p>Zuschuss zum Mittagessen bei zwei benachbarten Bistros<\/p><p>40% MitarbeiterInnen-Rabatt in unserem Werksverkauf<\/p><p>Bio-Obstkorb<\/p><p>kostenlose Heißgetränke<\/p><p>leckeres Krunchy zur Stärkung zwischendurch<\/p><p>Wir können auch feiern - freu dich auf tolle Firmenfeste!<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "383584b9-f8cc-4fcb-ae08-00cf341ec59b",
+        "213a5921-0b06-4a5b-a843-de9f90fa2dd2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    },
+    "7da641f1-4166-4c27-ad42-f8ad90da55f0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855635714384__7da641f1-4166-4c27-ad42-f8ad90da55f0-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Bist du Krunchy?<\/h3><p>Dann freuen wir uns auf deine aussagefähige, schriftliche Bewerbung, vorzugs­weise per E-Mail an Christian Hoferer:<br\/><a href=\"mailto:christian.hoferer@barnhouse.de\" title=\"mailto:christian.hoferer@barnhouse.de\">christian.hoferer@barnhouse.de<\/a><\/p><p>Barnhouse Naturprodukte GmbH<br\/>Tel. 0 86 31 36 22-71 | Edisonstraße 3a | 84453 Mühldorf am Inn<br\/>www.barnhouse.de<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__7da641f1-4166-4c27-ad42-f8ad90da55f0-1682587994a45636d5-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "fdb43e03-bc03-4be9-9da2-44c17527d915",
+    "a8c16a5c-8621-455b-8f72-da1f0f539a03",
+    "758390ca-c524-4601-bfcd-480713db9cba",
+    "52aa7196-842f-4a44-bf1e-34c26af4df14",
+    "71fb1a2f-f9cb-45e4-a85b-40294a4ae1e6",
+    "5253afb2-f28d-44ae-a0a9-40846b86266d",
+    "785dbcb1-4b0b-4acb-ab2f-d347493d9bd2",
+    "7da641f1-4166-4c27-ad42-f8ad90da55f0"
+  ]
+}

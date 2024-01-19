@@ -1,0 +1,229 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "cc2ee901-3a8e-44bb-bd60-85430be8f459": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18983226769744__cc2ee901-3a8e-44bb-bd60-85430be8f459-16849289784012b016-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adrian-Hocke-Daumen_f73c438c-992b-4be7-a4fa-3eb4155f5aab.jpg",
+            "title": "Tolle KollegInnen",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18983226769744__cc2ee901-3a8e-44bb-bd60-85430be8f459-16849289784012b016-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Krunchy_Schoko.jpg",
+            "title": "Tolle Marke - leckeres Krunchy",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        },
+        "template--18983226769744__cc2ee901-3a8e-44bb-bd60-85430be8f459-16849289784012b016-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Paket-auf-Daumen.jpg",
+            "title": "Freude am Job",
+            "title_size": "h3",
+            "text": "",
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18983226769744__cc2ee901-3a8e-44bb-bd60-85430be8f459-16849289784012b016-0",
+        "template--18983226769744__cc2ee901-3a8e-44bb-bd60-85430be8f459-16849289784012b016-1",
+        "template--18983226769744__cc2ee901-3a8e-44bb-bd60-85430be8f459-16849289784012b016-2"
+      ],
+      "settings": {
+        "image_ratio": "landscape",
+        "image_position": "center center",
+        "text_alignment": "center",
+        "show_divider": false,
+        "heading": "Kaufmännischer Angestellter für unseren Empfang (m\/w\/d) - Teilzeit",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "mobile_text_alignment": "center",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "a8c16a5c-8621-455b-8f72-da1f0f539a03": {
+      "type": "gallery",
+      "blocks": {
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Adrian-Hocke-Daumen_f73c438c-992b-4be7-a4fa-3eb4155f5aab.jpg",
+            "image_position": "top center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Tolle KollegInnen",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Krunchy_Schoko.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Tolle Marke - leckeres Krunchy",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Paket-auf-Daumen.jpg",
+            "image_position": "top center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "Freude am Job",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-0",
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-1",
+        "template--18855635714384__a8c16a5c-8621-455b-8f72-da1f0f539a03-16825881874aaa5f04-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "per_row": 3,
+        "spacing_images": 12,
+        "image_height": 320,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "Kaufmännischer Angestellter für unseren Empfang (m\/w\/d)",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 80,
+        "padding_bottom": 36
+      }
+    },
+    "758390ca-c524-4601-bfcd-480713db9cba": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Wir suchen dich als <strong>kaufmännischen Angestellten für unseren Empfang<\/strong> (m\/w\/d) in Mühldorf. Barnhouse Naturprodukte ist Deutschlands führender Hersteller von Knuspermüsli in Bioqualität. 1979 gegründet, sind wir ein echter Biopionier. Im idyllischen Mühldorf am Inn stellen wir an unserem modernen Produktionsstandort im 3-Schicht-Betrieb Frühstückscerealien her. Wir wollen unseren KundInnen immer das beste Knuspermüsli bieten. Deshalb backen wir alle Barnhouse Krunchys mit Liebe und Leidenschaft aus sorgfältig ausgewählten, natürlichen Rohstoffen.<\/p><p>Bist auch Du Krunchy? Dann komm zu uns ins Team als<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Mitarbeiter m\/w\/d für unsere Versandabteilung ca. 20 Std.\/Woche in flexibler Teilzeit",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "9ea0d902-1db6-4940-ac12-2eaa766e9999": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Kaufmännischer Angestellter für unseren Empfang (m\/w\/d) in Teilzeit<\/h2><h3><strong>Diese interessanten Aufgaben warten auf dich:<\/strong><\/h3><p>Am Empfang bist du für einen guten Eindruck verantwortlich. Herzlich und freundlich heißt du alle Besucher willkommen.<\/p><p>Souverän nimmst du Anrufe über unsere Telefonzentrale entgegen und sorgst für die korrekte und schnelle Weiterleitung.<\/p><p>Du bist dafür zuständig, dass uns das Büromaterial nicht ausgeht. Deshalb verwaltest du den Bestand, versorgst die Kollegen und bestellst bei Bedarf nach.<\/p><p>Weiterhin unterstützt du unseren Geschäftsführer bei organisatorischen Dingen und der Terminplanung.<\/p><p>Fremdmonteure werden von dir zuverlässig betreut und beaufsichtigt.<\/p><p><\/p><h3><\/h3><h3><strong>Damit überzeugst du uns:<\/strong><\/h3><p>Eine kaufmännische Ausbildung bringst du mit.<\/p><p>MS-Office ist für dich ein selbstverständliches Werkzeug bei deiner täglichen Arbeit, mit dem du kompetent und erfahren umgehst.<\/p><p>Deine Freundlichkeit und sympathische Art begeistert nicht nur unsere BesucherInnen, sondern auch die KollegInnen.<\/p><p>Die Arbeit im Team macht dir viel Spaß, deine Aufgaben erledigst du motiviert, zuverlässig und mit Begeisterung.<\/p><p>Du hast gute Englisch-Kenntnisse.<\/p><h3><\/h3><h3><strong>Darauf kannst du dich freuen:<\/strong><\/h3><p>sicherer Arbeitsplatz mit geregelten Arbeitszeiten in einem wachsenden Bio-Lebensmittelbetrieb<\/p><p>interessante und abwechslungsreiche Tätigkeiten<\/p><p>familiäre Arbeitsatmosphäre in einem sympathischen und fröhlichen Team<\/p><p>Neben Urlaubs- und Weihnachtsgeld bekommst du von uns eine jährliche<br\/>Erholungspauschale sowie einen entfernungsabhängigen <br\/>Fahrkostenzuschuss.<\/p><p>Wir unterstützen deine Gesundheit mit einem regelmäßigen Massageangebot. Außerdem übernehmen wir bei Bedarf die Basisbehandlung bei unserem Partner-Arzt für Naturheilkunde.<\/p><h3><strong>Was es sonst noch für dich gibt: <\/strong><\/h3><p>Zuschuss zum Mittagessen bei zwei benachbarten Bistros<\/p><p>40% MitarbeiterInnen-Rabatt in unserem Werksverkauf<\/p><p>Bio-Obstkorb<\/p><p>kostenlose Heißgetränke<\/p><p>leckeres Krunchy zur Stärkung zwischendurch<\/p><p>Wir können auch feiern - freu dich auf tolle Firmenfeste!<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-1",
+        "template--18855635714384__758390ca-c524-4601-bfcd-480713db9cba-1682587994a45636d5-0",
+        "9ea0d902-1db6-4940-ac12-2eaa766e9999"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "7da641f1-4166-4c27-ad42-f8ad90da55f0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18855635714384__7da641f1-4166-4c27-ad42-f8ad90da55f0-1682587994a45636d5-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h3>Bist du Krunchy?<\/h3><p>Dann freuen wir uns auf deine aussagefähige, schriftliche Bewerbung, vorzugs­weise per E-Mail an Heidi Hentschel:<br\/><a href=\"javascript:;\">personal@barnhouse.de<\/a><\/p><p>Barnhouse Naturprodukte GmbH<br\/>Tel. 0 86 31 36 22-37 | Edisonstraße 3a | 84453 Mühldorf am Inn<br\/>www.barnhouse.de<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18855635714384__7da641f1-4166-4c27-ad42-f8ad90da55f0-1682587994a45636d5-1"
+      ],
+      "settings": {
+        "text_alignment": "left",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "cc2ee901-3a8e-44bb-bd60-85430be8f459",
+    "a8c16a5c-8621-455b-8f72-da1f0f539a03",
+    "758390ca-c524-4601-bfcd-480713db9cba",
+    "7da641f1-4166-4c27-ad42-f8ad90da55f0"
+  ]
+}

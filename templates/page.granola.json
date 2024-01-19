@@ -1,0 +1,574 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "266e7eae-9d1d-4fdb-9147-babf113d08ac": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18869337555280__266e7eae-9d1d-4fdb-9147-babf113d08ac-1682863701866feec0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Granola und Knuspermüsli - das Beste aus zwei Welten",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__266e7eae-9d1d-4fdb-9147-babf113d08ac-1682863701866feec0-0"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/granola_und_knuspermuesli.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "450px",
+        "show_text_box": false,
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "adapt",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "150de4be-2b31-4d11-9335-d78052a2fbb1": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869337555280__150de4be-2b31-4d11-9335-d78052a2fbb1-1682863786e4aa3106-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Gibt es einen Unterschied?",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__150de4be-2b31-4d11-9335-d78052a2fbb1-1682863786e4aa3106-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Granola, Knuspermüsli und Crunchy sind Begriffe, die jedem schon einmal begegnet sind. Doch bedeuten sie alle das Gleiche oder gibt es einen Unterschied zwischen Granola und Knuspermüsli? Und was ist Crunchy?<\/p><p><strong>Alles beschreibt gebackenes Müsli.<\/strong> Der Unterschied dabei ist jedoch folgender: Granola ist viel flockiger als ein Knuspermüsli. Und unter Knuspermüsli kann man sich zusammengebackene Nuggets aus Getreideflocken und weiteren Zutaten vorstellen. Wir bei Barnhouse nennen diese Cluster.<\/p><p><strong>Crunchy (Originalübersetzung = knusprig) ist einfach der englischsprachige Begriff für Knuspermüsli.<\/strong><\/p><p>Um dir das besser veranschaulichen zu können, findest du hier ein Bild, das den Unterschied zwischen Knuspermüsli (links) und Granola gut wiedergibt:<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__150de4be-2b31-4d11-9335-d78052a2fbb1-1682863786e4aa3106-0",
+        "template--18869337555280__150de4be-2b31-4d11-9335-d78052a2fbb1-1682863786e4aa3106-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dfe16b70-439e-4124-aef5-22915f111da5": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Granola-Krunchy-Vergleich.jpg",
+        "image_position": "center center",
+        "text_box_position": "middle-center",
+        "text_alignment": "center",
+        "image_ratio": "650px",
+        "show_text_box": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_text_alignment": "center",
+        "mobile_image_ratio": "auto",
+        "stack_images_on_mobile": true,
+        "show_text_below": true,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 28,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ce084c78-cb49-4764-88ec-bd2dceba2411": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869337555280__ce084c78-cb49-4764-88ec-bd2dceba2411-1682863786e4aa3106-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Was ist Granola überhaupt?<\/h1><p>Granola und Knuspermüsli sind <strong>Frühstücksmahlzeiten<\/strong>, die auch gerne als <strong>Snack<\/strong> gegessen werden. Die Basis bilden bei beiden Getreideflocken wie zum Beispiel Hafer oder Dinkel, Öl und Zucker in Form von z.B. Sirup oder Honig. Der Großteil der Barnhouse Krunchys wird übrigens mit Haferflocken gebacken. Eine Ausnahme bildet zum Beispiel das <a href=\"\/products\/krunchy-dinkel\" target=\"_blank\" title=\"Krunchy Dinkel\">Krunchy Dinkel<\/a>, welches - wie der Name schon verrät - aus Dinkel hergestellt wird.<\/p><p>Während manche Granola- und Knuspermüsli-Hersteller beim Öl auf Palmfett zurückgreifen, werden <strong>alle Barnhouse Krunchys ausschließlich mit Sonnenblumenöl<\/strong> gebacken.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "91c1d02d-8732-4569-aeda-46769dc0eb4c": {
+          "type": "text",
+          "settings": {
+            "text": "<h1>Was bedeutet “Granola” eigentlich?<\/h1><h3>Müsli und Granola, wie unterscheiden sie sich?<\/h3><p>Umgangssprachlich ist Müsli für viele der <strong>Überbegriff<\/strong> für Granola, Knuspermüsli und Co. Die Zutaten sind bei Müsli, Granola und Knuspermüsli zwar dieselben, der Unterschied liegt jedoch in der <strong>Herstellung<\/strong>. Während beim Müsli Getreideflocken mit Nüssen, Früchten und Saaten gemischt werden und sofort verzehrfertig sind, werden die Zutaten beim Granola und Knuspermüsli erst gebacken.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__ce084c78-cb49-4764-88ec-bd2dceba2411-1682863786e4aa3106-1",
+        "91c1d02d-8732-4569-aeda-46769dc0eb4c"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 12,
+        "padding_bottom": 36
+      }
+    },
+    "e82e0048-d5df-425a-812c-a5a0d946593b": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18869337555280__e82e0048-d5df-425a-812c-a5a0d946593b-168286389504683b83-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aus welchen Zutaten besteht Granola?",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__e82e0048-d5df-425a-812c-a5a0d946593b-168286389504683b83-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Basis von Granola und Knuspermüsli sind Getreideflocken, Öl und Zucker in Form von <strong>Honig oder Sirup<\/strong>. Je nach Sorte können hier entweder vor oder nach dem Backen noch verschiedene Nüsse, Saaten, Früchte und Schokolade hinzugefügt werden.<\/p><p>Wie du bereits weißt, werden unsere Krunchys entweder mit <strong>Hafer<\/strong>- oder <strong>Dinkelflocken <\/strong>der <strong>regionalen Barnhouse Bäuerinnen und Bauern <\/strong>sowie Sonnenblumenöl gebacken. Zum Süßen verwenden wir je nach Sorte Rübenzucker oder sogenannte alternative Süßungsmittel, wie z.B. Honig (z.B. im <a href=\"\/products\/krunchy-honig\" target=\"_blank\" title=\"Krunchy Honig\">Krunchy Honig<\/a>), Reissirup (z.B. im <a href=\"\/products\/krunchy-waldbeere-alternativ-gesuesst\" target=\"_blank\" title=\"Krunchy Waldbeere alternativ gesüßt\">Krunchy Waldbeere<\/a>) oder Agavendicksaft (z.B. im <a href=\"\/products\/krunchy-amaranth-hafer-himbeere\" target=\"_blank\" title=\"Krunchy Hafer-Himbeere mit Amaranth\">Krunchy Hafer-Himbeere<\/a>).<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__e82e0048-d5df-425a-812c-a5a0d946593b-168286389504683b83-0",
+        "template--18869337555280__e82e0048-d5df-425a-812c-a5a0d946593b-168286389504683b83-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/granola_mit_honig.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f6f28fbb-cf8a-4bc6-b69d-18bff8aa321f": {
+      "type": "rich-text",
+      "blocks": {
+        "748f4cff-eb07-467f-911f-97c61a171578": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wie gesund ist Granola?",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__f6f28fbb-cf8a-4bc6-b69d-18bff8aa321f-1682863786e4aa3106-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>“Granola ist ungesund”. Diese Aussage ist nicht ganz richtig. <strong>Die Frühstücksmahlzeit liefert viele Ballaststoffe und wichtige Vitamine sowie Mineralstoffe.<\/strong> <a href=\"\/pages\/hafer\" target=\"_blank\" title=\"Hafer\">Haferflocken sind ein wahres Superfood<\/a>. Die komplexen Kohlenhydrate machen dich nicht nur länger satt, sondern kurbeln auch deine Verdauung an und beugen Heißhungerattacken vor.<\/p><p>Zudem enthält das Getreide die wichtigen <strong>Vitamine B1, B6 und E sowie die Mineralstoffe Eisen, Magnesium, Calcium und Phosphor.<\/strong><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "e556138f-0861-40db-b212-df02eb75fc4a": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Granola ohne Zucker<\/h2><p>Granola <strong>ohne zugesetzten Zucker<\/strong> ist möglich. Da wir hier von einem sehr flockigen Frühstücksprodukt sprechen, kann man bei Granola auf Zucker verzichten.<\/p><p>Bei Knuspermüsli sieht das anders aus. Ohne den Sirup hält die Masse aus Getreideflocken, Öl und möglichen weiteren Zutaten nicht zusammen und <strong>fällt beim Backen auseinander<\/strong>. Möchte man die typischen, schönen und knusprigen Cluster erhalten, muss man daher auf <strong>Sirup<\/strong> zurückgreifen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "748f4cff-eb07-467f-911f-97c61a171578",
+        "template--18869337555280__f6f28fbb-cf8a-4bc6-b69d-18bff8aa321f-1682863786e4aa3106-1",
+        "e556138f-0861-40db-b212-df02eb75fc4a"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "c92490bf-a4b5-440e-95c2-b632c6bcf14d": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869337555280__c92490bf-a4b5-440e-95c2-b632c6bcf14d-1682863786e4aa3106-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Knuspermüsli mit wenig Zucker<\/h2><p>Immer mehr Menschen legen großen Wert auf eine <strong>gesunde Ernährung<\/strong> - und zwar am liebsten <strong>schnell zubereitet<\/strong>. Doch damit Knuspermüsli beim Backen nicht auseinander fällt, muss auf Sirup zurückgegriffen werden, welcher meist eine große Menge Zucker enthält...Um den Zuckergehalt dennoch so gering wie möglich zu halten, sind wir immer auf der Suche nach <strong>Alternativen<\/strong> und haben diese bislang unter anderem im <strong>Tapioka-<\/strong> und <strong>Reissirup<\/strong> gefunden.<\/p><p>Und bei uns gibt es tatsächlich ein <strong>Bio-Knuspermüsli mit wenig Zucker<\/strong>. Denn für unser <a href=\"\/products\/krunchy-low-sugar-crazy-nuts\" target=\"_blank\" title=\"Krunchy Low Sugar Crazy Nuts\"><strong>Krunchy Low Sugar<\/strong><\/a> verwenden wir mit <strong>Tapiokasirup<\/strong> eine <strong>ballaststoffreiche Zucker-Alternative<\/strong>. Das Ergebnis ist ein wunderbares, knuspriges Bio-Knuspermüsli, das ebenso zuckerarm wie köstlich ist - in den Geschmacksrichtungen <a href=\"\/products\/krunchy-low-sugar-very-berry\" target=\"_blank\" title=\"Krunchy Low Sugar Very Berry\"><strong>Very Berry<\/strong><\/a> (Beere), <a href=\"\/products\/krunchy-low-sugar-crazy-nuts\" target=\"_blank\" title=\"Krunchy Low Sugar Crazy Nuts\"><strong>Crazy Nuts<\/strong><\/a> (Nuss) und <a href=\"\/products\/krunchy-low-sugar-plain-grain\" target=\"_blank\" title=\"Krunchy Low Sugar Plain Grain\"><strong>Plain Grain<\/strong><\/a> (Basis). So meidest du Zucker ohne auf Geschmack verzichten zu müssen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "e4707bbc-1013-4bdd-b351-eeac4a54a485": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>Veganes Granola<\/h2><p>Immer mehr Menschen wollen auch zum Frühstück <strong>veganes Granola<\/strong> oder Knuspermüsli genießen. Mit Barnhouse Krunchy ist das auch prima möglich.<\/p><p><strong>Bis auf zwei Sorten (<\/strong><a href=\"\/products\/krunchy-schoko\" target=\"_blank\" title=\"Krunchy Schoko\"><strong>Krunchy Schoko<\/strong><\/a><strong> und <\/strong><a href=\"\/products\/krunchy-honig\" target=\"_blank\" title=\"Krunchy Honig\"><strong>Krunchy Honig<\/strong><\/a><strong>) sind alle <\/strong><a href=\"\/collections\/all\" title=\"Alle Produkte\"><strong>Krunchys vegan<\/strong><\/a><strong>.<\/strong><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__c92490bf-a4b5-440e-95c2-b632c6bcf14d-1682863786e4aa3106-1",
+        "e4707bbc-1013-4bdd-b351-eeac4a54a485"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "fe94a845-5d50-4c9b-960a-e764f8b7adfb": {
+      "type": "image-with-text",
+      "blocks": {
+        "d4e03193-3575-4775-b72f-ad1f1d4e4d64": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hafer jetzt auch als Snack!",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "77e90dc3-9d02-4c27-a972-74c97534340c": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Den Hafer unserer regionalen Bäuerinnen und Bauern gibt es jetzt auch als würzig-pikanten Snack für dich!<\/p><h3>Der knusprige Bio Hafer-Snack!<\/h3><p>Krunchy Snack it! lässt das Herz aller Snack LiebhaberInnen höher schlagen - knusprig gebacken und köstlich. Egal, ob nach dem Sport, während der Zugfahrt oder abends auf der Couch: <a href=\"\/products\/vorteilspaket-snack-it\" target=\"_blank\" title=\"Vorteilspaket Snack it!\">Krunchy Snack it!<\/a> sorgt jederzeit und überall für großen Genuss - und der kleine Hunger ist gegessen.<\/p><p>Freu dich auf drei verschiedene, sehr spannende Geschmacksrichtungen:<\/p><ul><li><a href=\"\/products\/krunchy-snack-it-bruschetta\" target=\"_blank\" title=\"Krunchy Snack it! Bruschetta Style\"><strong>Bruschetta Style<\/strong><\/a> mit <strong>Tomate <\/strong>und <strong>Olive<\/strong><\/li><li><a href=\"\/products\/krunchy-snack-it-oriental-style\" target=\"_blank\" title=\"Krunchy Snack it! Oriental Style\"><strong>Oriental Style<\/strong><\/a> mit <strong>orientalischen Gewürzen<\/strong><\/li><li><a href=\"\/products\/krunchy-snack-it-sour-cream-onion-style\" target=\"_blank\" title=\"Krunchy Snack it! Sour Cream & Onion Style\"><strong>Sour Cream & Onion Style<\/strong><\/a><strong> <\/strong>mit<strong> Sour Cream- <\/strong>und <strong>Zwiebel-Geschmack<\/strong><\/li><\/ul><p>Verabschiede dich von ungesunden Chips und entdecke <a href=\"\/products\/vorteilspaket-snack-it\" target=\"_blank\" title=\"Vorteilspaket Snack it!\"><strong>Krunchy Snack it!<\/strong><\/a><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "d4e03193-3575-4775-b72f-ad1f1d4e4d64",
+        "77e90dc3-9d02-4c27-a972-74c97534340c"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Moodbild-Vorteilspaket-Snack-it.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "text_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "adapt",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "2023db83-4c07-46eb-9b36-883f5e81aebb": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18869337555280__2023db83-4c07-46eb-9b36-883f5e81aebb-168286389504683b83-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Süße Knuspermüslis für zwischendurch",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__2023db83-4c07-46eb-9b36-883f5e81aebb-168286389504683b83-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Granola und Knuspermüsli gelten als Frühstücksmahlzeit, doch süße Knuspermüslis für Zwischendurch sind auch sehr gefragt - egal, ob als zweites Frühstück oder als kleiner Snack, um aus dem Nachmittagstief zu kommen.<\/p><h3>Granola mit Karamell und Popcorn<\/h3><p>Das ist ganz großes Geschmacks-Kino! Bei uns gibt es mit <a href=\"\/products\/krunchy-salted-caramel-chunks\" target=\"_blank\" title=\"Krunchy Salted Caramel Chunks\">Krunchy Salted Caramel Chunks<\/a> ab sofort ein Bio-Knuspermüsli mit <strong>gesalzenen Karamell-Stückchen<\/strong>, <strong>fluffigem Popcorn <\/strong>und <strong>goldgelben Cornflakes<\/strong>. Freu dich auf eine süße Köstlichkeit, die sowohl mit Milch als auch direkt aus der Tüte für ein unbeschreibliches Geschmackserlebnis sorgt egal, ob für einen perfekten Start in den Tag, gegen die Nachmittags-Müdigkeit oder abends als Snack auf der Couch.<\/p><p>Der Clou dabei: Die Karamell-Stückchen verschmelzen beim Backen mit dem Krunchy und sorgen gemeinsam mit Popcorn für ganz großes Geschmacks-Kino. Und die Mini-Cornflakes runden das Krunchy perfekt ab.<\/p><h3>Schoko Granola und Schokoflocken<\/h3><p>Es gibt verschiedene Arten von Schoko Granola. Um knusprige Schokoflocken zu erhalten, mischt man die Schokolade schon vor dem Backen unter die <strong>Haferflockenmasse<\/strong>. So verteilt sie sich optimal und man hat ein herrlich schokoladiges Knuspermüsli.<\/p><p>Eine weitere Variante ist Schoko Granola mit <strong>Schokostückchen<\/strong>. Hier wird die Schokolade dem Granola oder Knuspermüsli erst nach dem Backen beigemischt.<\/p><p>Bei <a href=\"\/products\/krunchy-chocolate-chunks\" target=\"_blank\" title=\"Krunchy Chocolate Chunks\"><strong>Krunchy Chocolate Chunks<\/strong><\/a> verwenden wir backfeste <strong>Schokodrops<\/strong>, sodass du mit jedem Bissen auf herrlich knackige Schokostücke triffst.<\/p><p>Mit <a href=\"\/products\/krunchy-schoko-nuss\" title=\"Krunchy Schoko-Nuss\">Krunchy Schoko-Nuss<\/a>, <a href=\"\/products\/krunchy-chocolate-chunks\" target=\"_blank\" title=\"Krunchy Chocolate Chunks\">Chocolate Chunks<\/a> und <a href=\"\/products\/krunchy-joy-cocoa\" target=\"_blank\" title=\"Krunchy Joy Cocoa\">Joy Cocoa<\/a> haben wir sogar drei vegane schokoladige Krunchys.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__2023db83-4c07-46eb-9b36-883f5e81aebb-168286389504683b83-0",
+        "template--18869337555280__2023db83-4c07-46eb-9b36-883f5e81aebb-168286389504683b83-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/MoodbildHonig-1_cc3ce7c0-3b77-4579-ae3e-30120acb5a2c.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "750px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b1717a83-3d26-4cbf-975f-a92f94ba7d61": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18869337555280__b1717a83-3d26-4cbf-975f-a92f94ba7d61-168286389504683b83-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Granola als Kindermüsli",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__b1717a83-3d26-4cbf-975f-a92f94ba7d61-168286389504683b83-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Auch Kinder lieben Granola und Knuspermüsli zum Frühstück. Für viele Eltern ist das jedoch oft zu süß. <strong>Unser Tipp:<\/strong> Granola und Knuspermüsli einfach als Topping verwenden oder unter Haferflocken und ungesüßte Cornflakes mischen.<\/p><h3>Schnelles Frühstück für Kinder<\/h3><p>Ein schnelles Frühstück für Kinder ist mit unseren <a href=\"\/products\/knuspy-kids\" target=\"_blank\" title=\"Knuspy Kids\">Knuspy Kids<\/a> zum Beispiel ganz einfach. Der Kakao-Knusperreis ist nicht all zu süß, verleiht jedem Flockenmüsli eine herrliche Schoko-Note und macht das Müsli für die Kids attraktiver.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__b1717a83-3d26-4cbf-975f-a92f94ba7d61-168286389504683b83-0",
+        "template--18869337555280__b1717a83-3d26-4cbf-975f-a92f94ba7d61-168286389504683b83-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/bowls_bh_knuspy_kids_v1_quer_10x15_d5774f04-03be-4c25-8449-2656906252da.jpg",
+        "image_position": "center center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "650px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "d60a0e87-b5b3-4e97-a79d-c52bdf517cce": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869337555280__d60a0e87-b5b3-4e97-a79d-c52bdf517cce-1682863786e4aa3106-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ausgefallene Knuspermüslis",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__d60a0e87-b5b3-4e97-a79d-c52bdf517cce-1682863786e4aa3106-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Ein einfaches Hafer-Granola und Knuspermüsli ist dir auf Dauer zu langweilig? Neben der Möglichkeit, dir deine Lieblingszutaten einfach selbst dazu zu mischen, kannst du auch auf ausgefallene Knuspermüslis zurückgreifen:<\/p><p><a href=\"\/products\/krunchy-linse-mit-apfel\" target=\"_blank\" title=\"Krunchy Linse mit Apfel\"><strong>KRUNCHY LINSE MIT APFEL:<\/strong><\/a><strong><br\/>Ausgefallen<\/strong>, <strong>spannend<\/strong> und etwas <strong>ganz Neues<\/strong>! Das beschreibt <strong>Krunchy Linse mit Apfel<\/strong> sehr gut - das erste Krunchy <strong>ohne Getreide<\/strong> als Zutat. Doch wie funktioniert das? Ganz einfach: Es muss nicht immer Hafer sein. Bei uns kommt jetzt die Linse ins Knuspermüsli.<\/p><p>Du wirst staunen, wie toll sich die Linse im Krunchy macht. So <strong>köstlich<\/strong> und <strong>knusprig<\/strong>, dass du den Hafer nicht vermissen wird. Und die <strong>knackigen Apfel-Chips<\/strong> runden mit ihrer fein-fruchtigen Säure das Linsen-Krunchy geschmacklich perfekt ab. Ganz anders und doch ein richtiges Krunchy! Lass dich von der Linse überraschen.<\/p><p>Krunchy Linse mit Apfel überzeugt durch eine <strong>attraktive Zutatenliste<\/strong> und versorgt dich mit <strong>wertvollen, pflanzlichen Proteinen<\/strong> sowie <strong>Magnesium<\/strong> und <strong>Zink<\/strong>. Außerdem ist es reich an <strong>Ballaststoffen<\/strong>, <strong>Eisen<\/strong> und <strong>Mangan<\/strong>. Und auch der <strong>reduzierte Zuckergehalt¹ <\/strong>(30% weniger Zucker als andere Knuspermüslis) spricht für unser <strong>veganes<\/strong> Knuspermüsli.<\/p><p><strong><br\/><\/strong><a href=\"\/products\/vorteilspaket-plus\" target=\"_blank\" title=\"Vorteilspaket Plus\"><strong>KRUNCHY PLUS<\/strong><\/a><strong>:<\/strong><br\/>Unsere funktionelle <strong>Krunchy Plus-Serie <\/strong>schmeckt nicht nur gut, sondern liefert dir auch besondere Zutaten und Inhaltsstoffe, die deine<strong> Gesundheit <\/strong>und dein <strong>Wohlbefinden <\/strong>unterstützen. So genießt du köstlichen Knuspergenuss, während sich dein Körper dank verschiedener Vitamine über ein \"Plus\" freuen darf - zum Beispiel für deine Darmgesundheit.<\/p><p>Entdecke drei sehr besondere Geschmacksrichtungen:<\/p><ul><li>Knusper dich <strong>wach<\/strong> mit <a href=\"\/products\/krunchy-plus-energy\" target=\"_blank\" title=\"Krunchy Plus Energy\">Krunchy Plus <strong>Energy<\/strong><\/a> - in der Geschmacksrichtung Schoko Banane.<\/li><li><strong>Geballte Knusper-Power<\/strong> mit <a href=\"\/products\/krunchy-plus-protein\" target=\"_blank\" title=\"Krunchy Plus Protein\">Krunchy Plus <strong>Protein<\/strong><\/a><strong>.<\/strong> Erdbeere und Vanille verzaubern dir deine Sinne.<\/li><li>Knusper dich <strong>fit<\/strong> mit <a href=\"\/products\/krunchy-plus-immune\" target=\"_blank\" title=\"Krunchy Plus Immune\">Krunchy Plus <strong>Immune<\/strong><\/a>. Acerola und Johannisbeere sorgen für ein beeriges Geschmackserlebnis.<\/li><\/ul><p><strong>Krunchy Plus: Das Krunchy, das mehr kann. Für alle, die mehr wollen.<\/strong><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__d60a0e87-b5b3-4e97-a79d-c52bdf517cce-1682863786e4aa3106-0",
+        "template--18869337555280__d60a0e87-b5b3-4e97-a79d-c52bdf517cce-1682863786e4aa3106-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e78ead51-5d7c-48b4-aefc-e729731e3550": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18869337555280__e78ead51-5d7c-48b4-aefc-e729731e3550-168312191361c5269a-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Granola kaufen",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__e78ead51-5d7c-48b4-aefc-e729731e3550-168312191361c5269a-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Granola und Knuspermüslis gibt es in jedem Supermarkt und Onlineshop. Wenn dir Bioprodukte wichtig sind, kannst du dich in deinem Bioladen mit Krunchy eindecken. Oder du besuchst <a href=\"\/collections\/all\" target=\"_blank\" title=\"Alle Produkte\"><strong>unseren Onlineshop <\/strong><\/a>mit attraktiven Mengenrabatten.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__e78ead51-5d7c-48b4-aefc-e729731e3550-168312191361c5269a-0",
+        "template--18869337555280__e78ead51-5d7c-48b4-aefc-e729731e3550-168312191361c5269a-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "93081ca8-a744-4463-8dfa-28ded5afc701": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18869337555280__93081ca8-a744-4463-8dfa-28ded5afc701-168286389504683b83-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Granola selber machen",
+            "heading_size": "h2",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18869337555280__93081ca8-a744-4463-8dfa-28ded5afc701-168286389504683b83-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Granola selber machen ist ganz einfach<\/strong>. Im Grunde benötigst du dafür lediglich Hafer- oder Dinkelflocken, Öl (wir verwenden zum Beispiel Sonnenblumenöl) und Honig oder einen Sirup. Das ist die Basis. Und nun heißt es kreativ sein. Misch so viele Zutaten unter dein Crunchy, wie du möchtest. Alles vermischen, auf ein Backblech verteilen und ab in den Ofen. Knuspermüsli knusprig backen, auskühlen lassen und dann in kleine Stücke brechen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18869337555280__93081ca8-a744-4463-8dfa-28ded5afc701-168286389504683b83-0",
+        "template--18869337555280__93081ca8-a744-4463-8dfa-28ded5afc701-168286389504683b83-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/granola_selber_backen.jpg",
+        "image_position": "20% 50%",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "500px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "266e7eae-9d1d-4fdb-9147-babf113d08ac",
+    "150de4be-2b31-4d11-9335-d78052a2fbb1",
+    "dfe16b70-439e-4124-aef5-22915f111da5",
+    "ce084c78-cb49-4764-88ec-bd2dceba2411",
+    "e82e0048-d5df-425a-812c-a5a0d946593b",
+    "f6f28fbb-cf8a-4bc6-b69d-18bff8aa321f",
+    "c92490bf-a4b5-440e-95c2-b632c6bcf14d",
+    "fe94a845-5d50-4c9b-960a-e764f8b7adfb",
+    "2023db83-4c07-46eb-9b36-883f5e81aebb",
+    "b1717a83-3d26-4cbf-975f-a92f94ba7d61",
+    "d60a0e87-b5b3-4e97-a79d-c52bdf517cce",
+    "e78ead51-5d7c-48b4-aefc-e729731e3550",
+    "93081ca8-a744-4463-8dfa-28ded5afc701"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hundmeyer_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hundmeyer_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hundmeyer_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Rainer Hundmeyer – Buchbach",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Nur Nachhaltigkeit ist zukunftsfähig“<\/h2><p><em>„Seit vielleicht 150 Jahren haben die Menschen begonnen, Wachstum als Voraussetzung für Wohlstand zu sehen. Und seit dieser Zeit basiert aller Wohlstand auf Ausbeutung, angefangen von der Erde selbst mit ihren Bodenschätzen, dem Boden, den Tieren und schließlich den Menschen. Würden wir Nachhaltigkeit wieder über Wachstum stellen, würde die Ausbeutung verschwinden“<\/em>, erklärt Partner-Landwirt Rainer Hundmeyer und stellte seinen eigenen Hof – den Biohof Hundmeyer – 2015 vollständig auf bio um.<\/p><p><em>„Mein Ansporn als Biobauer ist es, durch meine Bewirtschaftung den Boden stetig zu verbessern und daraus Lebensmittel zu produzieren, die dazu angetan sind, die Menschen gesund zu halten oder zu machen“<\/em>, erklärt der <strong>Bioland<\/strong>-Bauer weiter.<\/p><p>Seit dem Beginn seiner Ausbildung zum Landwirt Ende der achtziger Jahre hat Rainer seinen Betrieb immer mehr intensiviert – so wie er es in der Ausbildung gelernt hatte und es konventionell bis heute immer noch gemacht wird.<\/p><p><em>„Irgendwann wurde mir klar, dass alle Beteiligten, insbesondere die Agrarchemie sehr gut an mir verdienen und ich nur ihr Handlanger bin, der auch noch alle Kritik der Gesellschaft für deren gewissenlose Geschäftemacherei einsteckt. Heute fasziniert mich was die Natur alles leisten kann, wenn man sie nur lässt. Ich bin glücklich, wieder von dem zu leben, was die Natur ( der liebe Gott ) uns umsonst schenkt.“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hundmeyer_Startbild.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hundmeyer_5.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Hundmeyer_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "middle-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "70cb4d73-2bed-429c-977c-8b1935d0623e": {
+      "type": "rich-text",
+      "blocks": {
+        "97af2bde-9a71-425a-acd6-38187eabb530": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "4a83edf7-b21e-4db3-b168-dff7e27f234a": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Familiäres Verhältnis zu Barnhouse <\/strong><\/p><p>Mit den Verarbeitern ihrer Bio-Produkte verbindet die Familie mehr als nur ein partnerschaftliches Verhältnis. <em>„Insbesondere Barnhouse setzt alles daran, mit uns Lieferanten ein regelrecht familiäres Klima zu pflegen. Neben einem sehr fairen Preis, den wir für unser Getreide bekommen, sind wir immer wieder als Gäste zu verschiedenen Veranstaltungen eingeladen, mit dem Ziel, unsere Verbindung zu festigen“<\/em>, erzählt Rainer.<\/p><p>Neben dem Ackerbau hat der Hof seinen Schwerpunkt auf dem Milchviehbetrieb. Aus der Milch der Kühe lässt Rainer Käse herstellen, welcher dann gemeinsam mit dem Fleisch und neuerdings auch Wurst seiner Weidentiere über verschiedene Hofläden vermarktet wird.<\/p><p><em>„Während der Haltung auf dem Hof bis schließlich zur Schlachtung ist uns wichtig, das Tier als Wesen mit Gefühlen und Ängsten zu sehen. Deshalb transportiere ich alle Tiere selbst mit dem PKW-Anhänger, den sie auch von den Weidenaustrieben schon kennen, zu zwei Metzgereien, die sorgsam und mitfühlend mit den Tieren vor der Schlachtung umgehen“.<\/em><\/p><p>In einem kleinen Rahmen versuchen sich Rainer und seine Familie – Ehefrau Alexandra, die gemeinsamen Kinder und Rainers Eltern – auch an dem Anbau von Bergfrauenmantel für Salus\/ Herbaria.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "77353433-1276-49f5-adb6-ebe30196bf5f": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "97af2bde-9a71-425a-acd6-38187eabb530",
+        "4a83edf7-b21e-4db3-b168-dff7e27f234a",
+        "77353433-1276-49f5-adb6-ebe30196bf5f"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "70cb4d73-2bed-429c-977c-8b1935d0623e"
+  ]
+}

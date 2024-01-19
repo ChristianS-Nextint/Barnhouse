@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "6d7ad6f2-8095-45a7-b675-5eb5f859973c": {
+      "type": "collage",
+      "blocks": {
+        "e1ab267a-164f-4c29-8f69-99e011244b75": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Martl_1.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "88412ae2-f208-41ef-8c77-4fd0ab5d259a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Martl_3.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "5dc7f5e0-8a0a-423e-8f3b-71a59189c07a": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Martl_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "e1ab267a-164f-4c29-8f69-99e011244b75",
+        "88412ae2-f208-41ef-8c77-4fd0ab5d259a",
+        "5dc7f5e0-8a0a-423e-8f3b-71a59189c07a"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Alexander und Leonhard Martl – Kastl",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "5a137f94-be97-4df6-b8f8-a01dba059c07": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18942317461840__5a137f94-be97-4df6-b8f8-a01dba059c07-1684165007a39c5721-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18942317461840__5a137f94-be97-4df6-b8f8-a01dba059c07-1684165007a39c5721-1": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>„Arbeit, die Freude macht, ist keine Belastung und hält uns nebenbei fit“<\/h2><p>In Kürze wird Alexander Martl den Gröbner Bioland-Hof von seinen <br\/>Eltern übernehmen. Der Geschäftsführer eines Unternehmens, welches <br\/>Planungen und Dienstleistungen im Bereich Umwelt- und Naturschutz <br\/>durchführt, wird diesen dann im Nebenerwerb führen. Bis es so weit ist, <br\/>führt noch Vater Leonhard den Hof.<\/p><p>Bereits seit 1944 ist der Betrieb im Besitz von Familie Martl. <br\/>Während früher noch Milchviehhaltung betrieben wurde, konzentriert sich <br\/>der Familienbetrieb nun auf den Ackerbau. Neben Braugerste für die <br\/>Brauerei Steiner wird auch Hafer, Dinkel und Weizen angebaut. Doch auch <br\/>ein Gerste\/Erbsen-Gemenge für den benachbarten Biobetrieb sowie <br\/>Kartoffeln und Gemüse für die Direktvermarktung findet man auf dem Hof <br\/>der Martls.<\/p><p>Um das Anwesen herum verteilt sich ein Streubostgarten, in dem auch <br\/>die zahlreichen Hühner der Familie herumlaufen können. Die Eier, sowie <br\/>das Obst und Frühkartoffeln kann man an einem Verkaufsstand direkt beim <br\/>Hof kaufen.<\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "template--18942317461840__5a137f94-be97-4df6-b8f8-a01dba059c07-1684165007a39c5721-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18942317461840__5a137f94-be97-4df6-b8f8-a01dba059c07-1684165007a39c5721-0",
+        "template--18942317461840__5a137f94-be97-4df6-b8f8-a01dba059c07-1684165007a39c5721-1",
+        "template--18942317461840__5a137f94-be97-4df6-b8f8-a01dba059c07-1684165007a39c5721-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "e07bb90d-e898-402f-abff-204c11848635": {
+      "type": "gallery",
+      "blocks": {
+        "template--18974714528080__e07bb90d-e898-402f-abff-204c11848635-16849343693c46e213-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Martl_4.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18974714528080__e07bb90d-e898-402f-abff-204c11848635-16849343693c46e213-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Martl_2.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18974714528080__e07bb90d-e898-402f-abff-204c11848635-16849343693c46e213-3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Martl_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18974714528080__e07bb90d-e898-402f-abff-204c11848635-16849343693c46e213-1",
+        "template--18974714528080__e07bb90d-e898-402f-abff-204c11848635-16849343693c46e213-2",
+        "template--18974714528080__e07bb90d-e898-402f-abff-204c11848635-16849343693c46e213-3"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "bda38ce2-ecf0-4cbb-a8a8-cc845170af9b": {
+      "type": "rich-text",
+      "blocks": {
+        "44171a61-94a6-47df-8418-60a8b3041342": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "0513669f-347f-46ef-bff4-b9240b998fed": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Die Umstellung auf bio erfolgte dabei 2014. Seitdem ist Familie Martl Mitglied im <strong>Bioland<\/strong>-Verband.<\/p><p><em>„Wir legen seit jeher größten Wert auf gesunde und natürliche Lebensmittel und betreiben mit großer Begeisterung die biologische Landwirtschaft. Zum einen einfach wegen der hohen Qualität und des einzigartigen Geschmacks unserer selbsterzeugten Lebensmittel, zum anderen macht uns die Arbeit in\/mit der Natur und die nachhaltige Bewirtschaftung unserer Felder große Freude“,<\/em> erklärt uns Leonhard.<\/p><p>Sohn Alexander ergänzt noch: <em>„Wir möchten unseren nachfolgenden Generationen einen gesunden Boden hinterlassen, deshalb macht die viele Handarbeit auch Freude.“<\/em><\/p><p><\/p><p><strong>Zusammenarbeit mit Barnhouse seit 2019<\/strong><\/p><p><em>„Wir sind erst seit 2019 Lieferant und haben daher wenig <br\/>Erfahrung mit Barnhouse. Wir schätzen die Zuverlässigkeit bei Barnhouse <br\/>und die regionale Nähe. Besonders erfreulich ist, dass unser Getreide <br\/>bei Barnhouse zu so hochwertigen Nahrungsmitteln verarbeitet wird.“<\/em><\/p>",
+            "text_size": "typeset",
+            "secondary_color": false
+          }
+        },
+        "bcb05e00-dfcf-4121-bd8d-95bb0195e520": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "44171a61-94a6-47df-8418-60a8b3041342",
+        "0513669f-347f-46ef-bff4-b9240b998fed",
+        "bcb05e00-dfcf-4121-bd8d-95bb0195e520"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "6d7ad6f2-8095-45a7-b675-5eb5f859973c",
+    "5a137f94-be97-4df6-b8f8-a01dba059c07",
+    "e07bb90d-e898-402f-abff-204c11848635",
+    "bda38ce2-ecf0-4cbb-a8a8-cc845170af9b"
+  ]
+}

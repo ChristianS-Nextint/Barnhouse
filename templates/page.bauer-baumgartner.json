@@ -1,0 +1,236 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5": {
+      "type": "collage",
+      "blocks": {
+        "51d54030-758a-4c30-97e9-d3e37eee4a07": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Baumgartner_5.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Baumgartner_2.jpg",
+            "heading": "",
+            "link": ""
+          }
+        },
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Baumgartner_4.jpg",
+            "heading": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "51d54030-758a-4c30-97e9-d3e37eee4a07",
+        "a4be5cc8-8c88-489b-9c1d-00992d3aedc6",
+        "9d5e4c29-0a7b-4a19-ad2e-0cc1c5a60ff4"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Georg Baumgartner – Freising",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Der Pullinger Hof in Freising wurde in den 1920er Jahren von Georg Baumgarters Großvater gegründet und 1996 von ihm übernommen. Gemeinsam <br\/>mit seiner Frau Lydia bewirtschaftet Georg den 22 ha großen Betrieb im Vollerwerb. Bei ihrer Arbeit auf dem Hof können beide auf eine landwirtschaftliche Ausbildung zurückgreifen und ihr Wissen sowohl in den Ackerbau als auch die Tierhaltung stecken.<\/p><p>Neben Dinkel und Hafer für Barnhouse baut die Familie auch <br\/>Winterweizen, Triticale, Wintergerste, Luzelle, Wintererbsen und Buchweizen an. Zudem kümmern sich Georg und Lydia auch um ihre ca. 300 <br\/>Legehennen und führen einen eigenen Hofladen, der täglich geöffnet ist.<\/p><p>Mit der Übernahme des Hofes kam auch die Umstellung auf bio. „<em>Es ist mir wichtig, im Einklang mit der Natur zu arbeiten. Der Einsatz von Chemie und sonstigem zeigt ja immer wieder seine Spuren in Boden, Wasser und in der Luft. Das wollte ich seit jeher schon vermeiden“<\/em>, erklärt der <strong>Bioland\/ Tagwerk<\/strong>-Landwirt.<\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-0",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-1",
+        "template--18839886168400__f28009b3-6692-4b56-95a4-84c46a4bcf99-168240799027261a8c-2"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "96155f65-a95b-4f0e-957b-8b06616eca35": {
+      "type": "gallery",
+      "blocks": {
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Baumgartner_1.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Baumgartner_3.jpg",
+            "image_position": "80% 50%",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        },
+        "c36ace06-011a-414a-8489-b64f485c323c": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Barnhouse_Bauer_Baumgartner_6.jpg",
+            "image_position": "center center",
+            "subheading": "",
+            "subheading_size": "h5",
+            "heading": "",
+            "heading_size": "h3",
+            "link": "",
+            "text_box_position": "bottom-left"
+          }
+        }
+      },
+      "block_order": [
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-0",
+        "template--18839886168400__96155f65-a95b-4f0e-957b-8b06616eca35-1682335993ee011c79-1",
+        "c36ace06-011a-414a-8489-b64f485c323c"
+      ],
+      "settings": {
+        "per_row": 4,
+        "spacing_images": 18,
+        "image_height": 390,
+        "apply_overlay": true,
+        "full_width": false,
+        "show_divider": false,
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "left",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "mobile_image_height": 160,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "069fbe76-4a6a-4cbd-aa09-27896e76f3af": {
+      "type": "rich-text",
+      "blocks": {
+        "9c570a56-043a-4954-8860-75f080762f7d": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "41a93c73-a7a2-4e10-93e0-7c026c1d1600": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>„Auf meinem Betrieb habe ich die Möglichkeit viele Faktoren <br\/>einzubeziehen: Vorhandene Bodenbeschaffenheit zu sehen und zu fühlen, entsprechende Bearbeitung der einzelnen Kulturen. Wetter, Mondzyklus <br\/>fließen ebenso in die Arbeit ein als auch gezielte Fruchtfolge. Daraus <br\/>ergibt sich eine gute Ernte und die Gesunderhaltung des Bodens“,<\/em> erläutert uns Georg seine Arbeit.<\/p><p>Dabei ist es im wichtig vorhandene Ressourcen zu verwerten und ebenso Kunst, Musik und Liebe in die Arbeit mit einfließen zu lassen. <em>„Also das Paradies auf Erden“<\/em>, wie Georg es nennt.<\/p><p>Auch die Zusammenarbeit mit uns ist dem Landwirt wichtig: <em>„Ich sehe die Bemühungen des Unternehmens, sich der Nachhaltigkeit und der <br\/>bio-regionalen Verbindung von Erzeuger, Verarbeiter und Verbraucher zu stellen und eine gute Kooperation zwischen allen Beteiligten herzustellen. Ein Dank an alle, die sich die sich für diese gute Sache einsetzen!“<\/em><\/p>",
+            "text_size": "typeset2",
+            "secondary_color": false
+          }
+        },
+        "f103883e-3d9e-473b-956f-42be9be7a47c": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_size": "medium",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "9c570a56-043a-4954-8860-75f080762f7d",
+        "41a93c73-a7a2-4e10-93e0-7c026c1d1600",
+        "f103883e-3d9e-473b-956f-42be9be7a47c"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "center",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "b8269a6b-4deb-4a69-a612-2f8118e184a5",
+    "f28009b3-6692-4b56-95a4-84c46a4bcf99",
+    "96155f65-a95b-4f0e-957b-8b06616eca35",
+    "069fbe76-4a6a-4cbd-aa09-27896e76f3af"
+  ]
+}

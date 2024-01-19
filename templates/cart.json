@@ -1,0 +1,113 @@
+{
+  "sections": {
+    "cart-items": {
+      "type": "main-cart-items",
+      "settings": {
+        "show_vendor": false,
+        "padding_top": 60,
+        "padding_bottom": 0
+      }
+    },
+    "168475580970771866": {
+      "type": "apps",
+      "blocks": {
+        "05d6761b-a20f-4f69-b8a9-b440566c4a38": {
+          "type": "shopify:\/\/apps\/order-limits-minmaxify\/blocks\/cart-errors-display\/3acfba32-89f3-4377-ae20-cbb9abc48475",
+          "settings": {
+            "font_weight": "normal",
+            "color": "#202223",
+            "bg_color": "linear-gradient(90deg, rgba(255, 244, 244, 1), rgba(255, 244, 244, 1) 50%, rgba(255, 250, 250, 1) 100%)",
+            "border_color": "#e0b3b2",
+            "margin": 5,
+            "padding": 15
+          }
+        }
+      },
+      "block_order": [
+        "05d6761b-a20f-4f69-b8a9-b440566c4a38"
+      ],
+      "custom_css": [
+        ".minmaxify-cart-limits-body {text-align: right;}",
+        ".minmaxify-cart-limits-body li {list-style: none;}"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "cart-footer": {
+      "type": "main-cart-footer",
+      "blocks": {
+        "subtotal": {
+          "type": "subtotal",
+          "settings": {
+          }
+        },
+        "buttons": {
+          "type": "buttons",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "subtotal",
+        "buttons"
+      ],
+      "custom_css": [
+        "ul.discounts.list-unstyled {display: none;}",
+        "div#cart-errors {display: none;}"
+      ],
+      "settings": {
+        "show_cart_note": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "shipping-calculator": {
+      "type": "shipping-calculator",
+      "disabled": true,
+      "settings": {
+        "default_country": "United States",
+        "secondary_background": false,
+        "heading": "Estimate Shipping",
+        "heading_size": "h3",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "cart-recommendations": {
+      "type": "cart-recommendations",
+      "settings": {
+        "show_divider": false,
+        "heading": "Das könnte dir auch schmecken",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "image_ratio": "adapt",
+        "image_position": "center center",
+        "enable_image_fill": true,
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "show_quick_buy": true,
+        "enable_quick_view": true,
+        "enable_color_swatches": false,
+        "enable_countdown": false,
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    }
+  },
+  "order": [
+    "cart-items",
+    "168475580970771866",
+    "cart-footer",
+    "shipping-calculator",
+    "cart-recommendations"
+  ]
+}
